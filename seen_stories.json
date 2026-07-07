@@ -1,250 +1,1359 @@
 {
   "stories": [
-    { "date": "2026-06-26", "section": "world_news", "headline": "Venezuela hit by twin 7.2/7.5-magnitude earthquakes (June 24-25), 200+ dead, Trump pledges US aid" },
-    { "date": "2026-06-26", "section": "world_news", "headline": "Trump cancels signing of bipartisan affordable-housing bill, demands SAVE America Act first" },
-    { "date": "2026-06-26", "section": "world_news", "headline": "Strait of Hormuz vessel traffic doubles as shipping tests US-Iran de-escalation deal, oil falls" },
-    { "date": "2026-06-26", "section": "macro", "headline": "US Q1 2026 GDP final revised up to 2.1% annualized" },
-    { "date": "2026-06-26", "section": "macro", "headline": "May core PCE inflation 3.4% y/y, hottest since 2023, reinforces Fed hawkish tilt under Chair Kevin Warsh" },
-    { "date": "2026-06-26", "section": "macro", "headline": "FOMC June dot plot shows median 2026 year-end rate 3.8%, up from 3.4% in March" },
-    { "date": "2026-06-26", "section": "macro", "headline": "US 10Y Treasury eases to ~4.40-4.45%, German 10Y Bund ~2.85%" },
-    { "date": "2026-06-26", "section": "fx", "headline": "EUR/USD near 13-month lows on Fed-ECB policy gap widening" },
-    { "date": "2026-06-26", "section": "fx", "headline": "USD/JPY pinned near weakest since 1986, 162 seen as BoJ intervention trigger level" },
-    { "date": "2026-06-26", "section": "equities", "headline": "Apple -6.1% on MacBook/iPad price hikes tied to AI memory chip cost surge" },
-    { "date": "2026-06-26", "section": "equities", "headline": "Micron +15.8% on blowout Q3 earnings (EPS $25.11 vs $20.78 est, revenue +346% YoY) on AI memory demand" },
-    { "date": "2026-06-26", "section": "equities", "headline": "Qualcomm +9% after nearly doubling 2029 non-handset revenue guidance to $40B" },
-    { "date": "2026-06-26", "section": "equities", "headline": "Asia chip stocks sell off (SoftBank -13%, Samsung -7%, SK Hynix -9%, Advantest -10%) on AI infrastructure cost concerns" },
-    { "date": "2026-06-26", "section": "equities", "headline": "Nikkei 225 closes -4.15% on AI-cost-concern sell-off, Kospi -5.81% same session" },
-    { "date": "2026-06-26", "section": "equities", "headline": "Caterpillar +5-6% on record AI data-center backup-power backlog and dividend hike" },
-    { "date": "2026-06-26", "section": "nordics", "headline": "Nokia +2.3% on AWS/Databricks partnership news, Nordea hikes price target to EUR15.70" },
-    { "date": "2026-06-26", "section": "nordics", "headline": "H&M six-month report: Q2 net sales SEK 54.8bn, op profit ex-items +11%, Barclays raises PT" },
-    { "date": "2026-06-26", "section": "nordics", "headline": "Sampo +0.74% on Kepler Cheuvreux Buy reiteration" },
-    { "date": "2026-06-26", "section": "nordics", "headline": "Nordea -1.3%, pullback after a strong run" },
-    { "date": "2026-06-26", "section": "nordics", "headline": "SEB upgrades Indutrade to Buy; Two Sigma discloses 0.52% short position against Evolution; Wingefors increases Storytel stake" },
-    { "date": "2026-06-26", "section": "ma", "headline": "Merck KGaA agrees to acquire Bio-Techne for $11.3B all-cash (~36% premium)" },
-    { "date": "2026-06-26", "section": "ma", "headline": "Bain Capital acquires 51% stake in Everllence (ex-MAN Energy) from Volkswagen for EUR7.4-9bn, beating CVC and EQT" },
-    { "date": "2026-06-26", "section": "ma", "headline": "NuCube Energy to go public via SPAC merger with Launch Two Acquisition Corp (~$500M pre-money)" },
-    { "date": "2026-06-26", "section": "ipo", "headline": "Lime (Neutron Holdings) IPO prices June 30, Nasdaq debut July 1, range $24-26" },
-    { "date": "2026-06-26", "section": "ipo", "headline": "Bending Spoons targets July 1 Nasdaq listing, ~$1.6B gross proceeds at midpoint" },
-    { "date": "2026-06-26", "section": "sport", "headline": "World Cup 2026 group stage concludes: South Africa beats South Korea 1-0 for first-ever knockout berth; Morocco comes back to beat Haiti 4-2" },
-    { "date": "2026-06-26", "section": "sport", "headline": "F1 Austrian GP weekend opens at Red Bull Ring, Antonelli leads standings" },
-    { "date": "2026-06-26", "section": "sport", "headline": "Wimbledon qualifying wraps at Roehampton, Faria/Zheng/Tarvet through to main draw" },
-    { "date": "2026-06-26", "section": "gossip", "headline": "Zoe Kravitz shows engagement ring from fiance Harry Styles in London" },
-    { "date": "2026-06-26", "section": "gossip", "headline": "Dolly Parton makes rare public appearance a month after canceling Vegas residency" },
-    { "date": "2026-06-27", "section": "world_news", "headline": "Iranian drone strikes cargo ship Ever Lovely near Oman; US retaliates with airstrikes on 4 Iranian coastal targets; IRGC claims counter-strikes on US positions in the region" },
-    { "date": "2026-06-27", "section": "world_news", "headline": "Venezuela earthquake death toll surges to 920 (from 200+), 3,300+ injured, 172 still trapped; first US search-and-rescue teams land, $150M aid mobilized" },
-    { "date": "2026-06-27", "section": "macro", "headline": "May headline PCE inflation accelerates to 4.1% y/y (from 3.8%), hottest since April 2023, energy-driven; core PCE holds at 3.4%" },
-    { "date": "2026-06-27", "section": "macro", "headline": "Minneapolis Fed's Kashkari says he has one rate hike penciled in for 2026" },
-    { "date": "2026-06-27", "section": "macro", "headline": "ECB Forum on Central Banking (Sintra) opens Monday June 29, Warsh/Lagarde/Macklem to share a panel" },
-    { "date": "2026-06-27", "section": "equities", "headline": "Friday June 26 closes: S&P 500 -0.05% to 7,354.02, Nasdaq -0.24% to 25,297.62 (5th straight losing day), Dow -0.09%, FTSE -0.21%, DAX +1.29%" },
-    { "date": "2026-06-27", "section": "equities", "headline": "OpenAI reportedly considering delaying IPO to 2027 (NYT), citing SpaceX's post-IPO slump; cited as driver of Nasdaq weakness" },
-    { "date": "2026-06-27", "section": "equities", "headline": "Oil falls: WTI -3.74% to $69.23 (lowest since Feb 27), Brent -4.34% to $71.99, despite Hormuz drone attack" },
-    { "date": "2026-06-27", "section": "equities", "headline": "Crypto slides into weekend: BTC ~$60,149 (-5.6% wk), ETH ~$1,556 (-8.2% wk)" },
-    { "date": "2026-06-27", "section": "nordics", "headline": "Nordea Markets resumes coverage of Nordnet with Buy rating, PT SEK 440" },
-    { "date": "2026-06-27", "section": "nordics", "headline": "Volvo Autonomous Solutions + Waabi: AI virtual driver transferred to VNL Autonomous trucks with zero retraining" },
-    { "date": "2026-06-27", "section": "stocks", "headline": "SELLAS Life Sciences +13% on amended exec severance terms, buyout speculation, short interest at all-time high ~33% of float" },
-    { "date": "2026-06-27", "section": "stocks", "headline": "PVH Corp downgraded to Underperform by BofA, PT cut to $70 from $90, on EMEA exposure concerns" },
-    { "date": "2026-06-27", "section": "stocks", "headline": "SL Green Realty: large block of $45 puts sold ahead of Q2 earnings, bullish/income signal" },
-    { "date": "2026-06-27", "section": "ipo", "headline": "Sinda Ltd (SIND) IPO priced at $12 (below range), raised $213M, opened below offer price on NYSE debut" },
-    { "date": "2026-06-27", "section": "sport", "headline": "World Cup 2026 final group-stage matchday: France 4-1 Norway (Dembele hat-trick), Spain 1-0 Uruguay (Uruguay eliminated), Senegal 5-0 Iraq, Cape Verde 0-0 Saudi Arabia" },
-    { "date": "2026-06-27", "section": "sport", "headline": "F1 Austrian GP Friday practice: Antonelli tops FP1/FP2; Verstappen, Hadjar, Norris hit reliability issues" },
-    { "date": "2026-06-27", "section": "gossip", "headline": "Tom Sandoval restraining-order scandal: video appears to show him shoving ex's father into a fire pit" },
-    { "date": "2026-06-27", "section": "gossip", "headline": "Taylor Swift/Travis Kelce wedding buzz: surprise New Heights podcast appearance, wedding stage reportedly being built at Rock Lititz PA for rumored July 3 MSG wedding" },
-    { "date": "2026-06-27", "section": "gossip", "headline": "BET Awards 2026 (airs June 28): Cardi B leads with 6 nominations, Lauryn Hill gets inaugural Living Legend Icon Award" },
-    { "date": "2026-06-28", "section": "world_news", "headline": "Iran/US conflict escalates: Iran drone-strikes tanker M/T Kiku, US hits more Iranian targets, IRGC claims missile/drone attacks on US Fifth Fleet HQ (Bahrain) and Ali Al Salem air base (Kuwait); Strait of Hormuz traffic collapses to ~5 ships/day from ~93/day" },
-    { "date": "2026-06-28", "section": "world_news", "headline": "Venezuela earthquake death toll surges to 1,430 (from 920), 3,200+ injured, 430+ aftershocks complicating rescue" },
-    { "date": "2026-06-28", "section": "macro", "headline": "US Supreme Court could rule as soon as Monday June 29 on whether Trump can fire Fed Governor Lisa Cook, ahead of Warsh's first Sintra appearance" },
-    { "date": "2026-06-28", "section": "macro", "headline": "ECB Forum on Central Banking (Sintra) opens Monday June 29; Lagarde welcome remarks evening, Warsh/Lagarde/Bailey/Macklem joint panel later in the week" },
-    { "date": "2026-06-28", "section": "equities", "headline": "Samsung set to unveil ~$720B 10-year investment plan (chips, AI data centers, batteries, robotics) Monday at Korea's 'Great Leap' summit, after Friday's AI-cost-driven Asia chip selloff" },
-    { "date": "2026-06-28", "section": "equities", "headline": "Crypto weekend: BTC ~$60,000-60,150, ETH ~$1,570, slide has flattened vs Friday; Fear & Greed Index at 24 (Extreme Fear)" },
-    { "date": "2026-06-28", "section": "stocks", "headline": "Friday movers: FuboTV +22.5% (short squeeze, 24.8% short interest), Hecla Mining +2.6% (record silver ~$59/oz), Snowflake +9.65% (34% product rev growth)" },
-    { "date": "2026-06-28", "section": "ipo", "headline": "ITG (~$429M raise) and CopperTech Metals (Vedanta copper spin-off, ~$424M raise) added to June 30 IPO pricing calendar alongside Lime and Bending Spoons" },
-    { "date": "2026-06-28", "section": "ma", "headline": "Elroy Air (autonomous cargo drones) to go public via SPAC merger with Columbus Circle Capital Corp II at $961M enterprise value" },
-    { "date": "2026-06-28", "section": "ma", "headline": "Akzo Nobel/Axalta merger-of-equals: shareholder circular released, EGM set for Aug 5" },
-    { "date": "2026-06-28", "section": "sport", "headline": "F1 Austrian GP: Lando Norris wins from P6 (3rd win of season); Russell took chaotic pole Saturday after late Verstappen Q3 crash" },
-    { "date": "2026-06-28", "section": "sport", "headline": "World Cup 2026 group stage concludes (Colombia 0-0 Portugal, DR Congo 3-1 Uzbekistan, England 2-0 Panama, Croatia 2-1 Ghana); new Round-of-32 knockout format kicks off with Canada vs South Africa" },
-    { "date": "2026-06-28", "section": "sport", "headline": "Wimbledon: defending 2x champion Carlos Alcaraz withdraws with right wrist injury; Sinner #1 seed men's, Sabalenka #1 women's" },
-    { "date": "2026-06-28", "section": "gossip", "headline": "Taylor Swift/Travis Kelce: permit reportedly filed for Madison Square Garden event July 3, street closures planned July 2-4" },
-    { "date": "2026-06-28", "section": "gossip", "headline": "BET Awards 2026 pre-show: Lauryn Hill gets Living Legend Icon Award, Teyana Taylor named Icon of the Year, Sylvia Rhone gets Ultimate Icon Award" },
-    { "date": "2026-06-29", "section": "world_news", "headline": "Three firefighters killed battling wildfires on Colorado-Utah border" },
-    { "date": "2026-06-29", "section": "world_news", "headline": "Iran's IRGC drone-strikes cargo ship Ever Lovely near Oman, threatens to halt US talks; Doha-mediated de-escalation talks reportedly being arranged" },
-    { "date": "2026-06-29", "section": "world_news", "headline": "Venezuela earthquake death toll rises to ~1,450 (from 1,430), 68,900 reported missing by families, 72-hour rescue window passes; 33 pulled alive over the weekend" },
-    { "date": "2026-06-29", "section": "macro", "headline": "ECB Forum on Central Banking (Sintra) opens June 29, Lagarde welcome dinner ~22:00 EEST; Warsh's debut panel with Lagarde/Bailey/Macklem confirmed for Wed July 1" },
-    { "date": "2026-06-29", "section": "macro", "headline": "US Supreme Court has not yet ruled on Trump v. Cook (Fed Governor Lisa Cook firing case) as of June 29" },
-    { "date": "2026-06-29", "section": "fx", "headline": "USD/JPY flat ~161.7-161.8, pinned just under 162 BoJ/MOF intervention trigger level; no FX moves >0.3% confirmed" },
-    { "date": "2026-06-29", "section": "equities", "headline": "Samsung unveils bigger-than-expected $1.3T (2,000 trillion won) 10-year investment plan at Korea 'Great Leap' summit; markets sell the news - KOSPI -1.5/-3%, Samsung -3.7/-5%, SK Hynix -1.8/-3%, KOSDAQ +6.99%, Nikkei -1.3% to ~68,455" },
-    { "date": "2026-06-29", "section": "equities", "headline": "Crypto Fear & Greed Index sinks to cycle-low 17-18 (Extreme Fear) while BTC holds ~$60,000-60,300 flat" },
-    { "date": "2026-06-29", "section": "nordics", "headline": "Nokia US ADR fell -7.6% Friday June 26 on profit-taking after 158% YoY AI-driven rally (P/E >88x)" },
-    { "date": "2026-06-29", "section": "nordics", "headline": "OMX Helsinki 25 closed Friday at 6,137 (-1.29%), OMX Stockholm 30 closed ~3,154 (-0.86%)" },
-    { "date": "2026-06-29", "section": "stocks", "headline": "BioLife Solutions (BLFS) +8% after-hours on confirmed buyout interest from multiple parties incl. Repligen" },
-    { "date": "2026-06-29", "section": "stocks", "headline": "Triller Group (ILLR) short-squeeze stock +300-400% then +42% Friday (+187% week) on SpaceX-treasury-exposure deal; negative equity, ~$5M revenue vs ~$32M net loss" },
-    { "date": "2026-06-29", "section": "ipo", "headline": "Bending Spoons firms IPO terms: 58M shares at $26-28, ~$19B valuation, ticker BSP, up to $1.62B raise, Q1 turned profitable; Lime/ITG/CopperTech Metals (CUX) also pricing Tue June 30 night" },
-    { "date": "2026-06-29", "section": "ma", "headline": "Select Medical Holdings shareholders approve $3.9B take-private by Ortenzio/Jackson/Welsh Carson consortium at $16.50/share cash" },
-    { "date": "2026-06-29", "section": "sport", "headline": "Wimbledon 2026 begins June 29: Sinner vs Kecmanovic, Sabalenka vs Kostovic, Djokovic vs Wu on Centre Court; withdrawal list grows to 13 players (Rune, Opelka join Alcaraz)" },
-    { "date": "2026-06-29", "section": "sport", "headline": "World Cup 2026 Round of 32 continues: Brazil-Japan, Germany-Paraguay, Netherlands-Morocco scheduled June 29-30" },
-    { "date": "2026-06-29", "section": "gossip", "headline": "Taylor Swift/Travis Kelce wedding buzz: two-day event reported (intimate ~100-guest Jul 2, ~1,000-guest MSG event Jul 3), rumored performers incl. Stevie Nicks, unconfirmed FBI security involvement" },
-    { "date": "2026-06-29", "section": "gossip", "headline": "BET Awards 2026 aftermath: Janet Jackson's surprise tearful presentation of Teyana Taylor's Icon of the Year award" },
-    { "date": "2026-06-30", "section": "macro", "headline": "Supreme Court rules 5-4 Trump cannot fire Fed Governor Lisa Cook while litigation proceeds; expands presidential power over other independent agencies" },
-    { "date": "2026-06-30", "section": "world_news", "headline": "Trump claims US-Iran meeting happening in Doha today (Witkoff/Kushner attending); Tehran denies any talks scheduled, says only technical delegation discussing frozen funds" },
-    { "date": "2026-06-30", "section": "world_news", "headline": "Venezuela earthquake death toll rises to 1,719 (from 1,450), ~5,000 injured, ~46,600 still reported missing" },
-    { "date": "2026-06-30", "section": "world_news", "headline": "Pilatus PC-6 skydiving plane crash in northeastern France kills all 11 aboard (pilot + 10 jumpers)" },
-    { "date": "2026-06-30", "section": "world_news", "headline": "South Africa June 30 anti-migrant 'deadline' (set by March and March group) sparks mass exodus; 13,000+ foreign nationals repatriated/deported in past fortnight; govt calls deadline fake, police leave cancelled nationwide" },
-    { "date": "2026-06-30", "section": "world_news", "headline": "US Supreme Court rules 5-4 that states may count mail-in ballots received after Election Day if postmarked on time" },
-    { "date": "2026-06-30", "section": "macro", "headline": "ECB's Lagarde Sintra opening speech: ECB 'can raise rates to address inflation without fear,' but signals measured (not jumbo) hikes ahead" },
-    { "date": "2026-06-30", "section": "equities", "headline": "Monday close: S&P 500 +1.18% to 7,440.43, Nasdaq +2.07% to 25,820.14, Dow +0.59% to 52,182.74 (first close above 52,000) on Alphabet's Dow debut replacing Verizon" },
-    { "date": "2026-06-30", "section": "equities", "headline": "Monday movers: Alphabet +4.96% (Dow inclusion), Tesla +8.45%, Amazon +3.18%, Meta +2.2%, Verizon -5.24% (Dow removal)" },
-    { "date": "2026-06-30", "section": "ipo", "headline": "Lime (LIME, $24-26 range) and Bending Spoons (BSP, $26-28, ~$18.8B EV, up to $1.62B raise) price tonight alongside ITG and CopperTech Metals (CUX)" },
-    { "date": "2026-06-30", "section": "ma", "headline": "Bridgepoint agrees to acquire Kayne Anderson Real Estate for $1.39B" },
-    { "date": "2026-06-30", "section": "sport", "headline": "World Cup 2026 Round of 32: Brazil 2-1 Japan, Paraguay beat Germany 4-3 on penalties (1-1 draw), Morocco beat Netherlands on penalties (1-1 draw)" },
-    { "date": "2026-06-30", "section": "gossip", "headline": "Taylor Swift/Travis Kelce wedding invitations reportedly individually watermarked to prevent leaks ahead of rumored July 3 MSG event" },
-    { "date": "2026-06-30", "section": "gossip", "headline": "Kevin Spacey says he feels 'much more welcomed' in Hollywood again, on Bill Maher's Club Random podcast" },
-    { "date": "2026-07-01", "section": "world_news", "headline": "Supreme Court 6-3 strikes down Trump birthright citizenship EO; Roberts + Barrett join liberals, Kavanaugh concurs on outcome only" },
-    { "date": "2026-07-01", "section": "world_news", "headline": "US-Iran Doha talks: Witkoff/Kushner in Qatar overnight; technical talks via Qatar-Pakistan mediation continue; Iran refuses direct high-level meeting" },
-    { "date": "2026-07-01", "section": "world_news", "headline": "Venezuela earthquake death toll rises to ~1,943 (from 1,719); 43,200 missing; USGS PAGER warns final toll may exceed 100,000" },
-    { "date": "2026-07-01", "section": "world_news", "headline": "One Big Beautiful Bill: SAVE/ICR/PAYE federal student loan plans cease operation July 1; graduate borrowing caps take effect" },
-    { "date": "2026-07-01", "section": "macro", "headline": "ECB Sintra Day 3 (final): Warsh-Lagarde-Bailey-Macklem panel at 16:00 EEST; BofA forecasts 3 Fed hikes to 4.25-4.50%" },
-    { "date": "2026-07-01", "section": "macro", "headline": "Q2 2026 closes: S&P 500 +14%, Nasdaq +20%, Dow +12% for the quarter" },
-    { "date": "2026-07-01", "section": "macro", "headline": "ISM Manufacturing PMI (June) due 17:00 EEST; prev 54.0 (5-year high); consensus ~49.5-52.0, contraction risk flagged" },
-    { "date": "2026-07-01", "section": "fx", "headline": "USD/JPY breaches 162 BoJ intervention trigger to 162.69 (40-year high); no official BoJ/MoF response yet" },
-    { "date": "2026-07-01", "section": "equities", "headline": "Tuesday morning: S&P 500 +0.79%, Nasdaq +1.38%, Dow +0.32% (~record 52,319); Bending Spoons (BSP) and Lime (LIME) Nasdaq debuts" },
-    { "date": "2026-07-01", "section": "equities", "headline": "Nikkei 225 -1.3% on USD/JPY 162 breach and Samsung/chip hangover; KOSPI weak, Samsung -3-5%" },
-    { "date": "2026-07-01", "section": "nordics", "headline": "Nokia (NOKIA.HE) +4.0% to €11.66 in Helsinki morning; accounts for ~40% of OMX Helsinki 25 move; Q2 earnings due July 23" },
-    { "date": "2026-07-01", "section": "nordics", "headline": "Sampo +0.73% to €9.11; OMX Helsinki 25 prior close 6,137; OMX Stockholm 30 prior close ~3,154" },
-    { "date": "2026-07-01", "section": "stocks", "headline": "Bending Spoons (BSP) Nasdaq debut: priced $29 (above $26-28 range), ~$20bn EV; Lime (LIME) debut at $24" },
-    { "date": "2026-07-01", "section": "ma", "headline": "Safran enters exclusive negotiations to acquire Exail Technologies (maritime drones) at €128.50/share (~€2.2bn)" },
-    { "date": "2026-07-01", "section": "ma", "headline": "Qualcomm acquires Modular for ~$4bn (AI compute stack); Adobe acquires Topaz Labs (AI image/video enhancement)" },
-    { "date": "2026-07-01", "section": "sport", "headline": "World Cup 2026 R32: France 3-0 Sweden (Mbappé x2, Barcola); Belgium vs Senegal, USA vs Bosnia, England vs Congo DR scheduled later today" },
-    { "date": "2026-07-01", "section": "sport", "headline": "Wimbledon Day 2: Serena Williams beaten R1 by Maya Joint (AUS) 6-3 6-7(6) 6-3 in first singles match in 4 years; Wawrinka exits (Berrettini) in likely last Wimbledon" },
-    { "date": "2026-07-01", "section": "gossip", "headline": "Taylor Swift/Travis Kelce wedding reportedly going ahead July 3 at MSG; ~1,000 guests, watermarked invites, Stevie Nicks rumoured performer; streets close July 2-4" },
-    { "date": "2026-07-02", "section": "world_news", "headline": "ECB Sintra Forum concludes: Warsh, Lagarde, Bailey, Macklem formally abandon forward guidance across G4+; Warsh 'prices too high'; Bailey flags 2 more BoE hikes possible" },
-    { "date": "2026-07-02", "section": "world_news", "headline": "Israel strikes Hezbollah in southern Lebanon (IDF confirmed) — most significant action since November 2025 ceasefire; Lebanon PM calls for UNSC action" },
-    { "date": "2026-07-02", "section": "world_news", "headline": "Starmer-Merz sign updated Trinity House Agreement: expanded UK-Germany defence cooperation, joint long-range missile procurement + bilateral intelligence-sharing" },
-    { "date": "2026-07-02", "section": "world_news", "headline": "Germany-US domestic weapons production partnership reported; Rheinmetall +6.1%, Renk +4.7%, Hensoldt +4.4% on news" },
-    { "date": "2026-07-02", "section": "world_news", "headline": "DOGE wave 2: EPA, Education, HHS cut ~14,500 jobs July 1; SAVE/ICR/PAYE student loan programs terminated, ~8M borrowers affected" },
-    { "date": "2026-07-02", "section": "world_news", "headline": "Venezuela earthquake death toll rises to 2,295 (from 1,943); Maduro declares 30-day national emergency; UNOCHA activates L3 emergency response; 5.1 aftershock July 1" },
-    { "date": "2026-07-02", "section": "world_news", "headline": "US-Iran Doha talks: Witkoff/Kushner met Qatari Emir; Strait traffic recovering to ~35 transits/24h; nuclear phase now being teed up; Vance: 'talks going well'" },
-    { "date": "2026-07-02", "section": "macro", "headline": "ISM Manufacturing PMI June: 53.3% (beat vs 49.5-52.0% consensus); Prices Paid 73.0% (-9.1pp, biggest drop since July 2022 but still elevated); 20th straight month of expansion" },
-    { "date": "2026-07-02", "section": "macro", "headline": "ADP private payrolls June: 98k (miss vs ~113k consensus, vs 122k May); manufacturing shed jobs; sets downside risk for NFP" },
-    { "date": "2026-07-02", "section": "macro", "headline": "US 10Y ~4.48%, German Bund 10Y ~2.85%, UK Gilt elevated post-Bailey Sintra hawkish comments; Fed Sep hike probability ~70%" },
-    { "date": "2026-07-02", "section": "fx", "headline": "USD/JPY 162.56 (+0.39%), 40-year yen low; MoF Mimura: 'This is our final evacuation warning to markets'; no actual intervention; BoJ July 23 hike (+25bp to 1.00%) now consensus" },
-    { "date": "2026-07-02", "section": "fx", "headline": "GBP/USD 1.2934 (+0.45%), 3-month sterling high on Bailey Sintra comments flagging 2 more BoE hikes possible" },
-    { "date": "2026-07-02", "section": "equities", "headline": "July 1 closes (Q2 end, best quarter since 2020): S&P 500 +0.79% to 7,499; Nasdaq +1.52% to 26,213; Dow +0.26% to 52,319 (record)" },
-    { "date": "2026-07-02", "section": "equities", "headline": "Bending Spoons (BSP) IPO debut: priced $29 (above $26-28 range), closed ~$40 (+38-40%); $20B market cap; CEO rang Nasdaq bell" },
-    { "date": "2026-07-02", "section": "equities", "headline": "Lime (LIME) IPO debut: priced $25 (mid-point), +8% on debut; $1.73B market cap; Uber-backed e-scooter operator" },
-    { "date": "2026-07-02", "section": "equities", "headline": "SanDisk (SNDK) +10.9% July 1 on 251% revenue growth from AI data-centre NAND storage demand" },
-    { "date": "2026-07-02", "section": "equities", "headline": "Nike (NKE) -2% July 1: beat EPS via tariff refund but China sales -12% YoY" },
-    { "date": "2026-07-02", "section": "equities", "headline": "July 2 early: Nikkei +0.87% (~70,671) on yen tailwind; DAX +0.18% led by defence; Bloom Energy (BE) +8% premarket on Brookfield AI-power partnership" },
-    { "date": "2026-07-02", "section": "nordics", "headline": "OMXH25 6,204 (+1.09%), OMXS30 ~3,181 (+0.86%) July 1; Nokia €11.66 (+4.0%), YTD +105%; Q2 earnings July 23" },
-    { "date": "2026-07-02", "section": "nordics", "headline": "Kindred Group (KIND.ST) +8-9%: FDJ (French national lottery) in advanced talks for SEK 155-165 cash offer (~€1.6-1.8B); stock ~SEK 128; no formal confirmation" },
-    { "date": "2026-07-02", "section": "nordics", "headline": "SCA announces €320M investment in bio-based packaging line at Östrand pulp mill (Timrå, Sweden); ~130 jobs, operational 2028" },
-    { "date": "2026-07-02", "section": "ma", "headline": "Etsy acquires Substack for $1.1B all-stock (July 1); pivot to 'creator commerce'; Substack brand and co-founders stay; Etsy +8.7%" },
-    { "date": "2026-07-02", "section": "ma", "headline": "Takeda acquires Aavid Biosciences for $4.2B cash; 47% premium; in-vivo CRISPR hemophilia A therapy Phase 2; Aavid +44%" },
-    { "date": "2026-07-02", "section": "ma", "headline": "Advent International acquires CACI International federal intelligence unit for $2.1B cash; CACI refocuses commercial tech; both boards approved July 1" },
-    { "date": "2026-07-02", "section": "ma", "headline": "Kindred Group / FDJ: FDJ in advanced talks for SEK 155-165 cash offer; if completed, biggest Nordic consumer-tech M&A of 2026" },
-    { "date": "2026-07-02", "section": "ipo", "headline": "Klarna IPO: NYSE, week of July 7; ~$20-22B valuation; biggest-ever EU fintech listing; Chime (Nasdaq wk Jul 7), Xflow/Flowserve (NYSE Jul 8), Cint re-listing (Stockholm Jul 10) also coming" },
-    { "date": "2026-07-02", "section": "sport", "headline": "World Cup R32 (July 1): England 2-1 Congo DR (Kane brace, Balogun red card misses R16); USA 2-0 Bosnia (scored+sent off, won with 10 men); Belgium 3-2 Senegal AET (Tielemans pen 124', reportedly latest WC winning goal ever)" },
-    { "date": "2026-07-02", "section": "sport", "headline": "Today July 2: Spain vs Austria (22:00 EEST), Portugal vs Croatia (02:00 Fri EEST), Switzerland vs Algeria (06:00 Fri EEST)" },
-    { "date": "2026-07-02", "section": "sport", "headline": "Wimbledon Day 3: Sinner d. Borges 7-6 7-6 6-4; Djokovic d. Tsitsipas 6-3 6-4 6-2; Sabalenka and Gauff through" },
-    { "date": "2026-07-02", "section": "sport", "headline": "F1: British GP at Silverstone July 3-5 (sprint weekend); Russell 40pts behind championship leader Antonelli at home race" },
-    { "date": "2026-07-02", "section": "gossip", "headline": "Taylor Swift/Travis Kelce wedding CONFIRMED by law enforcement source: July 3 at MSG; rehearsal dinner July 2 (~100 guests, MSG Infosys Theater); 1,100 guests Friday; NDAs with invites; streets closed July 2-4" },
-    { "date": "2026-07-02", "section": "gossip", "headline": "Zaire Wade (son of Dwyane Wade) arrested on domestic violence charges after neighbour 911 call" },
-    { "date": "2026-07-03", "section": "world_news", "headline": "June NFP +57,000 — massive miss vs 110,000 consensus; unemployment 4.2% but participation rate falls to 61.5%; prior months revised sharply lower" },
-    { "date": "2026-07-03", "section": "world_news", "headline": "US-Iran Doha talks pause for Khamenei state funeral July 4-9; Trump says 'positive progress'; talks expected to resume July 9" },
-    { "date": "2026-07-03", "section": "world_news", "headline": "Iran issues new Hormuz ultimatum: tankers must use IRGC-approved routes or face 'forceful response'" },
-    { "date": "2026-07-03", "section": "world_news", "headline": "Damascus bomb blast: IED in popular café kills 5 people" },
-    { "date": "2026-07-03", "section": "world_news", "headline": "Trump's new Qatar-donated Boeing 747 Air Force One takes inaugural flight ahead of presidential library debut" },
-    { "date": "2026-07-03", "section": "world_news", "headline": "Venezuela earthquake death toll rises to 2,595 (from 2,295); 50,000+ unaccounted; 862+ aftershocks since June 24" },
-    { "date": "2026-07-03", "section": "macro", "headline": "June NFP miss (+57k vs 110k) expected to sharply reduce Sep Fed rate-hike probability from ~70%; NFP avg past 12 months ~36k" },
-    { "date": "2026-07-03", "section": "macro", "headline": "Fed at 3.50-3.75%; Warsh at Sintra: 'inflation too high' but jobs miss complicates hawkish path" },
-    { "date": "2026-07-03", "section": "macro", "headline": "US markets closed July 3 (Independence Day holiday); US 10Y ~4.48%, German Bund 10Y ~2.85%" },
-    { "date": "2026-07-03", "section": "fx", "headline": "USD/JPY ~161-162, 40-year yen low; BoJ July 23 meeting: 25bp hike to 1.00% consensus; NFP miss may ease pair Monday" },
-    { "date": "2026-07-03", "section": "fx", "headline": "GBP/USD ~1.2934, 3-month sterling high on Bailey Sintra hawkish remarks (2 more BoE hikes flagged)" },
-    { "date": "2026-07-03", "section": "fx", "headline": "EUR/USD near 13-month lows; NFP miss expected to provide mild EUR recovery Monday" },
-    { "date": "2026-07-03", "section": "equities", "headline": "US markets closed July 3 (Independence Day). July 2 closes: S&P 500 -0.36% to 7,456; Nasdaq -1.15% to 25,740 on AI/chip valuation concerns; Dow at new all-time high" },
-    { "date": "2026-07-03", "section": "equities", "headline": "SpaceX (SPCX) -7.8% July 1-2: FAA adds SpaceX, Blue Origin, Rocket Lab, Virgin Galactic to prohibited-investment list for agency employees; Musk denied AI-equipment rumours" },
-    { "date": "2026-07-03", "section": "equities", "headline": "Bending Spoons (BSP) closed ~$40 on IPO debut (+38% from $29 offer price); $20B market cap" },
-    { "date": "2026-07-03", "section": "equities", "headline": "Lime (LIME) +2.3% to $26.70 post-IPO, $1.73B market cap; Nikkei 225 +0.87% to ~70,671; DAX +0.18%" },
-    { "date": "2026-07-03", "section": "nordics", "headline": "OMX Nordic 40 +1.32%; OMX Helsinki 15 +0.96%; Nordic Bank & Insurance index +1.55% on July 3" },
-    { "date": "2026-07-03", "section": "nordics", "headline": "Nokia near Nordea revised price target; insider buying noted; Q2 earnings July 23; YTD +105%" },
-    { "date": "2026-07-03", "section": "nordics", "headline": "Kindred Group (KIND.ST) FDJ advanced takeover at SEK 155-165/share; stock ~SEK 128; formal announcement still pending" },
-    { "date": "2026-07-03", "section": "stocks", "headline": "SpaceX (SPCX) post-IPO FAA volatility; premarket recovery +0.80% Thursday; key AI sentiment read when US reopens Monday" },
-    { "date": "2026-07-03", "section": "stocks", "headline": "Nokia Q2 earnings July 23 — key catalyst after 105% YTD run; insider buying flagged this week" },
-    { "date": "2026-07-03", "section": "sport", "headline": "World Cup R32: Spain 3-0 Austria (Oyarzabal x2, Porro header); Portugal 2-1 Croatia (Ramos 90+3', Ronaldo pen equaliser)" },
-    { "date": "2026-07-03", "section": "sport", "headline": "World Cup R32 July 3: Australia vs Egypt, Argentina vs Cape Verde, Colombia vs Ghana, Switzerland vs Algeria" },
-    { "date": "2026-07-03", "section": "sport", "headline": "F1 British GP Silverstone (sprint weekend): Sprint Qualifying 16:30 BST (18:30 EEST) July 3; Sprint Race Sat; Main GP Sun; Russell 40pts behind Antonelli" },
-    { "date": "2026-07-03", "section": "sport", "headline": "Wimbledon Day 5: Djokovic vs Rinderknech (3R); Sabalenka vs Ostapenko on Centre Court" },
-    { "date": "2026-07-03", "section": "gossip", "headline": "Taylor Swift/Travis Kelce WEDDING DAY at MSG: ~1,100 guests; performers Stevie Nicks + Tim McGraw; $26M charity donation; celebrities (Cooper, Hadid, Gomez, Sheeran) confirmed in NYC" },
-    { "date": "2026-07-04", "section": "world_news", "headline": "Russia's deadliest Kyiv attack of 2026: ~500 drones + 77 missiles (incl. Zircon hypersonics) overnight Jul 2-3; 30+ dead, 100+ injured, every district hit, 9-story building collapsed; 5 more killed Jul 3-4" },
-    { "date": "2026-07-04", "section": "world_news", "headline": "Khamenei state funeral begins Jul 4, runs through Jul 9 across Iran and Iraq; US-Iran Doha talks formally suspended until Jul 9" },
-    { "date": "2026-07-04", "section": "world_news", "headline": "Record US heat dome Jul 4: 185M+ under heat alerts, 300+ records set/expected; Philadelphia 103F, Newark 105F, Boston 100F; Amtrak NE cancellations, fireworks postponed" },
-    { "date": "2026-07-04", "section": "world_news", "headline": "Russia's Ukraine ground advance reportedly collapsing: ~40,000 Russian troops killed in June alone (Al Jazeera/Ukrainian intelligence)" },
-    { "date": "2026-07-04", "section": "world_news", "headline": "FIFA confirms Folarin Balogun one-match suspension — US forward misses World Cup R16 vs Belgium" },
-    { "date": "2026-07-04", "section": "macro", "headline": "NFP fallout: Fed Sep hike probability falls from 67% to <50%; Jul 28-29 FOMC hold now baseline; gold surges to $4,170 (+2% week); Jul 28-29 FOMC rate hold consensus" },
-    { "date": "2026-07-04", "section": "macro", "headline": "Oil falls to WTI $68.69 / Brent $71.80 (pre-war levels) as Hormuz traffic expands and Iran talks reduce risk premium; US 10Y easing toward 4.30-4.40% on NFP miss" },
-    { "date": "2026-07-04", "section": "fx", "headline": "EUR/USD recovers to mid-1.14s (+0.5-0.7%) from 13-month lows on NFP-driven dollar selloff" },
-    { "date": "2026-07-04", "section": "fx", "headline": "GBP/USD ~1.2934 (3-month sterling high) on NFP miss + BoE Bailey Sintra hawkish comments (2 more hikes flagged)" },
-    { "date": "2026-07-04", "section": "fx", "headline": "USD/JPY ~161-162, lingering at 40-year yen lows; MoF 'final evacuation warning' Jul 2 without intervening; BoJ Jul 23 meeting 25bp hike to 1.00% consensus" },
-    { "date": "2026-07-04", "section": "equities", "headline": "Last US close Thu Jul 2: Dow record 52,900; S&P 500 flat at 7,483; Nasdaq -0.8% to 25,832 on chip/AI valuation concerns; US markets closed Jul 3 (holiday observed)" },
-    { "date": "2026-07-04", "section": "equities", "headline": "European markets Fri Jul 3: Stoxx 600 +0.69% (new 52-week high, 4th consecutive weekly rise); DAX +0.85% (defence stocks led)" },
-    { "date": "2026-07-04", "section": "equities", "headline": "Gold miners broadly +3-5% Fri Jul 3 on gold hitting $4,170; defence stocks (Rheinmetall, Renk, Hensoldt) extended gains on UK-Germany Trinity House deal" },
-    { "date": "2026-07-04", "section": "nordics", "headline": "OMX Nordic 120 +1.43% Fri Jul 3 to 1,702.20 EUR, outperforming broader Europe" },
-    { "date": "2026-07-04", "section": "nordics", "headline": "Nokia wins multi-year contract as sole optical transport supplier for Orange Belgium (announced Jul 2); YTD +105%; Q2 earnings Jul 23" },
-    { "date": "2026-07-04", "section": "ipo", "headline": "Upcoming IPOs: Chime (Nasdaq, wk Jul 7); Cint re-listing (Nasdaq Stockholm, Jul 10)" },
-    { "date": "2026-07-04", "section": "sport", "headline": "World Cup R32 Jul 3: Egypt 1-1 AET Australia → Egypt 4-2 pens (first WC knockout win); Argentina 3-2 AET Cape Verde (Messi goal); Colombia 1-0 Ghana (Arias 14')" },
-    { "date": "2026-07-04", "section": "sport", "headline": "World Cup R16 Jul 4: Canada vs Morocco (20:00 EEST); France vs Paraguay (00:00 EEST Sat-Sun)" },
-    { "date": "2026-07-04", "section": "sport", "headline": "Wimbledon Day 5 Jul 3: Djokovic beats Rinderknech, equals Federer's all-time record 105 Wimbledon wins; Sinner bt Brooksby; Sabalenka bt Ostapenko; Medvedev OUT (lost to Struff R3)" },
-    { "date": "2026-07-04", "section": "sport", "headline": "F1 British GP Sprint Qualifying (Fri Jul 3): Hamilton pole (Ferrari, 1:28.376), Antonelli P2 by 0.011s, Verstappen P3; Sprint Race + Main Qualifying on Sat Jul 4" },
-    { "date": "2026-07-04", "section": "gossip", "headline": "Taylor Swift & Travis Kelce confirmed married Jul 3 at MSG (~1,100 guests), officiated by Adam Sandler; performers Stevie Nicks + Tim McGraw; $26M charity donation" },
-    { "date": "2026-07-04", "section": "gossip", "headline": "Record US heat dome forcing Jul 4 fireworks cancellations across eastern US; Amtrak NE Corridor trains cancelled due to track heat risk" },
-    { "date": "2026-07-05", "section": "world_news", "headline": "Trump's politicized America 250 speeches: Mount Rushmore (Jul 3) called communism greater threat than WWII or 9/11; National Mall rally delayed by rain to 11pm ET" },
-    { "date": "2026-07-05", "section": "world_news", "headline": "China PLA reshuffle: Xi Jinping promotes generals Wang Shuguang and Wang Gang, analysts see continued CCP loyalty consolidation" },
-    { "date": "2026-07-05", "section": "world_news", "headline": "Venezuela earthquake death toll rises to 2,954 (from 2,595); fuel shortages leaving heavy rescue machinery idle, threatening rescue timeline" },
-    { "date": "2026-07-05", "section": "world_news", "headline": "US-Iran: Khamenei multi-city state funeral (Tehran → Najaf/Karbala → Mashhad burial Jul 9); US Energy Sec Wright confirms record 20M barrels/day through Hormuz; talks resume Jul 9" },
-    { "date": "2026-07-05", "section": "macro", "headline": "June NFP full detail: leisure/hospitality -61k drag; cumulative -74k two-month revision; labour force participation falls to 61.5%; weakest print in 4 months" },
-    { "date": "2026-07-05", "section": "macro", "headline": "Fed Sep hike probability collapses from 67% to 29% post-NFP; FOMC June minutes due Wed Jul 8 21:00 EEST — Warsh's hawkish first meeting vs collapsing labour market" },
-    { "date": "2026-07-05", "section": "macro", "headline": "Eurozone CPI June: 2.8% headline, 2.4% core; German Bund 10Y 2.94% (+4bp Fri, -9bp on month)" },
-    { "date": "2026-07-05", "section": "fx", "headline": "EUR/USD 1.1470 (+0.5% week) on NFP dollar selloff; GBP/USD clears 1.3300 (+0.5%) on NFP + Bailey Sintra hawkish comments" },
-    { "date": "2026-07-05", "section": "fx", "headline": "USD/JPY pulls back to ~161 from 162.5 after Finance Minister Katayama explicit intervention warning; no confirmed BoJ action; EUR/NOK 11.2487; USD/SEK ~9.66" },
-    { "date": "2026-07-05", "section": "equities", "headline": "Asian close Fri Jul 3: Nikkei +1.47% → 69,744; KOSPI +5.76% → ~8,088 (exceptional, driver unclear); Hang Seng +1.28% → ~23,055" },
-    { "date": "2026-07-05", "section": "equities", "headline": "European close Fri Jul 3: Euro Stoxx 50 +0.9% → 6,417; Stoxx 600 +0.7% → 653; DAX week +3.69%; FTSE 100 week +1.38%" },
-    { "date": "2026-07-05", "section": "equities", "headline": "US ES futures ~7,558; Nokia ADR -6.51% → $12.07 Thu; Palo Alto Networks +14.4% week; Nvidia only +5% YTD despite Q1 rev +85%" },
-    { "date": "2026-07-05", "section": "equities", "headline": "SpaceX (SPCX) joins Nasdaq-100 pre-open Tue Jul 7; estimated $4.3B passive buy + ~$3B Russell rebalancing; avg first-day return for Nasdaq-100 additions since 2022: -1.13%" },
-    { "date": "2026-07-05", "section": "nordics", "headline": "OMXH25 6,268.65 (Fri Jul 3); OMXS30 2,449.70 (+0.64% Fri); Nokia NOKIA.HE €11.06 +2.50% Fri | ADR -6.51% Thu" },
-    { "date": "2026-07-05", "section": "nordics", "headline": "Nokia analyst split: Danske Buy/€14 ↑; UBS Neutral/€11; LBBW Sell/€9.75 ↓; Orange Belgium sole supplier contract confirmed" },
-    { "date": "2026-07-05", "section": "nordics", "headline": "Catella (CAT-B.ST) +15.3%: advised Castellum → Alecta Fastigheter Stockholm offices ~SEK 5B + Kaktus Towers Copenhagen → Quantum SEK 2.1B" },
-    { "date": "2026-07-05", "section": "nordics", "headline": "Addnode +5.1% on Carnegie Buy upgrade; Ericsson: Investor AB buys SEK 225.6M additional shares" },
-    { "date": "2026-07-05", "section": "stocks", "headline": "Jersey Mike's (JMKE) S-1 filed Jul 2 for NYSE IPO: $724M revenue, $55M net income, $4.3B systemwide sales; targeting $12B+ valuation, $1B+ raise; MS/Jefferies/JPM underwriters" },
-    { "date": "2026-07-05", "section": "ma", "headline": "Catella advises Castellum → Alecta Fastigheter Stockholm offices ~SEK 5B (one of Stockholm's largest office transactions in years)" },
-    { "date": "2026-07-05", "section": "ma", "headline": "Catella advises Kaktus Towers Copenhagen → Quantum SEK 2.1B; Nordic institutional real estate capital returning at scale" },
-    { "date": "2026-07-05", "section": "sport", "headline": "World Cup R16: Morocco 3-0 Canada (Ounahi brace + Rahimi); Canada first host nation ever eliminated at R16 stage" },
-    { "date": "2026-07-05", "section": "sport", "headline": "World Cup R16: France 1-0 Paraguay (Mbappe pen 70', his 19th WC goal); France into QF for 4th straight tournament" },
-    { "date": "2026-07-05", "section": "sport", "headline": "Wimbledon Day 6: Alexandra Eala (Philippines, 21) beats No. 3 seed Swiatek 7-6(9) 6-2 in first Centre Court appearance; Mertens beats Rybakina 7-6 6-1 — two top-3 seeds out in one day" },
-    { "date": "2026-07-05", "section": "sport", "headline": "Wimbledon Day 7: Sinner through; Gauff beats Bencic 6-3 6-7 6-2; Djokovic vs Safiullin and Sabalenka vs Osaka results pending" },
-    { "date": "2026-07-05", "section": "sport", "headline": "F1 British GP Silverstone: Antonelli wins Sprint Race (Hamilton P2, Norris P3); Antonelli takes main GP pole (Leclerc P2, Hamilton P3); Main race today Jul 5" },
-    { "date": "2026-07-05", "section": "sport", "headline": "Golf: Brian Campbell wins John Deere Classic — his 2nd PGA Tour title of 2026" },
-    { "date": "2026-07-05", "section": "gossip", "headline": "Swift-Kelce wedding aftermath: Adam Sandler officiated; Austin Swift man of honor; Jason Kelce best man; custom Christian Dior; Empire State Building lit blue; White House Instagram troll" },
-    { "date": "2026-07-06", "section": "world_news", "headline": "Super Typhoon Bavi makes landfall over Northern Mariana Islands (US territory, incl. Saipan); damaging winds and storm surge; federal emergency response activated" },
-    { "date": "2026-07-06", "section": "world_news", "headline": "Israel strikes near Ghandour Hospital in Nabatieh and Braashit district (southern Lebanon); Hezbollah rejects June 26 US-brokered framework as humiliating, calls disarmament linkage a red line — ceasefire fraying" },
-    { "date": "2026-07-06", "section": "world_news", "headline": "Iran Hormuz ultimatum: tankers must use IRGC-approved routes or face forceful response; friendly nations may get toll discounts; US-Iran Doha talks paused until Jul 9 for Khamenei funeral" },
-    { "date": "2026-07-06", "section": "world_news", "headline": "Venezuela rescue-to-reconstruction transition confirmed; UN-backed study puts total economic damage at $37B; 2,954 dead, 50,000+ unaccounted" },
-    { "date": "2026-07-06", "section": "macro", "headline": "FOMC June minutes due Wednesday Jul 8, 21:00 EEST — key read on Warsh hawkish stance vs collapsing labour market; Sep hike probability 29%" },
-    { "date": "2026-07-06", "section": "macro", "headline": "Eurozone CPI June final: 2.8% headline, 2.4% core — below consensus 3.0%, lowest since Feb 2026; services eased to 3.2%" },
-    { "date": "2026-07-06", "section": "macro", "headline": "US 10Y drifting toward 4.30-4.40% on NFP miss; German Bund 10Y ~2.94%; gold ~$4,100-4,150/oz" },
-    { "date": "2026-07-06", "section": "fx", "headline": "EUR/USD ~1.143-1.145, recovering from 13-month lows; NFP dollar selloff driving pair toward 1.15" },
-    { "date": "2026-07-06", "section": "fx", "headline": "GBP/USD cleared 1.3300 (3-month sterling high) on Bailey Sintra two-more-hikes signal + NFP dollar softness" },
-    { "date": "2026-07-06", "section": "fx", "headline": "USD/JPY ~161-162.5, 40-year yen low; MoF Katayama repeated intervention warning without action; BoJ Jul 23 +25bp hike to 1.00% consensus" },
-    { "date": "2026-07-06", "section": "equities", "headline": "SpaceX (SPCX) joins Nasdaq-100 effective Jul 7; est. $4.3B+ passive ETF buying kicks in after Jul 6 close; avg first-day return for Nasdaq-100 additions since 2022: -1.1%" },
-    { "date": "2026-07-06", "section": "equities", "headline": "Stoxx 600 +0.7% new 52-week high (Fri Jul 3, 4th straight weekly gain); DAX +0.85%; Nikkei +1.47% to 69,744; KOSPI +5.76%" },
-    { "date": "2026-07-06", "section": "equities", "headline": "BTC ~$62,838 (+1.6%), recovering from $60k cycle low; WTI ~$68.33/bbl (-0.6%)" },
-    { "date": "2026-07-06", "section": "nordics", "headline": "Nokia (NOKIA.HE) €11.17 (Jul 5); AI/cloud sales +49% YoY; Orange Belgium sole-supplier confirmed; Q2 earnings Jul 23; Danske Buy/€14, UBS Neutral/€11, LBBW Sell/€9.75" },
-    { "date": "2026-07-06", "section": "nordics", "headline": "OMXH25 6,268.65; OMXS30 2,449.70 (both Fri Jul 3 close)" },
-    { "date": "2026-07-06", "section": "stocks", "headline": "Jersey Mike's (JMKE) S-1 filed Jul 2 for NYSE IPO; $12B+ valuation target; $1B+ raise; Blackstone-backed; Forbes: $50M pay for founder's stepson, $41M aircraft; Q3 2026 debut plausible" },
-    { "date": "2026-07-06", "section": "ma", "headline": "QXO/TopBuild shareholder approval complete at both companies; deal closing imminent" },
-    { "date": "2026-07-06", "section": "ma", "headline": "OpenAI confidentially filed for IPO Jun 8; no pricing date yet; US M&A $1.2T in first 5 months of 2026 (~2x 2025 pace)" },
-    { "date": "2026-07-06", "section": "sport", "headline": "F1 British GP (Jul 5): Leclerc wins from Russell P2, Hamilton P3; championship leader Antonelli suffers car failure mid-race and falls back; Verstappen retires (spin); race ends under Safety Car" },
-    { "date": "2026-07-06", "section": "sport", "headline": "World Cup R16 (Jul 5): Norway 2-1 Brazil (Haaland 79', 81') — Norway's first-ever WC QF, biggest upset of tournament; England 3-2 Mexico (Bellingham brace) with 10 men from 54' (Quansah red card)" },
-    { "date": "2026-07-06", "section": "sport", "headline": "Wimbledon R4: Osaka stuns Sabalenka #1 seed 6-2 7-6 (3rd top-3 seed out this fortnight); Djokovic beats Safiullin for 106th Wimbledon win, surpassing Federer all-time men's record; Sinner, FAA, Gauff, Pegula into QF" },
-    { "date": "2026-07-06", "section": "sport", "headline": "World Cup R16 today Jul 6: Spain vs Portugal (22:00 EEST, Dallas); Belgium vs USA (03:00 EEST Tue)" },
-    { "date": "2026-07-06", "section": "gossip", "headline": "Swift-Kelce wedding new detail: Paul McCartney performed I Want to Hold Your Hand live for first time in 62 years at MSG; celebrity departures spotted Jul 5-6 (Hadid, Cooper, Gomez, Mahomeses, Brady, Spielberg)" },
-    { "date": "2026-07-06", "section": "gossip", "headline": "Andrew Garfield and Monica Barbaro photographed on a Wimbledon date — relationship confirmed" }
+    {
+      "date": "2026-06-26",
+      "section": "world_news",
+      "headline": "Venezuela hit by twin 7.2/7.5-magnitude earthquakes (June 24-25), 200+ dead, Trump pledges US aid"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "world_news",
+      "headline": "Trump cancels signing of bipartisan affordable-housing bill, demands SAVE America Act first"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "world_news",
+      "headline": "Strait of Hormuz vessel traffic doubles as shipping tests US-Iran de-escalation deal, oil falls"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "macro",
+      "headline": "US Q1 2026 GDP final revised up to 2.1% annualized"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "macro",
+      "headline": "May core PCE inflation 3.4% y/y, hottest since 2023, reinforces Fed hawkish tilt under Chair Kevin Warsh"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "macro",
+      "headline": "FOMC June dot plot shows median 2026 year-end rate 3.8%, up from 3.4% in March"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "macro",
+      "headline": "US 10Y Treasury eases to ~4.40-4.45%, German 10Y Bund ~2.85%"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "fx",
+      "headline": "EUR/USD near 13-month lows on Fed-ECB policy gap widening"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "fx",
+      "headline": "USD/JPY pinned near weakest since 1986, 162 seen as BoJ intervention trigger level"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "equities",
+      "headline": "Apple -6.1% on MacBook/iPad price hikes tied to AI memory chip cost surge"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "equities",
+      "headline": "Micron +15.8% on blowout Q3 earnings (EPS $25.11 vs $20.78 est, revenue +346% YoY) on AI memory demand"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "equities",
+      "headline": "Qualcomm +9% after nearly doubling 2029 non-handset revenue guidance to $40B"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "equities",
+      "headline": "Asia chip stocks sell off (SoftBank -13%, Samsung -7%, SK Hynix -9%, Advantest -10%) on AI infrastructure cost concerns"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "equities",
+      "headline": "Nikkei 225 closes -4.15% on AI-cost-concern sell-off, Kospi -5.81% same session"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "equities",
+      "headline": "Caterpillar +5-6% on record AI data-center backup-power backlog and dividend hike"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "nordics",
+      "headline": "Nokia +2.3% on AWS/Databricks partnership news, Nordea hikes price target to EUR15.70"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "nordics",
+      "headline": "H&M six-month report: Q2 net sales SEK 54.8bn, op profit ex-items +11%, Barclays raises PT"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "nordics",
+      "headline": "Sampo +0.74% on Kepler Cheuvreux Buy reiteration"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "nordics",
+      "headline": "Nordea -1.3%, pullback after a strong run"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "nordics",
+      "headline": "SEB upgrades Indutrade to Buy; Two Sigma discloses 0.52% short position against Evolution; Wingefors increases Storytel stake"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "ma",
+      "headline": "Merck KGaA agrees to acquire Bio-Techne for $11.3B all-cash (~36% premium)"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "ma",
+      "headline": "Bain Capital acquires 51% stake in Everllence (ex-MAN Energy) from Volkswagen for EUR7.4-9bn, beating CVC and EQT"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "ma",
+      "headline": "NuCube Energy to go public via SPAC merger with Launch Two Acquisition Corp (~$500M pre-money)"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "ipo",
+      "headline": "Lime (Neutron Holdings) IPO prices June 30, Nasdaq debut July 1, range $24-26"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "ipo",
+      "headline": "Bending Spoons targets July 1 Nasdaq listing, ~$1.6B gross proceeds at midpoint"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "sport",
+      "headline": "World Cup 2026 group stage concludes: South Africa beats South Korea 1-0 for first-ever knockout berth; Morocco comes back to beat Haiti 4-2"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "sport",
+      "headline": "F1 Austrian GP weekend opens at Red Bull Ring, Antonelli leads standings"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "sport",
+      "headline": "Wimbledon qualifying wraps at Roehampton, Faria/Zheng/Tarvet through to main draw"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "gossip",
+      "headline": "Zoe Kravitz shows engagement ring from fiance Harry Styles in London"
+    },
+    {
+      "date": "2026-06-26",
+      "section": "gossip",
+      "headline": "Dolly Parton makes rare public appearance a month after canceling Vegas residency"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "world_news",
+      "headline": "Iranian drone strikes cargo ship Ever Lovely near Oman; US retaliates with airstrikes on 4 Iranian coastal targets; IRGC claims counter-strikes on US positions in the region"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll surges to 920 (from 200+), 3,300+ injured, 172 still trapped; first US search-and-rescue teams land, $150M aid mobilized"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "macro",
+      "headline": "May headline PCE inflation accelerates to 4.1% y/y (from 3.8%), hottest since April 2023, energy-driven; core PCE holds at 3.4%"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "macro",
+      "headline": "Minneapolis Fed's Kashkari says he has one rate hike penciled in for 2026"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "macro",
+      "headline": "ECB Forum on Central Banking (Sintra) opens Monday June 29, Warsh/Lagarde/Macklem to share a panel"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "equities",
+      "headline": "Friday June 26 closes: S&P 500 -0.05% to 7,354.02, Nasdaq -0.24% to 25,297.62 (5th straight losing day), Dow -0.09%, FTSE -0.21%, DAX +1.29%"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "equities",
+      "headline": "OpenAI reportedly considering delaying IPO to 2027 (NYT), citing SpaceX's post-IPO slump; cited as driver of Nasdaq weakness"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "equities",
+      "headline": "Oil falls: WTI -3.74% to $69.23 (lowest since Feb 27), Brent -4.34% to $71.99, despite Hormuz drone attack"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "equities",
+      "headline": "Crypto slides into weekend: BTC ~$60,149 (-5.6% wk), ETH ~$1,556 (-8.2% wk)"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "nordics",
+      "headline": "Nordea Markets resumes coverage of Nordnet with Buy rating, PT SEK 440"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "nordics",
+      "headline": "Volvo Autonomous Solutions + Waabi: AI virtual driver transferred to VNL Autonomous trucks with zero retraining"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "stocks",
+      "headline": "SELLAS Life Sciences +13% on amended exec severance terms, buyout speculation, short interest at all-time high ~33% of float"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "stocks",
+      "headline": "PVH Corp downgraded to Underperform by BofA, PT cut to $70 from $90, on EMEA exposure concerns"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "stocks",
+      "headline": "SL Green Realty: large block of $45 puts sold ahead of Q2 earnings, bullish/income signal"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "ipo",
+      "headline": "Sinda Ltd (SIND) IPO priced at $12 (below range), raised $213M, opened below offer price on NYSE debut"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "sport",
+      "headline": "World Cup 2026 final group-stage matchday: France 4-1 Norway (Dembele hat-trick), Spain 1-0 Uruguay (Uruguay eliminated), Senegal 5-0 Iraq, Cape Verde 0-0 Saudi Arabia"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "sport",
+      "headline": "F1 Austrian GP Friday practice: Antonelli tops FP1/FP2; Verstappen, Hadjar, Norris hit reliability issues"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "gossip",
+      "headline": "Tom Sandoval restraining-order scandal: video appears to show him shoving ex's father into a fire pit"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "gossip",
+      "headline": "Taylor Swift/Travis Kelce wedding buzz: surprise New Heights podcast appearance, wedding stage reportedly being built at Rock Lititz PA for rumored July 3 MSG wedding"
+    },
+    {
+      "date": "2026-06-27",
+      "section": "gossip",
+      "headline": "BET Awards 2026 (airs June 28): Cardi B leads with 6 nominations, Lauryn Hill gets inaugural Living Legend Icon Award"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "world_news",
+      "headline": "Iran/US conflict escalates: Iran drone-strikes tanker M/T Kiku, US hits more Iranian targets, IRGC claims missile/drone attacks on US Fifth Fleet HQ (Bahrain) and Ali Al Salem air base (Kuwait); Strait of Hormuz traffic collapses to ~5 ships/day from ~93/day"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll surges to 1,430 (from 920), 3,200+ injured, 430+ aftershocks complicating rescue"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "macro",
+      "headline": "US Supreme Court could rule as soon as Monday June 29 on whether Trump can fire Fed Governor Lisa Cook, ahead of Warsh's first Sintra appearance"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "macro",
+      "headline": "ECB Forum on Central Banking (Sintra) opens Monday June 29; Lagarde welcome remarks evening, Warsh/Lagarde/Bailey/Macklem joint panel later in the week"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "equities",
+      "headline": "Samsung set to unveil ~$720B 10-year investment plan (chips, AI data centers, batteries, robotics) Monday at Korea's 'Great Leap' summit, after Friday's AI-cost-driven Asia chip selloff"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "equities",
+      "headline": "Crypto weekend: BTC ~$60,000-60,150, ETH ~$1,570, slide has flattened vs Friday; Fear & Greed Index at 24 (Extreme Fear)"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "stocks",
+      "headline": "Friday movers: FuboTV +22.5% (short squeeze, 24.8% short interest), Hecla Mining +2.6% (record silver ~$59/oz), Snowflake +9.65% (34% product rev growth)"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "ipo",
+      "headline": "ITG (~$429M raise) and CopperTech Metals (Vedanta copper spin-off, ~$424M raise) added to June 30 IPO pricing calendar alongside Lime and Bending Spoons"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "ma",
+      "headline": "Elroy Air (autonomous cargo drones) to go public via SPAC merger with Columbus Circle Capital Corp II at $961M enterprise value"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "ma",
+      "headline": "Akzo Nobel/Axalta merger-of-equals: shareholder circular released, EGM set for Aug 5"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "sport",
+      "headline": "F1 Austrian GP: Lando Norris wins from P6 (3rd win of season); Russell took chaotic pole Saturday after late Verstappen Q3 crash"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "sport",
+      "headline": "World Cup 2026 group stage concludes (Colombia 0-0 Portugal, DR Congo 3-1 Uzbekistan, England 2-0 Panama, Croatia 2-1 Ghana); new Round-of-32 knockout format kicks off with Canada vs South Africa"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "sport",
+      "headline": "Wimbledon: defending 2x champion Carlos Alcaraz withdraws with right wrist injury; Sinner #1 seed men's, Sabalenka #1 women's"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "gossip",
+      "headline": "Taylor Swift/Travis Kelce: permit reportedly filed for Madison Square Garden event July 3, street closures planned July 2-4"
+    },
+    {
+      "date": "2026-06-28",
+      "section": "gossip",
+      "headline": "BET Awards 2026 pre-show: Lauryn Hill gets Living Legend Icon Award, Teyana Taylor named Icon of the Year, Sylvia Rhone gets Ultimate Icon Award"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "world_news",
+      "headline": "Three firefighters killed battling wildfires on Colorado-Utah border"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "world_news",
+      "headline": "Iran's IRGC drone-strikes cargo ship Ever Lovely near Oman, threatens to halt US talks; Doha-mediated de-escalation talks reportedly being arranged"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll rises to ~1,450 (from 1,430), 68,900 reported missing by families, 72-hour rescue window passes; 33 pulled alive over the weekend"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "macro",
+      "headline": "ECB Forum on Central Banking (Sintra) opens June 29, Lagarde welcome dinner ~22:00 EEST; Warsh's debut panel with Lagarde/Bailey/Macklem confirmed for Wed July 1"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "macro",
+      "headline": "US Supreme Court has not yet ruled on Trump v. Cook (Fed Governor Lisa Cook firing case) as of June 29"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "fx",
+      "headline": "USD/JPY flat ~161.7-161.8, pinned just under 162 BoJ/MOF intervention trigger level; no FX moves >0.3% confirmed"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "equities",
+      "headline": "Samsung unveils bigger-than-expected $1.3T (2,000 trillion won) 10-year investment plan at Korea 'Great Leap' summit; markets sell the news - KOSPI -1.5/-3%, Samsung -3.7/-5%, SK Hynix -1.8/-3%, KOSDAQ +6.99%, Nikkei -1.3% to ~68,455"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "equities",
+      "headline": "Crypto Fear & Greed Index sinks to cycle-low 17-18 (Extreme Fear) while BTC holds ~$60,000-60,300 flat"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "nordics",
+      "headline": "Nokia US ADR fell -7.6% Friday June 26 on profit-taking after 158% YoY AI-driven rally (P/E >88x)"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "nordics",
+      "headline": "OMX Helsinki 25 closed Friday at 6,137 (-1.29%), OMX Stockholm 30 closed ~3,154 (-0.86%)"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "stocks",
+      "headline": "BioLife Solutions (BLFS) +8% after-hours on confirmed buyout interest from multiple parties incl. Repligen"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "stocks",
+      "headline": "Triller Group (ILLR) short-squeeze stock +300-400% then +42% Friday (+187% week) on SpaceX-treasury-exposure deal; negative equity, ~$5M revenue vs ~$32M net loss"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "ipo",
+      "headline": "Bending Spoons firms IPO terms: 58M shares at $26-28, ~$19B valuation, ticker BSP, up to $1.62B raise, Q1 turned profitable; Lime/ITG/CopperTech Metals (CUX) also pricing Tue June 30 night"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "ma",
+      "headline": "Select Medical Holdings shareholders approve $3.9B take-private by Ortenzio/Jackson/Welsh Carson consortium at $16.50/share cash"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "sport",
+      "headline": "Wimbledon 2026 begins June 29: Sinner vs Kecmanovic, Sabalenka vs Kostovic, Djokovic vs Wu on Centre Court; withdrawal list grows to 13 players (Rune, Opelka join Alcaraz)"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "sport",
+      "headline": "World Cup 2026 Round of 32 continues: Brazil-Japan, Germany-Paraguay, Netherlands-Morocco scheduled June 29-30"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "gossip",
+      "headline": "Taylor Swift/Travis Kelce wedding buzz: two-day event reported (intimate ~100-guest Jul 2, ~1,000-guest MSG event Jul 3), rumored performers incl. Stevie Nicks, unconfirmed FBI security involvement"
+    },
+    {
+      "date": "2026-06-29",
+      "section": "gossip",
+      "headline": "BET Awards 2026 aftermath: Janet Jackson's surprise tearful presentation of Teyana Taylor's Icon of the Year award"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "macro",
+      "headline": "Supreme Court rules 5-4 Trump cannot fire Fed Governor Lisa Cook while litigation proceeds; expands presidential power over other independent agencies"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "world_news",
+      "headline": "Trump claims US-Iran meeting happening in Doha today (Witkoff/Kushner attending); Tehran denies any talks scheduled, says only technical delegation discussing frozen funds"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll rises to 1,719 (from 1,450), ~5,000 injured, ~46,600 still reported missing"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "world_news",
+      "headline": "Pilatus PC-6 skydiving plane crash in northeastern France kills all 11 aboard (pilot + 10 jumpers)"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "world_news",
+      "headline": "South Africa June 30 anti-migrant 'deadline' (set by March and March group) sparks mass exodus; 13,000+ foreign nationals repatriated/deported in past fortnight; govt calls deadline fake, police leave cancelled nationwide"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "world_news",
+      "headline": "US Supreme Court rules 5-4 that states may count mail-in ballots received after Election Day if postmarked on time"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "macro",
+      "headline": "ECB's Lagarde Sintra opening speech: ECB 'can raise rates to address inflation without fear,' but signals measured (not jumbo) hikes ahead"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "equities",
+      "headline": "Monday close: S&P 500 +1.18% to 7,440.43, Nasdaq +2.07% to 25,820.14, Dow +0.59% to 52,182.74 (first close above 52,000) on Alphabet's Dow debut replacing Verizon"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "equities",
+      "headline": "Monday movers: Alphabet +4.96% (Dow inclusion), Tesla +8.45%, Amazon +3.18%, Meta +2.2%, Verizon -5.24% (Dow removal)"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "ipo",
+      "headline": "Lime (LIME, $24-26 range) and Bending Spoons (BSP, $26-28, ~$18.8B EV, up to $1.62B raise) price tonight alongside ITG and CopperTech Metals (CUX)"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "ma",
+      "headline": "Bridgepoint agrees to acquire Kayne Anderson Real Estate for $1.39B"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "sport",
+      "headline": "World Cup 2026 Round of 32: Brazil 2-1 Japan, Paraguay beat Germany 4-3 on penalties (1-1 draw), Morocco beat Netherlands on penalties (1-1 draw)"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "gossip",
+      "headline": "Taylor Swift/Travis Kelce wedding invitations reportedly individually watermarked to prevent leaks ahead of rumored July 3 MSG event"
+    },
+    {
+      "date": "2026-06-30",
+      "section": "gossip",
+      "headline": "Kevin Spacey says he feels 'much more welcomed' in Hollywood again, on Bill Maher's Club Random podcast"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "world_news",
+      "headline": "Supreme Court 6-3 strikes down Trump birthright citizenship EO; Roberts + Barrett join liberals, Kavanaugh concurs on outcome only"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "world_news",
+      "headline": "US-Iran Doha talks: Witkoff/Kushner in Qatar overnight; technical talks via Qatar-Pakistan mediation continue; Iran refuses direct high-level meeting"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll rises to ~1,943 (from 1,719); 43,200 missing; USGS PAGER warns final toll may exceed 100,000"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "world_news",
+      "headline": "One Big Beautiful Bill: SAVE/ICR/PAYE federal student loan plans cease operation July 1; graduate borrowing caps take effect"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "macro",
+      "headline": "ECB Sintra Day 3 (final): Warsh-Lagarde-Bailey-Macklem panel at 16:00 EEST; BofA forecasts 3 Fed hikes to 4.25-4.50%"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "macro",
+      "headline": "Q2 2026 closes: S&P 500 +14%, Nasdaq +20%, Dow +12% for the quarter"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "macro",
+      "headline": "ISM Manufacturing PMI (June) due 17:00 EEST; prev 54.0 (5-year high); consensus ~49.5-52.0, contraction risk flagged"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "fx",
+      "headline": "USD/JPY breaches 162 BoJ intervention trigger to 162.69 (40-year high); no official BoJ/MoF response yet"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "equities",
+      "headline": "Tuesday morning: S&P 500 +0.79%, Nasdaq +1.38%, Dow +0.32% (~record 52,319); Bending Spoons (BSP) and Lime (LIME) Nasdaq debuts"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "equities",
+      "headline": "Nikkei 225 -1.3% on USD/JPY 162 breach and Samsung/chip hangover; KOSPI weak, Samsung -3-5%"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "nordics",
+      "headline": "Nokia (NOKIA.HE) +4.0% to \u20ac11.66 in Helsinki morning; accounts for ~40% of OMX Helsinki 25 move; Q2 earnings due July 23"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "nordics",
+      "headline": "Sampo +0.73% to \u20ac9.11; OMX Helsinki 25 prior close 6,137; OMX Stockholm 30 prior close ~3,154"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "stocks",
+      "headline": "Bending Spoons (BSP) Nasdaq debut: priced $29 (above $26-28 range), ~$20bn EV; Lime (LIME) debut at $24"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "ma",
+      "headline": "Safran enters exclusive negotiations to acquire Exail Technologies (maritime drones) at \u20ac128.50/share (~\u20ac2.2bn)"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "ma",
+      "headline": "Qualcomm acquires Modular for ~$4bn (AI compute stack); Adobe acquires Topaz Labs (AI image/video enhancement)"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "sport",
+      "headline": "World Cup 2026 R32: France 3-0 Sweden (Mbapp\u00e9 x2, Barcola); Belgium vs Senegal, USA vs Bosnia, England vs Congo DR scheduled later today"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "sport",
+      "headline": "Wimbledon Day 2: Serena Williams beaten R1 by Maya Joint (AUS) 6-3 6-7(6) 6-3 in first singles match in 4 years; Wawrinka exits (Berrettini) in likely last Wimbledon"
+    },
+    {
+      "date": "2026-07-01",
+      "section": "gossip",
+      "headline": "Taylor Swift/Travis Kelce wedding reportedly going ahead July 3 at MSG; ~1,000 guests, watermarked invites, Stevie Nicks rumoured performer; streets close July 2-4"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "world_news",
+      "headline": "ECB Sintra Forum concludes: Warsh, Lagarde, Bailey, Macklem formally abandon forward guidance across G4+; Warsh 'prices too high'; Bailey flags 2 more BoE hikes possible"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "world_news",
+      "headline": "Israel strikes Hezbollah in southern Lebanon (IDF confirmed) \u2014 most significant action since November 2025 ceasefire; Lebanon PM calls for UNSC action"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "world_news",
+      "headline": "Starmer-Merz sign updated Trinity House Agreement: expanded UK-Germany defence cooperation, joint long-range missile procurement + bilateral intelligence-sharing"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "world_news",
+      "headline": "Germany-US domestic weapons production partnership reported; Rheinmetall +6.1%, Renk +4.7%, Hensoldt +4.4% on news"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "world_news",
+      "headline": "DOGE wave 2: EPA, Education, HHS cut ~14,500 jobs July 1; SAVE/ICR/PAYE student loan programs terminated, ~8M borrowers affected"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll rises to 2,295 (from 1,943); Maduro declares 30-day national emergency; UNOCHA activates L3 emergency response; 5.1 aftershock July 1"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "world_news",
+      "headline": "US-Iran Doha talks: Witkoff/Kushner met Qatari Emir; Strait traffic recovering to ~35 transits/24h; nuclear phase now being teed up; Vance: 'talks going well'"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "macro",
+      "headline": "ISM Manufacturing PMI June: 53.3% (beat vs 49.5-52.0% consensus); Prices Paid 73.0% (-9.1pp, biggest drop since July 2022 but still elevated); 20th straight month of expansion"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "macro",
+      "headline": "ADP private payrolls June: 98k (miss vs ~113k consensus, vs 122k May); manufacturing shed jobs; sets downside risk for NFP"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "macro",
+      "headline": "US 10Y ~4.48%, German Bund 10Y ~2.85%, UK Gilt elevated post-Bailey Sintra hawkish comments; Fed Sep hike probability ~70%"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "fx",
+      "headline": "USD/JPY 162.56 (+0.39%), 40-year yen low; MoF Mimura: 'This is our final evacuation warning to markets'; no actual intervention; BoJ July 23 hike (+25bp to 1.00%) now consensus"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "fx",
+      "headline": "GBP/USD 1.2934 (+0.45%), 3-month sterling high on Bailey Sintra comments flagging 2 more BoE hikes possible"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "equities",
+      "headline": "July 1 closes (Q2 end, best quarter since 2020): S&P 500 +0.79% to 7,499; Nasdaq +1.52% to 26,213; Dow +0.26% to 52,319 (record)"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "equities",
+      "headline": "Bending Spoons (BSP) IPO debut: priced $29 (above $26-28 range), closed ~$40 (+38-40%); $20B market cap; CEO rang Nasdaq bell"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "equities",
+      "headline": "Lime (LIME) IPO debut: priced $25 (mid-point), +8% on debut; $1.73B market cap; Uber-backed e-scooter operator"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "equities",
+      "headline": "SanDisk (SNDK) +10.9% July 1 on 251% revenue growth from AI data-centre NAND storage demand"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "equities",
+      "headline": "Nike (NKE) -2% July 1: beat EPS via tariff refund but China sales -12% YoY"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "equities",
+      "headline": "July 2 early: Nikkei +0.87% (~70,671) on yen tailwind; DAX +0.18% led by defence; Bloom Energy (BE) +8% premarket on Brookfield AI-power partnership"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "nordics",
+      "headline": "OMXH25 6,204 (+1.09%), OMXS30 ~3,181 (+0.86%) July 1; Nokia \u20ac11.66 (+4.0%), YTD +105%; Q2 earnings July 23"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "nordics",
+      "headline": "Kindred Group (KIND.ST) +8-9%: FDJ (French national lottery) in advanced talks for SEK 155-165 cash offer (~\u20ac1.6-1.8B); stock ~SEK 128; no formal confirmation"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "nordics",
+      "headline": "SCA announces \u20ac320M investment in bio-based packaging line at \u00d6strand pulp mill (Timr\u00e5, Sweden); ~130 jobs, operational 2028"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "ma",
+      "headline": "Etsy acquires Substack for $1.1B all-stock (July 1); pivot to 'creator commerce'; Substack brand and co-founders stay; Etsy +8.7%"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "ma",
+      "headline": "Takeda acquires Aavid Biosciences for $4.2B cash; 47% premium; in-vivo CRISPR hemophilia A therapy Phase 2; Aavid +44%"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "ma",
+      "headline": "Advent International acquires CACI International federal intelligence unit for $2.1B cash; CACI refocuses commercial tech; both boards approved July 1"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "ma",
+      "headline": "Kindred Group / FDJ: FDJ in advanced talks for SEK 155-165 cash offer; if completed, biggest Nordic consumer-tech M&A of 2026"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "ipo",
+      "headline": "Klarna IPO: NYSE, week of July 7; ~$20-22B valuation; biggest-ever EU fintech listing; Chime (Nasdaq wk Jul 7), Xflow/Flowserve (NYSE Jul 8), Cint re-listing (Stockholm Jul 10) also coming"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "sport",
+      "headline": "World Cup R32 (July 1): England 2-1 Congo DR (Kane brace, Balogun red card misses R16); USA 2-0 Bosnia (scored+sent off, won with 10 men); Belgium 3-2 Senegal AET (Tielemans pen 124', reportedly latest WC winning goal ever)"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "sport",
+      "headline": "Today July 2: Spain vs Austria (22:00 EEST), Portugal vs Croatia (02:00 Fri EEST), Switzerland vs Algeria (06:00 Fri EEST)"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "sport",
+      "headline": "Wimbledon Day 3: Sinner d. Borges 7-6 7-6 6-4; Djokovic d. Tsitsipas 6-3 6-4 6-2; Sabalenka and Gauff through"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "sport",
+      "headline": "F1: British GP at Silverstone July 3-5 (sprint weekend); Russell 40pts behind championship leader Antonelli at home race"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "gossip",
+      "headline": "Taylor Swift/Travis Kelce wedding CONFIRMED by law enforcement source: July 3 at MSG; rehearsal dinner July 2 (~100 guests, MSG Infosys Theater); 1,100 guests Friday; NDAs with invites; streets closed July 2-4"
+    },
+    {
+      "date": "2026-07-02",
+      "section": "gossip",
+      "headline": "Zaire Wade (son of Dwyane Wade) arrested on domestic violence charges after neighbour 911 call"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "world_news",
+      "headline": "June NFP +57,000 \u2014 massive miss vs 110,000 consensus; unemployment 4.2% but participation rate falls to 61.5%; prior months revised sharply lower"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "world_news",
+      "headline": "US-Iran Doha talks pause for Khamenei state funeral July 4-9; Trump says 'positive progress'; talks expected to resume July 9"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "world_news",
+      "headline": "Iran issues new Hormuz ultimatum: tankers must use IRGC-approved routes or face 'forceful response'"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "world_news",
+      "headline": "Damascus bomb blast: IED in popular caf\u00e9 kills 5 people"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "world_news",
+      "headline": "Trump's new Qatar-donated Boeing 747 Air Force One takes inaugural flight ahead of presidential library debut"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll rises to 2,595 (from 2,295); 50,000+ unaccounted; 862+ aftershocks since June 24"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "macro",
+      "headline": "June NFP miss (+57k vs 110k) expected to sharply reduce Sep Fed rate-hike probability from ~70%; NFP avg past 12 months ~36k"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "macro",
+      "headline": "Fed at 3.50-3.75%; Warsh at Sintra: 'inflation too high' but jobs miss complicates hawkish path"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "macro",
+      "headline": "US markets closed July 3 (Independence Day holiday); US 10Y ~4.48%, German Bund 10Y ~2.85%"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "fx",
+      "headline": "USD/JPY ~161-162, 40-year yen low; BoJ July 23 meeting: 25bp hike to 1.00% consensus; NFP miss may ease pair Monday"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "fx",
+      "headline": "GBP/USD ~1.2934, 3-month sterling high on Bailey Sintra hawkish remarks (2 more BoE hikes flagged)"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "fx",
+      "headline": "EUR/USD near 13-month lows; NFP miss expected to provide mild EUR recovery Monday"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "equities",
+      "headline": "US markets closed July 3 (Independence Day). July 2 closes: S&P 500 -0.36% to 7,456; Nasdaq -1.15% to 25,740 on AI/chip valuation concerns; Dow at new all-time high"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "equities",
+      "headline": "SpaceX (SPCX) -7.8% July 1-2: FAA adds SpaceX, Blue Origin, Rocket Lab, Virgin Galactic to prohibited-investment list for agency employees; Musk denied AI-equipment rumours"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "equities",
+      "headline": "Bending Spoons (BSP) closed ~$40 on IPO debut (+38% from $29 offer price); $20B market cap"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "equities",
+      "headline": "Lime (LIME) +2.3% to $26.70 post-IPO, $1.73B market cap; Nikkei 225 +0.87% to ~70,671; DAX +0.18%"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "nordics",
+      "headline": "OMX Nordic 40 +1.32%; OMX Helsinki 15 +0.96%; Nordic Bank & Insurance index +1.55% on July 3"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "nordics",
+      "headline": "Nokia near Nordea revised price target; insider buying noted; Q2 earnings July 23; YTD +105%"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "nordics",
+      "headline": "Kindred Group (KIND.ST) FDJ advanced takeover at SEK 155-165/share; stock ~SEK 128; formal announcement still pending"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "stocks",
+      "headline": "SpaceX (SPCX) post-IPO FAA volatility; premarket recovery +0.80% Thursday; key AI sentiment read when US reopens Monday"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "stocks",
+      "headline": "Nokia Q2 earnings July 23 \u2014 key catalyst after 105% YTD run; insider buying flagged this week"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "sport",
+      "headline": "World Cup R32: Spain 3-0 Austria (Oyarzabal x2, Porro header); Portugal 2-1 Croatia (Ramos 90+3', Ronaldo pen equaliser)"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "sport",
+      "headline": "World Cup R32 July 3: Australia vs Egypt, Argentina vs Cape Verde, Colombia vs Ghana, Switzerland vs Algeria"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "sport",
+      "headline": "F1 British GP Silverstone (sprint weekend): Sprint Qualifying 16:30 BST (18:30 EEST) July 3; Sprint Race Sat; Main GP Sun; Russell 40pts behind Antonelli"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "sport",
+      "headline": "Wimbledon Day 5: Djokovic vs Rinderknech (3R); Sabalenka vs Ostapenko on Centre Court"
+    },
+    {
+      "date": "2026-07-03",
+      "section": "gossip",
+      "headline": "Taylor Swift/Travis Kelce WEDDING DAY at MSG: ~1,100 guests; performers Stevie Nicks + Tim McGraw; $26M charity donation; celebrities (Cooper, Hadid, Gomez, Sheeran) confirmed in NYC"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "world_news",
+      "headline": "Russia's deadliest Kyiv attack of 2026: ~500 drones + 77 missiles (incl. Zircon hypersonics) overnight Jul 2-3; 30+ dead, 100+ injured, every district hit, 9-story building collapsed; 5 more killed Jul 3-4"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "world_news",
+      "headline": "Khamenei state funeral begins Jul 4, runs through Jul 9 across Iran and Iraq; US-Iran Doha talks formally suspended until Jul 9"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "world_news",
+      "headline": "Record US heat dome Jul 4: 185M+ under heat alerts, 300+ records set/expected; Philadelphia 103F, Newark 105F, Boston 100F; Amtrak NE cancellations, fireworks postponed"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "world_news",
+      "headline": "Russia's Ukraine ground advance reportedly collapsing: ~40,000 Russian troops killed in June alone (Al Jazeera/Ukrainian intelligence)"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "world_news",
+      "headline": "FIFA confirms Folarin Balogun one-match suspension \u2014 US forward misses World Cup R16 vs Belgium"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "macro",
+      "headline": "NFP fallout: Fed Sep hike probability falls from 67% to <50%; Jul 28-29 FOMC hold now baseline; gold surges to $4,170 (+2% week); Jul 28-29 FOMC rate hold consensus"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "macro",
+      "headline": "Oil falls to WTI $68.69 / Brent $71.80 (pre-war levels) as Hormuz traffic expands and Iran talks reduce risk premium; US 10Y easing toward 4.30-4.40% on NFP miss"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "fx",
+      "headline": "EUR/USD recovers to mid-1.14s (+0.5-0.7%) from 13-month lows on NFP-driven dollar selloff"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "fx",
+      "headline": "GBP/USD ~1.2934 (3-month sterling high) on NFP miss + BoE Bailey Sintra hawkish comments (2 more hikes flagged)"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "fx",
+      "headline": "USD/JPY ~161-162, lingering at 40-year yen lows; MoF 'final evacuation warning' Jul 2 without intervening; BoJ Jul 23 meeting 25bp hike to 1.00% consensus"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "equities",
+      "headline": "Last US close Thu Jul 2: Dow record 52,900; S&P 500 flat at 7,483; Nasdaq -0.8% to 25,832 on chip/AI valuation concerns; US markets closed Jul 3 (holiday observed)"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "equities",
+      "headline": "European markets Fri Jul 3: Stoxx 600 +0.69% (new 52-week high, 4th consecutive weekly rise); DAX +0.85% (defence stocks led)"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "equities",
+      "headline": "Gold miners broadly +3-5% Fri Jul 3 on gold hitting $4,170; defence stocks (Rheinmetall, Renk, Hensoldt) extended gains on UK-Germany Trinity House deal"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "nordics",
+      "headline": "OMX Nordic 120 +1.43% Fri Jul 3 to 1,702.20 EUR, outperforming broader Europe"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "nordics",
+      "headline": "Nokia wins multi-year contract as sole optical transport supplier for Orange Belgium (announced Jul 2); YTD +105%; Q2 earnings Jul 23"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "ipo",
+      "headline": "Upcoming IPOs: Chime (Nasdaq, wk Jul 7); Cint re-listing (Nasdaq Stockholm, Jul 10)"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "sport",
+      "headline": "World Cup R32 Jul 3: Egypt 1-1 AET Australia \u2192 Egypt 4-2 pens (first WC knockout win); Argentina 3-2 AET Cape Verde (Messi goal); Colombia 1-0 Ghana (Arias 14')"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "sport",
+      "headline": "World Cup R16 Jul 4: Canada vs Morocco (20:00 EEST); France vs Paraguay (00:00 EEST Sat-Sun)"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "sport",
+      "headline": "Wimbledon Day 5 Jul 3: Djokovic beats Rinderknech, equals Federer's all-time record 105 Wimbledon wins; Sinner bt Brooksby; Sabalenka bt Ostapenko; Medvedev OUT (lost to Struff R3)"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "sport",
+      "headline": "F1 British GP Sprint Qualifying (Fri Jul 3): Hamilton pole (Ferrari, 1:28.376), Antonelli P2 by 0.011s, Verstappen P3; Sprint Race + Main Qualifying on Sat Jul 4"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "gossip",
+      "headline": "Taylor Swift & Travis Kelce confirmed married Jul 3 at MSG (~1,100 guests), officiated by Adam Sandler; performers Stevie Nicks + Tim McGraw; $26M charity donation"
+    },
+    {
+      "date": "2026-07-04",
+      "section": "gossip",
+      "headline": "Record US heat dome forcing Jul 4 fireworks cancellations across eastern US; Amtrak NE Corridor trains cancelled due to track heat risk"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "world_news",
+      "headline": "Trump's politicized America 250 speeches: Mount Rushmore (Jul 3) called communism greater threat than WWII or 9/11; National Mall rally delayed by rain to 11pm ET"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "world_news",
+      "headline": "China PLA reshuffle: Xi Jinping promotes generals Wang Shuguang and Wang Gang, analysts see continued CCP loyalty consolidation"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll rises to 2,954 (from 2,595); fuel shortages leaving heavy rescue machinery idle, threatening rescue timeline"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "world_news",
+      "headline": "US-Iran: Khamenei multi-city state funeral (Tehran \u2192 Najaf/Karbala \u2192 Mashhad burial Jul 9); US Energy Sec Wright confirms record 20M barrels/day through Hormuz; talks resume Jul 9"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "macro",
+      "headline": "June NFP full detail: leisure/hospitality -61k drag; cumulative -74k two-month revision; labour force participation falls to 61.5%; weakest print in 4 months"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "macro",
+      "headline": "Fed Sep hike probability collapses from 67% to 29% post-NFP; FOMC June minutes due Wed Jul 8 21:00 EEST \u2014 Warsh's hawkish first meeting vs collapsing labour market"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "macro",
+      "headline": "Eurozone CPI June: 2.8% headline, 2.4% core; German Bund 10Y 2.94% (+4bp Fri, -9bp on month)"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "fx",
+      "headline": "EUR/USD 1.1470 (+0.5% week) on NFP dollar selloff; GBP/USD clears 1.3300 (+0.5%) on NFP + Bailey Sintra hawkish comments"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "fx",
+      "headline": "USD/JPY pulls back to ~161 from 162.5 after Finance Minister Katayama explicit intervention warning; no confirmed BoJ action; EUR/NOK 11.2487; USD/SEK ~9.66"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "equities",
+      "headline": "Asian close Fri Jul 3: Nikkei +1.47% \u2192 69,744; KOSPI +5.76% \u2192 ~8,088 (exceptional, driver unclear); Hang Seng +1.28% \u2192 ~23,055"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "equities",
+      "headline": "European close Fri Jul 3: Euro Stoxx 50 +0.9% \u2192 6,417; Stoxx 600 +0.7% \u2192 653; DAX week +3.69%; FTSE 100 week +1.38%"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "equities",
+      "headline": "US ES futures ~7,558; Nokia ADR -6.51% \u2192 $12.07 Thu; Palo Alto Networks +14.4% week; Nvidia only +5% YTD despite Q1 rev +85%"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "equities",
+      "headline": "SpaceX (SPCX) joins Nasdaq-100 pre-open Tue Jul 7; estimated $4.3B passive buy + ~$3B Russell rebalancing; avg first-day return for Nasdaq-100 additions since 2022: -1.13%"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "nordics",
+      "headline": "OMXH25 6,268.65 (Fri Jul 3); OMXS30 2,449.70 (+0.64% Fri); Nokia NOKIA.HE \u20ac11.06 +2.50% Fri | ADR -6.51% Thu"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "nordics",
+      "headline": "Nokia analyst split: Danske Buy/\u20ac14 \u2191; UBS Neutral/\u20ac11; LBBW Sell/\u20ac9.75 \u2193; Orange Belgium sole supplier contract confirmed"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "nordics",
+      "headline": "Catella (CAT-B.ST) +15.3%: advised Castellum \u2192 Alecta Fastigheter Stockholm offices ~SEK 5B + Kaktus Towers Copenhagen \u2192 Quantum SEK 2.1B"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "nordics",
+      "headline": "Addnode +5.1% on Carnegie Buy upgrade; Ericsson: Investor AB buys SEK 225.6M additional shares"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "stocks",
+      "headline": "Jersey Mike's (JMKE) S-1 filed Jul 2 for NYSE IPO: $724M revenue, $55M net income, $4.3B systemwide sales; targeting $12B+ valuation, $1B+ raise; MS/Jefferies/JPM underwriters"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "ma",
+      "headline": "Catella advises Castellum \u2192 Alecta Fastigheter Stockholm offices ~SEK 5B (one of Stockholm's largest office transactions in years)"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "ma",
+      "headline": "Catella advises Kaktus Towers Copenhagen \u2192 Quantum SEK 2.1B; Nordic institutional real estate capital returning at scale"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "sport",
+      "headline": "World Cup R16: Morocco 3-0 Canada (Ounahi brace + Rahimi); Canada first host nation ever eliminated at R16 stage"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "sport",
+      "headline": "World Cup R16: France 1-0 Paraguay (Mbappe pen 70', his 19th WC goal); France into QF for 4th straight tournament"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "sport",
+      "headline": "Wimbledon Day 6: Alexandra Eala (Philippines, 21) beats No. 3 seed Swiatek 7-6(9) 6-2 in first Centre Court appearance; Mertens beats Rybakina 7-6 6-1 \u2014 two top-3 seeds out in one day"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "sport",
+      "headline": "Wimbledon Day 7: Sinner through; Gauff beats Bencic 6-3 6-7 6-2; Djokovic vs Safiullin and Sabalenka vs Osaka results pending"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "sport",
+      "headline": "F1 British GP Silverstone: Antonelli wins Sprint Race (Hamilton P2, Norris P3); Antonelli takes main GP pole (Leclerc P2, Hamilton P3); Main race today Jul 5"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "sport",
+      "headline": "Golf: Brian Campbell wins John Deere Classic \u2014 his 2nd PGA Tour title of 2026"
+    },
+    {
+      "date": "2026-07-05",
+      "section": "gossip",
+      "headline": "Swift-Kelce wedding aftermath: Adam Sandler officiated; Austin Swift man of honor; Jason Kelce best man; custom Christian Dior; Empire State Building lit blue; White House Instagram troll"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "world_news",
+      "headline": "Super Typhoon Bavi makes landfall over Northern Mariana Islands (US territory, incl. Saipan); damaging winds and storm surge; federal emergency response activated"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "world_news",
+      "headline": "Israel strikes near Ghandour Hospital in Nabatieh and Braashit district (southern Lebanon); Hezbollah rejects June 26 US-brokered framework as humiliating, calls disarmament linkage a red line \u2014 ceasefire fraying"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "world_news",
+      "headline": "Iran Hormuz ultimatum: tankers must use IRGC-approved routes or face forceful response; friendly nations may get toll discounts; US-Iran Doha talks paused until Jul 9 for Khamenei funeral"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "world_news",
+      "headline": "Venezuela rescue-to-reconstruction transition confirmed; UN-backed study puts total economic damage at $37B; 2,954 dead, 50,000+ unaccounted"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "macro",
+      "headline": "FOMC June minutes due Wednesday Jul 8, 21:00 EEST \u2014 key read on Warsh hawkish stance vs collapsing labour market; Sep hike probability 29%"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "macro",
+      "headline": "Eurozone CPI June final: 2.8% headline, 2.4% core \u2014 below consensus 3.0%, lowest since Feb 2026; services eased to 3.2%"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "macro",
+      "headline": "US 10Y drifting toward 4.30-4.40% on NFP miss; German Bund 10Y ~2.94%; gold ~$4,100-4,150/oz"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "fx",
+      "headline": "EUR/USD ~1.143-1.145, recovering from 13-month lows; NFP dollar selloff driving pair toward 1.15"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "fx",
+      "headline": "GBP/USD cleared 1.3300 (3-month sterling high) on Bailey Sintra two-more-hikes signal + NFP dollar softness"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "fx",
+      "headline": "USD/JPY ~161-162.5, 40-year yen low; MoF Katayama repeated intervention warning without action; BoJ Jul 23 +25bp hike to 1.00% consensus"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "equities",
+      "headline": "SpaceX (SPCX) joins Nasdaq-100 effective Jul 7; est. $4.3B+ passive ETF buying kicks in after Jul 6 close; avg first-day return for Nasdaq-100 additions since 2022: -1.1%"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "equities",
+      "headline": "Stoxx 600 +0.7% new 52-week high (Fri Jul 3, 4th straight weekly gain); DAX +0.85%; Nikkei +1.47% to 69,744; KOSPI +5.76%"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "equities",
+      "headline": "BTC ~$62,838 (+1.6%), recovering from $60k cycle low; WTI ~$68.33/bbl (-0.6%)"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "nordics",
+      "headline": "Nokia (NOKIA.HE) \u20ac11.17 (Jul 5); AI/cloud sales +49% YoY; Orange Belgium sole-supplier confirmed; Q2 earnings Jul 23; Danske Buy/\u20ac14, UBS Neutral/\u20ac11, LBBW Sell/\u20ac9.75"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "nordics",
+      "headline": "OMXH25 6,268.65; OMXS30 2,449.70 (both Fri Jul 3 close)"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "stocks",
+      "headline": "Jersey Mike's (JMKE) S-1 filed Jul 2 for NYSE IPO; $12B+ valuation target; $1B+ raise; Blackstone-backed; Forbes: $50M pay for founder's stepson, $41M aircraft; Q3 2026 debut plausible"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "ma",
+      "headline": "QXO/TopBuild shareholder approval complete at both companies; deal closing imminent"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "ma",
+      "headline": "OpenAI confidentially filed for IPO Jun 8; no pricing date yet; US M&A $1.2T in first 5 months of 2026 (~2x 2025 pace)"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "sport",
+      "headline": "F1 British GP (Jul 5): Leclerc wins from Russell P2, Hamilton P3; championship leader Antonelli suffers car failure mid-race and falls back; Verstappen retires (spin); race ends under Safety Car"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "sport",
+      "headline": "World Cup R16 (Jul 5): Norway 2-1 Brazil (Haaland 79', 81') \u2014 Norway's first-ever WC QF, biggest upset of tournament; England 3-2 Mexico (Bellingham brace) with 10 men from 54' (Quansah red card)"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "sport",
+      "headline": "Wimbledon R4: Osaka stuns Sabalenka #1 seed 6-2 7-6 (3rd top-3 seed out this fortnight); Djokovic beats Safiullin for 106th Wimbledon win, surpassing Federer all-time men's record; Sinner, FAA, Gauff, Pegula into QF"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "sport",
+      "headline": "World Cup R16 today Jul 6: Spain vs Portugal (22:00 EEST, Dallas); Belgium vs USA (03:00 EEST Tue)"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "gossip",
+      "headline": "Swift-Kelce wedding new detail: Paul McCartney performed I Want to Hold Your Hand live for first time in 62 years at MSG; celebrity departures spotted Jul 5-6 (Hadid, Cooper, Gomez, Mahomeses, Brady, Spielberg)"
+    },
+    {
+      "date": "2026-07-06",
+      "section": "gossip",
+      "headline": "Andrew Garfield and Monica Barbaro photographed on a Wimbledon date \u2014 relationship confirmed"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "world_news",
+      "headline": "NATO Ankara Summit opens Jul 7-8: all 32 allies + Trump; ironclad Article 5 reaffirmed; EU70bn Ukraine military aid pledged for 2026"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "world_news",
+      "headline": "China PLA Navy fires SLBM from Type 094 sub into Pacific Jul 6 \u2014 first publicly acknowledged Chinese SLBM Pacific test; rebukes from Australia, Japan ahead of NATO summit"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "world_news",
+      "headline": "Macron arrives Damascus Jul 6 \u2014 first Western European head of state in Syria since Assad fell; CMA CGM and TotalEnergies CEOs in delegation"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "world_news",
+      "headline": "Hamas dissolves Gaza Government Emergency Committee Jul 6, offers power to UN-backed NCAG technocratic panel \u2014 first governance transfer since 2007; disarmament unresolved"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "world_news",
+      "headline": "Belgium 4-1 USA (Jul 6, Seattle): US co-hosts eliminated in R16; De Ketelaere brace, Freese error, Lukaku cameo; FIFA lifted Balogun ban suspended + 0K fine"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "macro",
+      "headline": "FOMC June minutes due Wed Jul 8 21:00 EEST \u2014 first Warsh-era minutes; committee split 8-1-9 hold/cut/hike; Warsh skipped the dot plot"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "macro",
+      "headline": "Fed Sep hike probability ~50-55% (recovering from NFP-driven 29%); FOMC Jul 28-29 expected hold; Warsh: inflation too high"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "macro",
+      "headline": "ECB Jun 11 hike 25bp (deposit rate 2.25%); Lagarde Sintra: ECB can raise rates without fear; June CPI 2.8%/2.4% core below 3.0% consensus"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "fx",
+      "headline": "EUR/USD 1.1418 (-0.17%): capped below bearish trendline from early May; NFP bounce fading; ECB dovish signals limit euro upside"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "fx",
+      "headline": "USD/JPY ~161-162: near 40-year yen lows; FinMin Katayama repeated intervention warning without follow-through; BoJ meeting Jul 30-31"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "equities",
+      "headline": "Monday Jul 6 close: S&P 500 +0.72% to 7,537; Nasdaq +1.12% to 26,121; Dow +0.29% to 53,056"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "equities",
+      "headline": "TeraWulf (WULF) +16% Jul 6: Anthropic signs 20-year 9bn AI data center lease at Kentucky campus (401MW); WULF sells Abernathy JV to Fluidstack ~50M"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "equities",
+      "headline": "Western Digital (WDC) +7% Jul 6 on AI hardware recovery; Oracle +2.5%, Marvell +1%; broad tech bid"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "equities",
+      "headline": "SpaceX (SPCX) joins Nasdaq-100 effective Jul 7: est. .3bn passive ETF buy + bn Russell rebalancing; stock ~62 vs 25 post-IPO peak; sell-the-news risk flagged"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "nordics",
+      "headline": "OMX Nordic 40 indicated -0.71% early Jul 7; OMXH25 6,268.65 / OMXS30 2,449.70 (Fri Jul 3 close)"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "nordics",
+      "headline": "Nokia (NOKIA.HE) EUR11.17: Orange Belgium sole optical transport contract confirmed; Q2 earnings Jul 23; Danske Buy/EUR14 vs UBS Neutral/EUR11 vs LBBW Sell/EUR9.75"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "stocks",
+      "headline": "SpaceX (SPCX) Nasdaq-100 inclusion today: .3bn forced buy on ~3% float; historical caution from Palantir/MicroStrategy precedent"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "stocks",
+      "headline": "SK Hynix US listing Jul 10: -25% from post-announcement highs in Seoul on tariff headwinds; Cint re-lists Nasdaq Stockholm Jul 10"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "ma",
+      "headline": "Anthropic/TeraWulf: 9bn 20-year AI data center lease (Kentucky, 401MW) announced Jul 6 \u2014 largest AI infra contract by annual value"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "ma",
+      "headline": "QXO/TopBuild shareholder approvals complete at both companies; deal closing imminent"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "sport",
+      "headline": "World Cup R16 Jul 6: Spain 1-0 Portugal (Merino 90+1, Ronaldo WC career over at 41); Belgium 4-1 USA (De Ketelaere x2, Freese error, Lukaku); Spain vs Belgium QF"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "sport",
+      "headline": "World Cup R16 Jul 7: Argentina vs Egypt (19:00 EEST, Atlanta); Switzerland vs Colombia (23:00 EEST, Vancouver)"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "sport",
+      "headline": "Wimbledon Day 8 Jul 7: Fritz d. Bublik; Cobolli d. de Minaur (seed upset); Fery d. Dimitrov 5 sets; Women: Paolini d. Eala; Noskova d. Keys; Mertens d. Bouzkova"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "gossip",
+      "headline": "Taylor Swift/Travis Kelce wedding guests reveal more MSG details: Paul McCartney performed, Adam Sandler officiated, 0M+ floral budget"
+    },
+    {
+      "date": "2026-07-07",
+      "section": "gossip",
+      "headline": "Macron Damascus trip with CMA CGM + TotalEnergies CEOs: part statesman, part Syria reconstruction business development"
+    }
   ]
 }
