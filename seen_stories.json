@@ -1354,6 +1354,141 @@
       "date": "2026-07-07",
       "section": "gossip",
       "headline": "Macron Damascus trip with CMA CGM + TotalEnergies CEOs: part statesman, part Syria reconstruction business development"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "world_news",
+      "headline": "US reimposed Iran oil sanctions + CENTCOM struck 80+ Iranian targets (air defense, radar, 60+ IRGC boats) after IRGC hit 3 Hormuz tankers in 24h; Iran vows crushing response; Doha talks effectively dead"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "world_news",
+      "headline": "NATO Ankara summit Day 2: Trump meets Zelenskyy at sidelines; allies affirm ironclad Article 5; EUR70B Ukraine military aid pledged for 2026"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "world_news",
+      "headline": "Bomb explodes near Macron's Damascus hotel (Four Seasons area) during historic Syria state visit; Macron safe; first Western EU head-of-state in Syria since Assad fell"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll rises to 3,535 (from 2,954); Day 14; fuel shortages halting heavy rescue machinery; $37B UN damage estimate"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "world_news",
+      "headline": "Cuba suffers third island-wide blackout of 2026; national grid collapses amid fuel crisis; millions without power"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "macro",
+      "headline": "FOMC June 2026 minutes released 21:00 EEST; first Warsh-era minutes; committee split 8-1-9 hold/cut/hike; Warsh skipped dot plot; Sep hike probability ~50-55%"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "macro",
+      "headline": "Samsung Q2 2026: record W89.4T operating profit (+1,810% YoY) but revenue miss; stock -6.9% in Seoul; triggered SMH semiconductor ETF -3%, Micron -4.7% on AI capex fears"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "macro",
+      "headline": "DeepSeek developing own AI chip (Reuters, Jul 7); amplified chip sector selloff alongside Samsung miss; DeepSeek independence from Nvidia/Samsung chips flagged as structural risk"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "macro",
+      "headline": "US 10Y drifting toward 4.30-4.40% on soft labour backdrop; German Bund 10Y ~2.94%; gold ~$4,100-4,150/oz; oil reversing higher on Iran escalation"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "fx",
+      "headline": "EUR/USD ~1.1430, recovering from 13-month lows but capped below bearish trendline; ECB July 23 next catalyst"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "fx",
+      "headline": "USD/JPY ~161-162, near 40-year yen lows; FinMin Katayama repeated warning without intervention; Iran risk-off = potential yen safe-haven bid"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "fx",
+      "headline": "GBP/USD ~1.3300, 3-month sterling high on Bailey Sintra two-more-hikes signal + NFP dollar softness; holding above 1.33"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "equities",
+      "headline": "July 7 close: S&P 500 -0.45% to 7,503.85; Nasdaq -1.16% to 25,818.69; Dow -0.25% to 52,925.15; ends 4-day winning streak on chip selloff"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "equities",
+      "headline": "Samsung -6.9% in Seoul (record profit, revenue miss); Micron -4.7%; AMD -2%; SMH semiconductor ETF -3% on DeepSeek AI chip + Samsung miss"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "equities",
+      "headline": "SpaceX (SPCX) ~flat (+1%) on Nasdaq-100 inclusion day (Jul 7); $4.3B passive buy pre-positioned; sell-the-news dynamic; stock ~$149-158"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "equities",
+      "headline": "Jul 8 premarket: Marvell -5%, ARM Holdings -4% (chip weakness extends); IBM gains; Plug Power +1.5% (50MW hydrogen contract); Iran escalation = risk-off tone"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "nordics",
+      "headline": "Nokia (NOKIA.HE) EUR10.42, -3.17%; catches down to global chip rout; Q2 earnings July 23; Danske Buy/EUR14 vs UBS Neutral/EUR11 vs LBBW Sell/EUR9.75; +137% YTD"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "nordics",
+      "headline": "Nordea +0.12%, Sampo +0.92%; defensive financials outperforming as tech/semis sold"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "nordics",
+      "headline": "SK Hynix ADR (SKHY) Nasdaq listing Thursday July 10; $29B raise, largest-ever US listing by foreign company; -25% from announcement highs on tariff headwinds; key read for AI memory sector"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "nordics",
+      "headline": "Cint Group re-listing on Nasdaq Stockholm also July 10"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "stocks",
+      "headline": "SpaceX (SPCX) ~$149-158 post-Nasdaq-100 inclusion; only ~3% float; Palantir-style sell-the-news risk in next 48h"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "stocks",
+      "headline": "SK Hynix ADR (SKHY) Thursday Nasdaq debut; world's largest foreign US stock offering; will set tone for AI memory sector into Q3 2026"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "ma",
+      "headline": "Alphabet joins EUR411M Series B in Proxima Fusion (Jul 7); largest fusion energy private round of 2026; Google DeepMind AI to model plasma physics; co-led by Atomico"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "sport",
+      "headline": "World Cup R16 Jul 8: Argentina 2-1 Egypt (Messi equalizer + Enzo Fernandez stoppage-time header; Messi 8 WC goals, sole Golden Boot leader); Switzerland 4-3 pens vs Colombia (0-0 AET); all 8 QF slots filled"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "sport",
+      "headline": "Wimbledon QF Day 10: Djokovic beats Auger-Aliassime 7-6(10) 3-6 6-3 6-7(4) 7-6(4) in 5h+ thriller (15th Wimbledon SF); Gauff beats Pegula 4-6 6-3 6-3; Muchova beats Osaka 7-6 6-4; Sinner vs Fritz and Paolini vs Kostyuk to follow"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "gossip",
+      "headline": "Swift-Kelce wedding leaks escalate: handwritten vows now circulating; Paul McCartney performing I Want to Hold Your Hand (first time in 62 years) confirmed by multiple guests; $26M+ charity donations total"
+    },
+    {
+      "date": "2026-07-08",
+      "section": "gossip",
+      "headline": "Macron Damascus hotel bomb adds drama to historic Syria visit; French delegation safe"
     }
   ]
 }
