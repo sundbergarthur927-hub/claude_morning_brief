@@ -1,156 +1,6 @@
 {
   "stories": [
     {
-      "date": "2026-06-26",
-      "section": "world_news",
-      "headline": "Venezuela hit by twin 7.2/7.5-magnitude earthquakes (June 24-25), 200+ dead, Trump pledges US aid"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "world_news",
-      "headline": "Trump cancels signing of bipartisan affordable-housing bill, demands SAVE America Act first"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "world_news",
-      "headline": "Strait of Hormuz vessel traffic doubles as shipping tests US-Iran de-escalation deal, oil falls"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "macro",
-      "headline": "US Q1 2026 GDP final revised up to 2.1% annualized"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "macro",
-      "headline": "May core PCE inflation 3.4% y/y, hottest since 2023, reinforces Fed hawkish tilt under Chair Kevin Warsh"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "macro",
-      "headline": "FOMC June dot plot shows median 2026 year-end rate 3.8%, up from 3.4% in March"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "macro",
-      "headline": "US 10Y Treasury eases to ~4.40-4.45%, German 10Y Bund ~2.85%"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "fx",
-      "headline": "EUR/USD near 13-month lows on Fed-ECB policy gap widening"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "fx",
-      "headline": "USD/JPY pinned near weakest since 1986, 162 seen as BoJ intervention trigger level"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "equities",
-      "headline": "Apple -6.1% on MacBook/iPad price hikes tied to AI memory chip cost surge"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "equities",
-      "headline": "Micron +15.8% on blowout Q3 earnings (EPS $25.11 vs $20.78 est, revenue +346% YoY) on AI memory demand"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "equities",
-      "headline": "Qualcomm +9% after nearly doubling 2029 non-handset revenue guidance to $40B"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "equities",
-      "headline": "Asia chip stocks sell off (SoftBank -13%, Samsung -7%, SK Hynix -9%, Advantest -10%) on AI infrastructure cost concerns"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "equities",
-      "headline": "Nikkei 225 closes -4.15% on AI-cost-concern sell-off, Kospi -5.81% same session"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "equities",
-      "headline": "Caterpillar +5-6% on record AI data-center backup-power backlog and dividend hike"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "nordics",
-      "headline": "Nokia +2.3% on AWS/Databricks partnership news, Nordea hikes price target to EUR15.70"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "nordics",
-      "headline": "H&M six-month report: Q2 net sales SEK 54.8bn, op profit ex-items +11%, Barclays raises PT"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "nordics",
-      "headline": "Sampo +0.74% on Kepler Cheuvreux Buy reiteration"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "nordics",
-      "headline": "Nordea -1.3%, pullback after a strong run"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "nordics",
-      "headline": "SEB upgrades Indutrade to Buy; Two Sigma discloses 0.52% short position against Evolution; Wingefors increases Storytel stake"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "ma",
-      "headline": "Merck KGaA agrees to acquire Bio-Techne for $11.3B all-cash (~36% premium)"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "ma",
-      "headline": "Bain Capital acquires 51% stake in Everllence (ex-MAN Energy) from Volkswagen for EUR7.4-9bn, beating CVC and EQT"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "ma",
-      "headline": "NuCube Energy to go public via SPAC merger with Launch Two Acquisition Corp (~$500M pre-money)"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "ipo",
-      "headline": "Lime (Neutron Holdings) IPO prices June 30, Nasdaq debut July 1, range $24-26"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "ipo",
-      "headline": "Bending Spoons targets July 1 Nasdaq listing, ~$1.6B gross proceeds at midpoint"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "sport",
-      "headline": "World Cup 2026 group stage concludes: South Africa beats South Korea 1-0 for first-ever knockout berth; Morocco comes back to beat Haiti 4-2"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "sport",
-      "headline": "F1 Austrian GP weekend opens at Red Bull Ring, Antonelli leads standings"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "sport",
-      "headline": "Wimbledon qualifying wraps at Roehampton, Faria/Zheng/Tarvet through to main draw"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "gossip",
-      "headline": "Zoe Kravitz shows engagement ring from fiance Harry Styles in London"
-    },
-    {
-      "date": "2026-06-26",
-      "section": "gossip",
-      "headline": "Dolly Parton makes rare public appearance a month after canceling Vegas residency"
-    },
-    {
       "date": "2026-06-27",
       "section": "world_news",
       "headline": "Iranian drone strikes cargo ship Ever Lovely near Oman; US retaliates with airstrikes on 4 Iranian coastal targets; IRGC claims counter-strikes on US positions in the region"
@@ -1719,6 +1569,166 @@
       "date": "2026-07-10",
       "section": "gossip",
       "headline": "London disorder: Morocco fans flood Piccadilly & Trafalgar Square post-WC elimination by France; running clashes with police into early morning"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "world_news",
+      "headline": "China lands first-ever reusable rocket successfully — major space milestone challenging US commercial launch dominance"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "world_news",
+      "headline": "Ebola (DRC): outbreak spreading beyond Ituri province to previously unaffected areas of eastern Congo"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "world_news",
+      "headline": "Venezuela earthquake death toll 3,889; USGS warns final count likely 10,000–100,000; transitioning rescue to recovery phase"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "world_news",
+      "headline": "US-Iran: IRGC fired 10 ballistic missiles at Al-Azraq air base (Jordan, 8 intercepted); US struck near Bushehr nuclear plant; Iran hit Bahrain/Kuwait/Qatar; Doha talks confirmed dead"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "world_news",
+      "headline": "NATO Ankara summit outcomes: Trump to remove Syria from US state-sponsor-of-terrorism list; CAATSA sanctions on Turkey lifted; €50B European deep-strike coalition formed"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "macro",
+      "headline": "FOMC June minutes: 9 of 18 policymakers project ≥1 rate hike in 2026; 8 hold; 1 cut; Sep hike probability ~50-55%; Fed funds 3.50-3.75%"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "macro",
+      "headline": "US 10Y ~4.54%; German Bund 10Y ~3.05%; Gold $4,129/oz; Oil WTI $71.51/bbl (off Iran-spike); BTC $64,132"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "macro",
+      "headline": "US June CPI due Tuesday July 14 14:30 EEST; Cleveland Fed nowcast 3.96%; NY Fed 1yr expectations 3.7% (highest since Sep 2023)"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "fx",
+      "headline": "EUR/USD 1.1430 stable; USD/JPY 161.70 (-0.42%) on FinMin Katayama pension fund comments; EUR/SEK 11.062; EUR/NOK 11.131; BoJ Jul 30-31 +25bp to 1.00% consensus"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "equities",
+      "headline": "July 10 closes: S&P 500 7,575 (+0.42%); Nasdaq 26,282 (+0.29%); Dow 52,637 (+0.29%); FTSE 100 ~10,477; DAX ~25,090 (-0.11%); Nikkei 68,558 (+1.20%)"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "equities",
+      "headline": "Meta +4.7% (+15% week, best since early 2024) on Muse Image AI model + custom Iris chip (Broadcom/TSMC, Sep production); Delta Q2 beat ($1.56 EPS vs $1.48 est); PepsiCo -3.2% EPS miss"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "equities",
+      "headline": "SK Hynix (SKHYV) Nasdaq debut: priced $149, closed +13% at ~$168; $26.5B raised (world record US foreign listing); 7x oversubscribed; regular SKHY trading starts Jul 13"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "nordics",
+      "headline": "OMX Helsinki 25 +1.84% July 10; Nokia -3.72% pullback after JPMorgan upgrade surge; Fidelity (FMR LLC) sold 18.9M shares (Jun 29-Jul 8), stake below 5% (~€211M exit)"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "nordics",
+      "headline": "Nordea Q2 report Jul 16 (07:30 EET); new 2026-30 strategy: ROE >15%, C/I 40-42% by 2030; interim dividend late July"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "nordics",
+      "headline": "Ericsson Q2 earnings Mon Jul 14 + CEO Börje Ekholm out Sep 30 → Per Narvinger in Oct 1; Cint Group re-listed Nasdaq Stockholm Jul 10"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "stocks",
+      "headline": "InMode (INMD): Steel Partners $16.75 hostile bid deadline Mon Jul 13 17:00 ET; competing against CEO $16.20 MBO; board reviewing"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "stocks",
+      "headline": "Ericsson (ERIC-B): Q2 earnings + CEO succession simultaneously Monday — double catalyst; SEK 15B buyback running"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "ma",
+      "headline": "Lockheed Martin acquires Ultra Maritime Solutions (Advent) for $3.45B cash — ASW/undersea defense (Jul 6)"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "ma",
+      "headline": "Kroger acquires Giant Eagle for $1.65B ($1.25B cash + ~$400M liabilities); 197 supermarkets OH/PA/WV/MD/IN; antitrust pending (Jul 8)"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "ma",
+      "headline": "Steel Partners $16.75/share hostile offer for InMode (Jul 9); beats CEO MBO by $0.55; governance battle; deadline Mon Jul 13"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "ma",
+      "headline": "Prologis pressing Segro on £12.6B all-stock bid; Segro board rejected; Prologis must formalize or walk by Jul 22 (UK Takeover Panel)"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "ma",
+      "headline": "Perfect Corp (PERF) going-private at $2.00/share (48.1% premium); CEO Alice Chang-led buyout entity (Jul 10)"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "sport",
+      "headline": "World Cup QF: Spain 2-1 Belgium (Ruiz, De Ketelaere eq., Merino 88'); Spain into SF vs France"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "sport",
+      "headline": "World Cup QF tonight: Norway vs England 22:00 EEST (Miami); Argentina vs Switzerland ~02:00 EEST (Kansas City)"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "sport",
+      "headline": "Wimbledon Men's SFs (Jul 10): Sinner d. Djokovic 6-4 6-4 6-4; Zverev d. Fery 7-6(0) 6-2 6-4; Men's Final Sunday Jul 12: Sinner vs Zverev"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "sport",
+      "headline": "Wimbledon Women's Final: Muchova d. Noskova 6-2 1-6 7-6(10) — all-Czech first; Muchova wins maiden Grand Slam at age 29"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "sport",
+      "headline": "UFC 329 tonight Las Vegas: McGregor vs Holloway 2 — McGregor's return after ~5 years"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "gossip",
+      "headline": "Swift-Kelce honeymoon postponed; couple attending JuJu Smith-Schuster's wedding July 11 first"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "gossip",
+      "headline": "Archie & Lilibet meet King Charles III for first time in 4 years"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "gossip",
+      "headline": "Prince Harry loses privacy lawsuit vs Daily Mail"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "gossip",
+      "headline": "Brad Pitt + Ines de Roman Instagram official; spotted together at Spain vs Belgium WC QF in LA"
+    },
+    {
+      "date": "2026-07-11",
+      "section": "gossip",
+      "headline": "Kate Middleton & Prince William rare PDA at Royal Charity Polo Cup — Kate's first public appearance in ~2 years"
     }
   ]
 }
