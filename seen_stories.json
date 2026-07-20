@@ -1,141 +1,6 @@
 {
   "stories": [
     {
-      "date": "2026-07-05",
-      "section": "world_news",
-      "headline": "Trump's politicized America 250 speeches: Mount Rushmore (Jul 3) called communism greater threat than WWII or 9/11; National Mall rally delayed by rain to 11pm ET"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "world_news",
-      "headline": "China PLA reshuffle: Xi Jinping promotes generals Wang Shuguang and Wang Gang, analysts see continued CCP loyalty consolidation"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "world_news",
-      "headline": "Venezuela earthquake death toll rises to 2,954 (from 2,595); fuel shortages leaving heavy rescue machinery idle, threatening rescue timeline"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "world_news",
-      "headline": "US-Iran: Khamenei multi-city state funeral (Tehran → Najaf/Karbala → Mashhad burial Jul 9); US Energy Sec Wright confirms record 20M barrels/day through Hormuz; talks resume Jul 9"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "macro",
-      "headline": "June NFP full detail: leisure/hospitality -61k drag; cumulative -74k two-month revision; labour force participation falls to 61.5%; weakest print in 4 months"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "macro",
-      "headline": "Fed Sep hike probability collapses from 67% to 29% post-NFP; FOMC June minutes due Wed Jul 8 21:00 EEST — Warsh's hawkish first meeting vs collapsing labour market"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "macro",
-      "headline": "Eurozone CPI June: 2.8% headline, 2.4% core; German Bund 10Y 2.94% (+4bp Fri, -9bp on month)"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "fx",
-      "headline": "EUR/USD 1.1470 (+0.5% week) on NFP dollar selloff; GBP/USD clears 1.3300 (+0.5%) on NFP + Bailey Sintra hawkish comments"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "fx",
-      "headline": "USD/JPY pulls back to ~161 from 162.5 after Finance Minister Katayama explicit intervention warning; no confirmed BoJ action; EUR/NOK 11.2487; USD/SEK ~9.66"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "equities",
-      "headline": "Asian close Fri Jul 3: Nikkei +1.47% → 69,744; KOSPI +5.76% → ~8,088 (exceptional, driver unclear); Hang Seng +1.28% → ~23,055"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "equities",
-      "headline": "European close Fri Jul 3: Euro Stoxx 50 +0.9% → 6,417; Stoxx 600 +0.7% → 653; DAX week +3.69%; FTSE 100 week +1.38%"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "equities",
-      "headline": "US ES futures ~7,558; Nokia ADR -6.51% → $12.07 Thu; Palo Alto Networks +14.4% week; Nvidia only +5% YTD despite Q1 rev +85%"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "equities",
-      "headline": "SpaceX (SPCX) joins Nasdaq-100 pre-open Tue Jul 7; estimated $4.3B passive buy + ~$3B Russell rebalancing; avg first-day return for Nasdaq-100 additions since 2022: -1.13%"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "nordics",
-      "headline": "OMXH25 6,268.65 (Fri Jul 3); OMXS30 2,449.70 (+0.64% Fri); Nokia NOKIA.HE €11.06 +2.50% Fri | ADR -6.51% Thu"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "nordics",
-      "headline": "Nokia analyst split: Danske Buy/€14 ↑; UBS Neutral/€11; LBBW Sell/€9.75 ↓; Orange Belgium sole supplier contract confirmed"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "nordics",
-      "headline": "Catella (CAT-B.ST) +15.3%: advised Castellum → Alecta Fastigheter Stockholm offices ~SEK 5B + Kaktus Towers Copenhagen → Quantum SEK 2.1B"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "nordics",
-      "headline": "Addnode +5.1% on Carnegie Buy upgrade; Ericsson: Investor AB buys SEK 225.6M additional shares"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "stocks",
-      "headline": "Jersey Mike's (JMKE) S-1 filed Jul 2 for NYSE IPO: $724M revenue, $55M net income, $4.3B systemwide sales; targeting $12B+ valuation, $1B+ raise; MS/Jefferies/JPM underwriters"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "ma",
-      "headline": "Catella advises Castellum → Alecta Fastigheter Stockholm offices ~SEK 5B (one of Stockholm's largest office transactions in years)"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "ma",
-      "headline": "Catella advises Kaktus Towers Copenhagen → Quantum SEK 2.1B; Nordic institutional real estate capital returning at scale"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "sport",
-      "headline": "World Cup R16: Morocco 3-0 Canada (Ounahi brace + Rahimi); Canada first host nation ever eliminated at R16 stage"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "sport",
-      "headline": "World Cup R16: France 1-0 Paraguay (Mbappe pen 70', his 19th WC goal); France into QF for 4th straight tournament"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "sport",
-      "headline": "Wimbledon Day 6: Alexandra Eala (Philippines, 21) beats No. 3 seed Swiatek 7-6(9) 6-2 in first Centre Court appearance; Mertens beats Rybakina 7-6 6-1 — two top-3 seeds out in one day"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "sport",
-      "headline": "Wimbledon Day 7: Sinner through; Gauff beats Bencic 6-3 6-7 6-2; Djokovic vs Safiullin and Sabalenka vs Osaka results pending"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "sport",
-      "headline": "F1 British GP Silverstone: Antonelli wins Sprint Race (Hamilton P2, Norris P3); Antonelli takes main GP pole (Leclerc P2, Hamilton P3); Main race today Jul 5"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "sport",
-      "headline": "Golf: Brian Campbell wins John Deere Classic — his 2nd PGA Tour title of 2026"
-    },
-    {
-      "date": "2026-07-05",
-      "section": "gossip",
-      "headline": "Swift-Kelce wedding aftermath: Adam Sandler officiated; Austin Swift man of honor; Jason Kelce best man; custom Christian Dior; Empire State Building lit blue; White House Instagram troll"
-    },
-    {
       "date": "2026-07-06",
       "section": "world_news",
       "headline": "Super Typhoon Bavi makes landfall over Northern Mariana Islands (US territory, incl. Saipan); damaging winds and storm surge; federal emergency response activated"
@@ -1954,6 +1819,116 @@
       "date": "2026-07-19",
       "section": "sentiment",
       "headline": "Risk-off: Brent +14% weekly on Iran war escalation spreading to Gulf; Nasdaq -2.5% wk on China AI competition/semis rout; Alphabet + Tesla earnings Tuesday key swing factor for AI capex thesis"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "world_news",
+      "headline": "Russia's largest ballistic missile attack on Kyiv since war began (overnight Jul 19): 41 missiles incl. 10 Zircons + 125 drones; ~half intercepted; 1 killed, 16 injured; fires across 5 Kyiv districts; came hours after Ukraine struck 13 Russian shadow fleet vessels in Black Sea"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "world_news",
+      "headline": "Andy Burnham formally becomes UK PM today (Jul 20): 7th PM in a decade; first act scraps digital ID scheme; inherits Iran oil-shock cost-of-living crisis; youngest Labour PM since Blair"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "world_news",
+      "headline": "Tate Brothers arrested in Miami (Sat Jul 18) on UK extradition request: US Marshals detained Andrew (42 charges incl. rape, trafficking) + Tristan (17 charges); alleged offences 2010-2017 eastern England; extradition proceedings underway"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "world_news",
+      "headline": "Spain win 2026 FIFA World Cup: beat Argentina 1-0 AET at MetLife Stadium NJ; Ferran Torres (sub) scores 106'; Spain's 2nd WC title; conceded 1 goal across 7 matches; WC halftime show BTS/Bieber/Shakira/Madonna"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "world_news",
+      "headline": "US-Iran Night 7: CENTCOM struck Bonji desalination plant near Jask (10,000 villagers lose drinking water); Iran retaliated Kuwait (airport suspended), Qatar, Bahrain, Jordan overnight; 46 killed + 400+ wounded in Iran since escalation resumed; no ceasefire signals"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "macro",
+      "headline": "Fed FOMC blackout ahead of Jul 28-29 meeting; hold at 3.50-3.75% baseline (~86% probability); Sep hike ~50% priced; June CPI -0.4% m/m / 3.5% YoY (prev 4.2%) biggest monthly drop since Apr 2020"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "macro",
+      "headline": "ECB meets Thursday Jul 23 (13:45 CET / 14:45 EEST; Lagarde PC 15:30 EEST): 88% hold probability at 2.25% deposit rate; live tail risk 25bp hike if Iran oil feeds into core; Eurozone June CPI 2.8%"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "macro",
+      "headline": "US 10Y ~4.40%; German Bund ~3.0%; Gold ~$4,100/oz; Brent ~$88/bbl (+14% last week); WTI ~$82.50; Hormuz escalation risk premium; Iran now targeting civilian water infrastructure"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "calendar",
+      "headline": "Week key events: Mon Burnham PM + Ryanair Q1; Tue Alphabet+Tesla AH earnings (AI capex read) + Prologis/Segro bid-or-walk 17:00 London; Thu Jul 23 ECB 14:45 EEST + Nokia Q2 07:00 EEST; FOMC Jul 28-29 decision Jul 29"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "fx",
+      "headline": "EUR/USD ~1.1435 (week high 1.1474; +0.6% last week on CPI/PPI undershoots; ECB Thu Jul 23 next catalyst); USD/JPY ~162.4 (40-year JPY low; oil surge amplifying energy-import yen pressure; BoJ Jul 30-31 +25bp priced); USD/SEK ~9.66; EUR/SEK ~11.06; EUR/NOK ~11.13; GBP/USD ~1.3400 (3-month high)"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "equities",
+      "headline": "Fri Jul 18 closes: S&P 500 7,457 (-1.01% Fri, -1.6% wk); Nasdaq 25,520 (-1.4% Fri, -2.5% wk); Dow ~52,400; FTSE 100 + DAX mildly positive Fri; Nikkei -6.44% wk; TOPIX -2.90% wk"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "equities",
+      "headline": "Fri big movers: Netflix -8.7% (Q3 revenue guidance miss); SanDisk -12% (CXMT Chinese DRAM); Micron -4%; AMD -3.6%; Broadcom -5%. Alphabet + Tesla earnings Tue = key for semis recovery"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "nordics",
+      "headline": "Nokia (NOKIA.HE) ~EUR 10.27; Q2 THIS Thursday Jul 23 binary event: 72% FY consensus profit must come H2; SEB Buy, JPMorgan OW EUR21, Nordea Buy EUR14.8; -31% from June high. OMXH25 6,174.83 (+0.96% Fri)"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "nordics",
+      "headline": "Nordea H1 2026 beat: op. profit EUR1.61B (est 1.57B); ROE 15.9%; dividend EUR0.34/sh (record Aug 6, pay Aug 13). Ericsson -11.1% last week post Q2 revenue miss (SEK52.7B vs 59.3B est); CEO Ekholm->Narvinger Oct 1. Sampo EUR9.70 (+1.49% Fri)"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "stocks",
+      "headline": "Nokia Q2 Thu Jul 23 binary; Prologis/Segro bid-or-walk Tue Jul 22 17:00 London binary; Check Point (CHKP) 18x avg call volume unusual options + Scotiabank OW/$185 (Q2 Jul 30); CXMT Shanghai DRAM IPO Jul 27 = competition risk for Micron/SanDisk/Samsung"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "ma",
+      "headline": "Prologis/Segro UK Takeover Panel deadline Tue Jul 22 17:00 London: GBP12.6B all-stock (24.6% premium); Segro board hostile calls offer 'inadequate and opportunistic'; market expects sweetened bid or walk"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "ma",
+      "headline": "Meta/Anthropic: NYT reports up to $10B compute rental deal unconfirmed. KKR+Amwins+Dragoneer A$7.7B bid for Steadfast Group (ASX largest insurance broker) live. CXMT Shanghai STAR DRAM IPO Jul 27"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "sport",
+      "headline": "Spain 1-0 Argentina AET (Torres 106') at MetLife Stadium NJ: Spain win 2026 FIFA World Cup; 2nd title; coach de la Fuente oldest winning WC coach ever; Messi (39) scoreless in final"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "sport",
+      "headline": "Belgian GP (Spa, Sun Jul 19): Antonelli (Mercedes) P1; Leclerc P2; Verstappen P3; Russell + Hamilton collide lap 1 both retire; Antonelli 6th career win extends championship lead; next Hungarian GP Jul 24-26"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "sport",
+      "headline": "Open Championship (Royal Birkdale): Scheffler wins -17 (267) 8 shots clear; Harman 2nd -13; Schauffele 3rd -9; 4th major. Hamburg ATP 500 final: Ignacio Buse (Peru) d. Tommy Paul 7-6 4-6 6-3, maiden ATP title"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "gossip",
+      "headline": "Kylie Jenner + Timothee Chalamet hand-in-hand at WC Final; relationship publicly confirmed. Matty Healy (The 1975) married Gabbriette Bechtel Sat Jul 18 -- 2 weeks after ex Taylor Swift married Travis Kelce"
+    },
+    {
+      "date": "2026-07-20",
+      "section": "sentiment",
+      "headline": "Risk-off: Brent +14% last week on Iran war spreading to Gulf water infrastructure; Nasdaq -2.5% on China AI/chip competition; Alphabet+Tesla Tue earnings and ECB Thu Jul 23 are swing factors for tech selloff floor"
     }
   ]
 }
