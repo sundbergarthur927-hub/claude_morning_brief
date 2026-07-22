@@ -1,131 +1,6 @@
 {
   "stories": [
     {
-      "date": "2026-07-07",
-      "section": "world_news",
-      "headline": "NATO Ankara Summit opens Jul 7-8: all 32 allies + Trump; ironclad Article 5 reaffirmed; EU70bn Ukraine military aid pledged for 2026"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "world_news",
-      "headline": "China PLA Navy fires SLBM from Type 094 sub into Pacific Jul 6 \u2014 first publicly acknowledged Chinese SLBM Pacific test; rebukes from Australia, Japan ahead of NATO summit"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "world_news",
-      "headline": "Macron arrives Damascus Jul 6 \u2014 first Western European head of state in Syria since Assad fell; CMA CGM and TotalEnergies CEOs in delegation"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "world_news",
-      "headline": "Hamas dissolves Gaza Government Emergency Committee Jul 6, offers power to UN-backed NCAG technocratic panel \u2014 first governance transfer since 2007; disarmament unresolved"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "world_news",
-      "headline": "Belgium 4-1 USA (Jul 6, Seattle): US co-hosts eliminated in R16; De Ketelaere brace, Freese error, Lukaku cameo; FIFA lifted Balogun ban suspended + 0K fine"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "macro",
-      "headline": "FOMC June minutes due Wed Jul 8 21:00 EEST \u2014 first Warsh-era minutes; committee split 8-1-9 hold/cut/hike; Warsh skipped the dot plot"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "macro",
-      "headline": "Fed Sep hike probability ~50-55% (recovering from NFP-driven 29%); FOMC Jul 28-29 expected hold; Warsh: inflation too high"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "macro",
-      "headline": "ECB Jun 11 hike 25bp (deposit rate 2.25%); Lagarde Sintra: ECB can raise rates without fear; June CPI 2.8%/2.4% core below 3.0% consensus"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "fx",
-      "headline": "EUR/USD 1.1418 (-0.17%): capped below bearish trendline from early May; NFP bounce fading; ECB dovish signals limit euro upside"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "fx",
-      "headline": "USD/JPY ~161-162: near 40-year yen lows; FinMin Katayama repeated intervention warning without follow-through; BoJ meeting Jul 30-31"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "equities",
-      "headline": "Monday Jul 6 close: S&P 500 +0.72% to 7,537; Nasdaq +1.12% to 26,121; Dow +0.29% to 53,056"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "equities",
-      "headline": "TeraWulf (WULF) +16% Jul 6: Anthropic signs 20-year 9bn AI data center lease at Kentucky campus (401MW); WULF sells Abernathy JV to Fluidstack ~50M"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "equities",
-      "headline": "Western Digital (WDC) +7% Jul 6 on AI hardware recovery; Oracle +2.5%, Marvell +1%; broad tech bid"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "equities",
-      "headline": "SpaceX (SPCX) joins Nasdaq-100 effective Jul 7: est. .3bn passive ETF buy + bn Russell rebalancing; stock ~62 vs 25 post-IPO peak; sell-the-news risk flagged"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "nordics",
-      "headline": "OMX Nordic 40 indicated -0.71% early Jul 7; OMXH25 6,268.65 / OMXS30 2,449.70 (Fri Jul 3 close)"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "nordics",
-      "headline": "Nokia (NOKIA.HE) EUR11.17: Orange Belgium sole optical transport contract confirmed; Q2 earnings Jul 23; Danske Buy/EUR14 vs UBS Neutral/EUR11 vs LBBW Sell/EUR9.75"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "stocks",
-      "headline": "SpaceX (SPCX) Nasdaq-100 inclusion today: .3bn forced buy on ~3% float; historical caution from Palantir/MicroStrategy precedent"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "stocks",
-      "headline": "SK Hynix US listing Jul 10: -25% from post-announcement highs in Seoul on tariff headwinds; Cint re-lists Nasdaq Stockholm Jul 10"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "ma",
-      "headline": "Anthropic/TeraWulf: 9bn 20-year AI data center lease (Kentucky, 401MW) announced Jul 6 \u2014 largest AI infra contract by annual value"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "ma",
-      "headline": "QXO/TopBuild shareholder approvals complete at both companies; deal closing imminent"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "sport",
-      "headline": "World Cup R16 Jul 6: Spain 1-0 Portugal (Merino 90+1, Ronaldo WC career over at 41); Belgium 4-1 USA (De Ketelaere x2, Freese error, Lukaku); Spain vs Belgium QF"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "sport",
-      "headline": "World Cup R16 Jul 7: Argentina vs Egypt (19:00 EEST, Atlanta); Switzerland vs Colombia (23:00 EEST, Vancouver)"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "sport",
-      "headline": "Wimbledon Day 8 Jul 7: Fritz d. Bublik; Cobolli d. de Minaur (seed upset); Fery d. Dimitrov 5 sets; Women: Paolini d. Eala; Noskova d. Keys; Mertens d. Bouzkova"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "gossip",
-      "headline": "Taylor Swift/Travis Kelce wedding guests reveal more MSG details: Paul McCartney performed, Adam Sandler officiated, 0M+ floral budget"
-    },
-    {
-      "date": "2026-07-07",
-      "section": "gossip",
-      "headline": "Macron Damascus trip with CMA CGM + TotalEnergies CEOs: part statesman, part Syria reconstruction business development"
-    },
-    {
       "date": "2026-07-08",
       "section": "world_news",
       "headline": "US reimposed Iran oil sanctions + CENTCOM struck 80+ Iranian targets (air defense, radar, 60+ IRGC boats) after IRGC hit 3 Hormuz tankers in 24h; Iran vows crushing response; Doha talks effectively dead"
@@ -273,7 +148,7 @@
     {
       "date": "2026-07-09",
       "section": "world_news",
-      "headline": "NATO Ankara summit concludes: \u20ac70B Ukraine military aid pledged for 2026; Trump greenlit Ukrainian production of Patriot interceptors; Trump raged at allies over Iran"
+      "headline": "NATO Ankara summit concludes: €70B Ukraine military aid pledged for 2026; Trump greenlit Ukrainian production of Patriot interceptors; Trump raged at allies over Iran"
     },
     {
       "date": "2026-07-09",
@@ -323,27 +198,27 @@
     {
       "date": "2026-07-09",
       "section": "nordics",
-      "headline": "Nokia (NOKIA.HE) EUR 10.42 (-3.17% Jul 8) caught in global chip rout; Q2 earnings Jul 23; YTD +137%; Danske Buy/\u20ac14 vs UBS Neutral/\u20ac11 vs LBBW Sell/\u20ac9.75"
+      "headline": "Nokia (NOKIA.HE) EUR 10.42 (-3.17% Jul 8) caught in global chip rout; Q2 earnings Jul 23; YTD +137%; Danske Buy/€14 vs UBS Neutral/€11 vs LBBW Sell/€9.75"
     },
     {
       "date": "2026-07-09",
       "section": "nordics",
-      "headline": "Nordea EUR 16.65 (-2.60%), Sampo EUR 9.44 (+0.06%) \u2014 defensive financials outperforming semis"
+      "headline": "Nordea EUR 16.65 (-2.60%), Sampo EUR 9.44 (+0.06%) — defensive financials outperforming semis"
     },
     {
       "date": "2026-07-09",
       "section": "nordics",
-      "headline": "SK Hynix ADR (SKHY) Nasdaq debut July 10 \u2014 $29B raise, world's largest-ever US foreign listing; Cint Group re-lists Nasdaq Stockholm July 10"
+      "headline": "SK Hynix ADR (SKHY) Nasdaq debut July 10 — $29B raise, world's largest-ever US foreign listing; Cint Group re-lists Nasdaq Stockholm July 10"
     },
     {
       "date": "2026-07-09",
       "section": "stocks",
-      "headline": "SK Hynix ADR (SKHY) $29B Nasdaq debut tomorrow \u2014 world's largest-ever US foreign listing; test of AI memory thesis after Samsung revenue miss"
+      "headline": "SK Hynix ADR (SKHY) $29B Nasdaq debut tomorrow — world's largest-ever US foreign listing; test of AI memory thesis after Samsung revenue miss"
     },
     {
       "date": "2026-07-09",
       "section": "ma",
-      "headline": "Proxima Fusion \u20ac411M Series B closed Jul 7: Alphabet joins co-lead with Atomico \u2014 largest fusion energy private round of 2026; Google DeepMind to model plasma physics"
+      "headline": "Proxima Fusion €411M Series B closed Jul 7: Alphabet joins co-lead with Atomico — largest fusion energy private round of 2026; Google DeepMind to model plasma physics"
     },
     {
       "date": "2026-07-09",
@@ -363,7 +238,7 @@
     {
       "date": "2026-07-09",
       "section": "sport",
-      "headline": "F1 standings after British GP: Antonelli 179pts, Russell 154pts (gap cut 40\u219225 at Silverstone after Antonelli car failure), Hamilton 147pts; Mercedes 333pts constructors"
+      "headline": "F1 standings after British GP: Antonelli 179pts, Russell 154pts (gap cut 40→25 at Silverstone after Antonelli car failure), Hamilton 147pts; Mercedes 333pts constructors"
     },
     {
       "date": "2026-07-09",
@@ -378,7 +253,7 @@
     {
       "date": "2026-07-10",
       "section": "world_news",
-      "headline": "Spain wildfire kills 12 near Almer\u00eda; victims found in vehicles; one of 2026's deadliest Spanish wildfires"
+      "headline": "Spain wildfire kills 12 near Almería; victims found in vehicles; one of 2026's deadliest Spanish wildfires"
     },
     {
       "date": "2026-07-10",
@@ -438,7 +313,7 @@
     {
       "date": "2026-07-10",
       "section": "nordics",
-      "headline": "Nordea \u20ac16.84 (+1.14%); Sampo \u20ac9.62 (+1.95%); Nordea raises Sampo TP to \u20ac10.90, reiterates Buy"
+      "headline": "Nordea €16.84 (+1.14%); Sampo €9.62 (+1.95%); Nordea raises Sampo TP to €10.90, reiterates Buy"
     },
     {
       "date": "2026-07-10",
@@ -453,7 +328,7 @@
     {
       "date": "2026-07-10",
       "section": "stocks",
-      "headline": "Meta targets own AI chip production by September \u2014 structural shift from Nvidia dependency"
+      "headline": "Meta targets own AI chip production by September — structural shift from Nvidia dependency"
     },
     {
       "date": "2026-07-10",
@@ -483,7 +358,7 @@
     {
       "date": "2026-07-10",
       "section": "sport",
-      "headline": "Wimbledon: All-Czech women's final Saturday \u2014 Muchova bt Gauff 6-2 1-6 7-6(12-10); Noskova bt Kostyuk 6-4 6-4; Men's SFs today: Zverev vs Fery, Sinner vs Djokovic"
+      "headline": "Wimbledon: All-Czech women's final Saturday — Muchova bt Gauff 6-2 1-6 7-6(12-10); Noskova bt Kostyuk 6-4 6-4; Men's SFs today: Zverev vs Fery, Sinner vs Djokovic"
     },
     {
       "date": "2026-07-10",
@@ -493,7 +368,7 @@
     {
       "date": "2026-07-11",
       "section": "world_news",
-      "headline": "China lands first-ever reusable rocket successfully \u2014 major space milestone challenging US commercial launch dominance"
+      "headline": "China lands first-ever reusable rocket successfully — major space milestone challenging US commercial launch dominance"
     },
     {
       "date": "2026-07-11",
@@ -503,7 +378,7 @@
     {
       "date": "2026-07-11",
       "section": "world_news",
-      "headline": "Venezuela earthquake death toll 3,889; USGS warns final count likely 10,000\u2013100,000; transitioning rescue to recovery phase"
+      "headline": "Venezuela earthquake death toll 3,889; USGS warns final count likely 10,000–100,000; transitioning rescue to recovery phase"
     },
     {
       "date": "2026-07-11",
@@ -513,12 +388,12 @@
     {
       "date": "2026-07-11",
       "section": "world_news",
-      "headline": "NATO Ankara summit outcomes: Trump to remove Syria from US state-sponsor-of-terrorism list; CAATSA sanctions on Turkey lifted; \u20ac50B European deep-strike coalition formed"
+      "headline": "NATO Ankara summit outcomes: Trump to remove Syria from US state-sponsor-of-terrorism list; CAATSA sanctions on Turkey lifted; €50B European deep-strike coalition formed"
     },
     {
       "date": "2026-07-11",
       "section": "macro",
-      "headline": "FOMC June minutes: 9 of 18 policymakers project \u22651 rate hike in 2026; 8 hold; 1 cut; Sep hike probability ~50-55%; Fed funds 3.50-3.75%"
+      "headline": "FOMC June minutes: 9 of 18 policymakers project ≥1 rate hike in 2026; 8 hold; 1 cut; Sep hike probability ~50-55%; Fed funds 3.50-3.75%"
     },
     {
       "date": "2026-07-11",
@@ -553,7 +428,7 @@
     {
       "date": "2026-07-11",
       "section": "nordics",
-      "headline": "OMX Helsinki 25 +1.84% July 10; Nokia -3.72% pullback after JPMorgan upgrade surge; Fidelity (FMR LLC) sold 18.9M shares (Jun 29-Jul 8), stake below 5% (~\u20ac211M exit)"
+      "headline": "OMX Helsinki 25 +1.84% July 10; Nokia -3.72% pullback after JPMorgan upgrade surge; Fidelity (FMR LLC) sold 18.9M shares (Jun 29-Jul 8), stake below 5% (~€211M exit)"
     },
     {
       "date": "2026-07-11",
@@ -563,7 +438,7 @@
     {
       "date": "2026-07-11",
       "section": "nordics",
-      "headline": "Ericsson Q2 earnings Mon Jul 14 + CEO B\u00f6rje Ekholm out Sep 30 \u2192 Per Narvinger in Oct 1; Cint Group re-listed Nasdaq Stockholm Jul 10"
+      "headline": "Ericsson Q2 earnings Mon Jul 14 + CEO Börje Ekholm out Sep 30 → Per Narvinger in Oct 1; Cint Group re-listed Nasdaq Stockholm Jul 10"
     },
     {
       "date": "2026-07-11",
@@ -573,12 +448,12 @@
     {
       "date": "2026-07-11",
       "section": "stocks",
-      "headline": "Ericsson (ERIC-B): Q2 earnings + CEO succession simultaneously Monday \u2014 double catalyst; SEK 15B buyback running"
+      "headline": "Ericsson (ERIC-B): Q2 earnings + CEO succession simultaneously Monday — double catalyst; SEK 15B buyback running"
     },
     {
       "date": "2026-07-11",
       "section": "ma",
-      "headline": "Lockheed Martin acquires Ultra Maritime Solutions (Advent) for $3.45B cash \u2014 ASW/undersea defense (Jul 6)"
+      "headline": "Lockheed Martin acquires Ultra Maritime Solutions (Advent) for $3.45B cash — ASW/undersea defense (Jul 6)"
     },
     {
       "date": "2026-07-11",
@@ -593,7 +468,7 @@
     {
       "date": "2026-07-11",
       "section": "ma",
-      "headline": "Prologis pressing Segro on \u00a312.6B all-stock bid; Segro board rejected; Prologis must formalize or walk by Jul 22 (UK Takeover Panel)"
+      "headline": "Prologis pressing Segro on £12.6B all-stock bid; Segro board rejected; Prologis must formalize or walk by Jul 22 (UK Takeover Panel)"
     },
     {
       "date": "2026-07-11",
@@ -618,12 +493,12 @@
     {
       "date": "2026-07-11",
       "section": "sport",
-      "headline": "Wimbledon Women's Final: Muchova d. Noskova 6-2 1-6 7-6(10) \u2014 all-Czech first; Muchova wins maiden Grand Slam at age 29"
+      "headline": "Wimbledon Women's Final: Muchova d. Noskova 6-2 1-6 7-6(10) — all-Czech first; Muchova wins maiden Grand Slam at age 29"
     },
     {
       "date": "2026-07-11",
       "section": "sport",
-      "headline": "UFC 329 tonight Las Vegas: McGregor vs Holloway 2 \u2014 McGregor's return after ~5 years"
+      "headline": "UFC 329 tonight Las Vegas: McGregor vs Holloway 2 — McGregor's return after ~5 years"
     },
     {
       "date": "2026-07-11",
@@ -648,12 +523,12 @@
     {
       "date": "2026-07-11",
       "section": "gossip",
-      "headline": "Kate Middleton & Prince William rare PDA at Royal Charity Polo Cup \u2014 Kate's first public appearance in ~2 years"
+      "headline": "Kate Middleton & Prince William rare PDA at Royal Charity Polo Cup — Kate's first public appearance in ~2 years"
     },
     {
       "date": "2026-07-12",
       "section": "world_news",
-      "headline": "US\u2013Iran 3rd wave: CENTCOM strikes 140+ Iranian military targets overnight; IRGC declares Strait of Hormuz closed 'until further notice' after IRGC attacked Cyprus-flagged container ship; Trump threatens 'decimate and destroy' Iran if assassination plot (revealed by Israeli intel) is carried out; Iran back-channel delegation in Oman"
+      "headline": "US–Iran 3rd wave: CENTCOM strikes 140+ Iranian military targets overnight; IRGC declares Strait of Hormuz closed 'until further notice' after IRGC attacked Cyprus-flagged container ship; Trump threatens 'decimate and destroy' Iran if assassination plot (revealed by Israeli intel) is carried out; Iran back-channel delegation in Oman"
     },
     {
       "date": "2026-07-12",
@@ -678,7 +553,7 @@
     {
       "date": "2026-07-12",
       "section": "macro",
-      "headline": "US June CPI due Tue Jul 14 15:30 EEST; prev core 3.4%; consensus ~3.2%; Cleveland Fed nowcast 3.96% \u2014 upside surprise risk; key FOMC Jul 28-29 input"
+      "headline": "US June CPI due Tue Jul 14 15:30 EEST; prev core 3.4%; consensus ~3.2%; Cleveland Fed nowcast 3.96% — upside surprise risk; key FOMC Jul 28-29 input"
     },
     {
       "date": "2026-07-12",
@@ -703,7 +578,7 @@
     {
       "date": "2026-07-12",
       "section": "nordics",
-      "headline": "Nokia (NOKIA.HE) -3.72% pullback Fri Jul 10 after JPMorgan surge; Fidelity (FMR LLC) exits below 5% stake (sold 18.9M shares Jun 29\u2013Jul 8, ~\u20ac211M); Q2 earnings Jul 23"
+      "headline": "Nokia (NOKIA.HE) -3.72% pullback Fri Jul 10 after JPMorgan surge; Fidelity (FMR LLC) exits below 5% stake (sold 18.9M shares Jun 29–Jul 8, ~€211M); Q2 earnings Jul 23"
     },
     {
       "date": "2026-07-12",
@@ -713,7 +588,7 @@
     {
       "date": "2026-07-12",
       "section": "nordics",
-      "headline": "Ericsson Q2 earnings Mon Jul 14 07:00 CEST + CEO Ekholm \u2192 Narvinger succession Oct 1 \u2014 double catalyst"
+      "headline": "Ericsson Q2 earnings Mon Jul 14 07:00 CEST + CEO Ekholm → Narvinger succession Oct 1 — double catalyst"
     },
     {
       "date": "2026-07-12",
@@ -723,7 +598,7 @@
     {
       "date": "2026-07-12",
       "section": "ma",
-      "headline": "Prologis/Segro: Prologis must formally bid or walk by Jul 22 (UK Takeover Panel); Segro shareholders urging higher offer above rejected \u00a312.6B all-stock"
+      "headline": "Prologis/Segro: Prologis must formally bid or walk by Jul 22 (UK Takeover Panel); Segro shareholders urging higher offer above rejected £12.6B all-stock"
     },
     {
       "date": "2026-07-12",
@@ -738,7 +613,7 @@
     {
       "date": "2026-07-12",
       "section": "sport",
-      "headline": "Wimbledon Women's Final (Sat Jul 11): Muchova d. Noskova 6-2 1-6 7-6(10) \u2014 Muchova wins maiden Grand Slam at age 29; all-Czech final"
+      "headline": "Wimbledon Women's Final (Sat Jul 11): Muchova d. Noskova 6-2 1-6 7-6(10) — Muchova wins maiden Grand Slam at age 29; all-Czech final"
     },
     {
       "date": "2026-07-12",
@@ -748,12 +623,12 @@
     {
       "date": "2026-07-12",
       "section": "sport",
-      "headline": "UFC 329 Las Vegas (Jul 11): Max Holloway TKO Conor McGregor at 69 seconds \u2014 McGregor's knee buckled on opening jumping kick; comeback lasted barely a minute"
+      "headline": "UFC 329 Las Vegas (Jul 11): Max Holloway TKO Conor McGregor at 69 seconds — McGregor's knee buckled on opening jumping kick; comeback lasted barely a minute"
     },
     {
       "date": "2026-07-12",
       "section": "gossip",
-      "headline": "Jay-Z Reasonable Doubt 30th anniversary at Yankee Stadium (Jul 10): Beyonc\u00e9 joins surprise, cuts Jay-Z's hair on stage, performs; Blue Ivy plays piano on 'Feelin' It'; Nas + Alicia Keys guest"
+      "headline": "Jay-Z Reasonable Doubt 30th anniversary at Yankee Stadium (Jul 10): Beyoncé joins surprise, cuts Jay-Z's hair on stage, performs; Blue Ivy plays piano on 'Feelin' It'; Nas + Alicia Keys guest"
     },
     {
       "date": "2026-07-12",
@@ -763,12 +638,12 @@
     {
       "date": "2026-07-13",
       "section": "world_news",
-      "headline": "Senator Lindsey Graham dead at 71 \u2014 aortic dissection Jul 11; four-term SC senator, Trump ally, defence hawk; had just returned from Kyiv meeting Zelenskyy; SC Governor must appoint replacement"
+      "headline": "Senator Lindsey Graham dead at 71 — aortic dissection Jul 11; four-term SC senator, Trump ally, defence hawk; had just returned from Kyiv meeting Zelenskyy; SC Governor must appoint replacement"
     },
     {
       "date": "2026-07-13",
       "section": "world_news",
-      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 \u2014 ruled 1995-2013; architect of Qatar's LNG wealth, Al Jazeera, and regional mediation; son Emir Tamim sole ruler"
+      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74 — ruled 1995-2013; architect of Qatar's LNG wealth, Al Jazeera, and regional mediation; son Emir Tamim sole ruler"
     },
     {
       "date": "2026-07-13",
@@ -783,7 +658,7 @@
     {
       "date": "2026-07-13",
       "section": "world_news",
-      "headline": "Bangkok nightclub fire \u2014 major blaze at bar in northern Bangkok; large fire and plumes reported; casualties being confirmed"
+      "headline": "Bangkok nightclub fire — major blaze at bar in northern Bangkok; large fire and plumes reported; casualties being confirmed"
     },
     {
       "date": "2026-07-13",
@@ -793,7 +668,7 @@
     {
       "date": "2026-07-13",
       "section": "macro",
-      "headline": "Brent crude +3.5% to ~$79/bbl; WTI ~$74 \u2014 Hormuz closure risk premium; sharpest move since Jul 8 ceasefire collapse; gold ~$4,100/oz"
+      "headline": "Brent crude +3.5% to ~$79/bbl; WTI ~$74 — Hormuz closure risk premium; sharpest move since Jul 8 ceasefire collapse; gold ~$4,100/oz"
     },
     {
       "date": "2026-07-13",
@@ -803,7 +678,7 @@
     {
       "date": "2026-07-13",
       "section": "macro",
-      "headline": "US June CPI due Tue Jul 14 14:30 EEST; prev core 3.4%; consensus ~3.2%; Cleveland Fed nowcast 3.96% \u2014 upside surprise risk; key FOMC Jul 28-29 input"
+      "headline": "US June CPI due Tue Jul 14 14:30 EEST; prev core 3.4%; consensus ~3.2%; Cleveland Fed nowcast 3.96% — upside surprise risk; key FOMC Jul 28-29 input"
     },
     {
       "date": "2026-07-13",
@@ -813,17 +688,17 @@
     {
       "date": "2026-07-13",
       "section": "fx",
-      "headline": "GBP/USD 1.3390 (+0.7%) \u2014 3-month sterling high; BoE 2-more-hikes thesis + NFP-driven dollar softness continuing"
+      "headline": "GBP/USD 1.3390 (+0.7%) — 3-month sterling high; BoE 2-more-hikes thesis + NFP-driven dollar softness continuing"
     },
     {
       "date": "2026-07-13",
       "section": "fx",
-      "headline": "USD/JPY 161.68 (-0.3%) \u2014 mild yen safe-haven bid on Iran risk-off; BoJ Jul 30-31 +25bp to 1.00% consensus; MoF repeated warnings without intervention"
+      "headline": "USD/JPY 161.68 (-0.3%) — mild yen safe-haven bid on Iran risk-off; BoJ Jul 30-31 +25bp to 1.00% consensus; MoF repeated warnings without intervention"
     },
     {
       "date": "2026-07-13",
       "section": "fx",
-      "headline": "EUR/USD 1.1404 \u2014 broadly stable; recovering from 13-month lows, capped below May bearish trendline; EUR/SEK ~11.06, EUR/NOK ~11.13"
+      "headline": "EUR/USD 1.1404 — broadly stable; recovering from 13-month lows, capped below May bearish trendline; EUR/SEK ~11.06, EUR/NOK ~11.13"
     },
     {
       "date": "2026-07-13",
@@ -843,7 +718,7 @@
     {
       "date": "2026-07-13",
       "section": "nordics",
-      "headline": "Ericsson (ERIC-B) Q2 earnings Mon Jul 14 07:00 CEST + CEO Ekholm \u2192 Narvinger Oct 1 succession confirmed; SEK 15B buyback running \u2014 double catalyst"
+      "headline": "Ericsson (ERIC-B) Q2 earnings Mon Jul 14 07:00 CEST + CEO Ekholm → Narvinger Oct 1 succession confirmed; SEK 15B buyback running — double catalyst"
     },
     {
       "date": "2026-07-13",
@@ -853,7 +728,7 @@
     {
       "date": "2026-07-13",
       "section": "nordics",
-      "headline": "Nokia (NOKIA.HE) last close \u20ac10.42 (Jul 8); YTD +137%; Fidelity sold 18.9M shares Jun 29-Jul 8 (stake below 5%, ~\u20ac211M exit); Q2 Jul 23; Danske Buy/\u20ac14 vs LBBW Sell/\u20ac9.75"
+      "headline": "Nokia (NOKIA.HE) last close €10.42 (Jul 8); YTD +137%; Fidelity sold 18.9M shares Jun 29-Jul 8 (stake below 5%, ~€211M exit); Q2 Jul 23; Danske Buy/€14 vs LBBW Sell/€9.75"
     },
     {
       "date": "2026-07-13",
@@ -873,22 +748,22 @@
     {
       "date": "2026-07-13",
       "section": "ma",
-      "headline": "InMode (INMD): Steel Partners $16.75 hostile vs CEO Mizrahy $16.20 MBO \u2014 board must respond by today 17:00 ET or face litigation"
+      "headline": "InMode (INMD): Steel Partners $16.75 hostile vs CEO Mizrahy $16.20 MBO — board must respond by today 17:00 ET or face litigation"
     },
     {
       "date": "2026-07-13",
       "section": "ma",
-      "headline": "Prologis/Segro: UK Takeover Panel deadline Jul 22 to formally bid or walk on \u00a312.6B all-stock offer (Segro board rejected); shareholders pushing for higher offer"
+      "headline": "Prologis/Segro: UK Takeover Panel deadline Jul 22 to formally bid or walk on £12.6B all-stock offer (Segro board rejected); shareholders pushing for higher offer"
     },
     {
       "date": "2026-07-13",
       "section": "sport",
-      "headline": "Wimbledon Men's Final (Sun 12 Jul): Jannik Sinner d. Alexander Zverev 6-7(4) 7-6 6-3 6-4 \u2014 back-to-back Wimbledon titles; 100th major match win"
+      "headline": "Wimbledon Men's Final (Sun 12 Jul): Jannik Sinner d. Alexander Zverev 6-7(4) 7-6 6-3 6-4 — back-to-back Wimbledon titles; 100th major match win"
     },
     {
       "date": "2026-07-13",
       "section": "sport",
-      "headline": "Wimbledon Women's Final (Sat 11 Jul): Linda Noskova d. Karolina Muchova 6-2 5-7 6-3 \u2014 youngest Wimbledon women's champion in 15 years (age 21); all-Czech final"
+      "headline": "Wimbledon Women's Final (Sat 11 Jul): Linda Noskova d. Karolina Muchova 6-2 5-7 6-3 — youngest Wimbledon women's champion in 15 years (age 21); all-Czech final"
     },
     {
       "date": "2026-07-13",
@@ -898,7 +773,7 @@
     {
       "date": "2026-07-13",
       "section": "sport",
-      "headline": "UFC 329 (Fri 11 Jul): Max Holloway TKO Conor McGregor in 69 seconds \u2014 knee buckled on opening jump kick; McGregor comeback over instantly"
+      "headline": "UFC 329 (Fri 11 Jul): Max Holloway TKO Conor McGregor in 69 seconds — knee buckled on opening jump kick; McGregor comeback over instantly"
     },
     {
       "date": "2026-07-13",
@@ -938,7 +813,7 @@
     {
       "date": "2026-07-14",
       "section": "macro",
-      "headline": "US June CPI due 15:30 EEST: consensus headline -0.1% m/m / ~3.9% y/y (prev 4.2%); core ~2.9% y/y; Cleveland Fed nowcast 3.96% \u2014 well above consensus, upside risk if oil feeds through"
+      "headline": "US June CPI due 15:30 EEST: consensus headline -0.1% m/m / ~3.9% y/y (prev 4.2%); core ~2.9% y/y; Cleveland Fed nowcast 3.96% — well above consensus, upside risk if oil feeds through"
     },
     {
       "date": "2026-07-14",
@@ -958,7 +833,7 @@
     {
       "date": "2026-07-14",
       "section": "equities",
-      "headline": "Mon Jul 13 closes: S&P 500 -0.79% to 7,515; Nasdaq -1.55% to 25,873 \u2014 Iran risk-off + Brent +9.6% the driver; Tuesday open set up by CPI + bank earnings double print"
+      "headline": "Mon Jul 13 closes: S&P 500 -0.79% to 7,515; Nasdaq -1.55% to 25,873 — Iran risk-off + Brent +9.6% the driver; Tuesday open set up by CPI + bank earnings double print"
     },
     {
       "date": "2026-07-14",
@@ -968,17 +843,17 @@
     {
       "date": "2026-07-14",
       "section": "nordics",
-      "headline": "Ericsson Q2: operating profit 7.0B SEK (beats 6.1B estimate, 3-year high EBITA margin); North America +10%; group sales -6% to 56.1B SEK (miss vs 59.3B consensus); CEO Ekholm \u2192 Narvinger Oct 1"
+      "headline": "Ericsson Q2: operating profit 7.0B SEK (beats 6.1B estimate, 3-year high EBITA margin); North America +10%; group sales -6% to 56.1B SEK (miss vs 59.3B consensus); CEO Ekholm → Narvinger Oct 1"
     },
     {
       "date": "2026-07-14",
       "section": "nordics",
-      "headline": "Nokia (NOKIA.HE) Q2 due Jul 23; YTD +137%; AI/defense NestAI private 5G battlefield platform partnership catalyst; JPMorgan Overweight \u20ac21 target; Fidelity exit overhang cleared"
+      "headline": "Nokia (NOKIA.HE) Q2 due Jul 23; YTD +137%; AI/defense NestAI private 5G battlefield platform partnership catalyst; JPMorgan Overweight €21 target; Fidelity exit overhang cleared"
     },
     {
       "date": "2026-07-14",
       "section": "nordics",
-      "headline": "Nordea Q2 results Wed Jul 16 07:30 EEST \u2014 key Nordic event this week; new strategy ROE >15%, C/I 40-42% by 2030"
+      "headline": "Nordea Q2 results Wed Jul 16 07:30 EEST — key Nordic event this week; new strategy ROE >15%, C/I 40-42% by 2030"
     },
     {
       "date": "2026-07-14",
@@ -998,12 +873,12 @@
     {
       "date": "2026-07-14",
       "section": "ma",
-      "headline": "InMode (INMD): Steel Partners $16.75/sh hostile bid board response deadline was Jul 13 17:00 ET \u2014 outcome not yet confirmed; Steel threatens 'all available remedies' vs CEO MBO $16.20"
+      "headline": "InMode (INMD): Steel Partners $16.75/sh hostile bid board response deadline was Jul 13 17:00 ET — outcome not yet confirmed; Steel threatens 'all available remedies' vs CEO MBO $16.20"
     },
     {
       "date": "2026-07-14",
       "section": "ma",
-      "headline": "Prologis/Segro: UK Takeover Panel formal bid-or-walk deadline Jul 22; \u00a312.6B all-stock offer still live"
+      "headline": "Prologis/Segro: UK Takeover Panel formal bid-or-walk deadline Jul 22; £12.6B all-stock offer still live"
     },
     {
       "date": "2026-07-14",
@@ -1013,7 +888,7 @@
     {
       "date": "2026-07-14",
       "section": "sport",
-      "headline": "France vs Spain World Cup SF tonight 22:00 EEST, AT&T Stadium Dallas \u2014 winner plays England/Argentina in final"
+      "headline": "France vs Spain World Cup SF tonight 22:00 EEST, AT&T Stadium Dallas — winner plays England/Argentina in final"
     },
     {
       "date": "2026-07-14",
@@ -1023,7 +898,7 @@
     {
       "date": "2026-07-14",
       "section": "gossip",
-      "headline": "Max Holloway TKO'd Conor McGregor in 69 seconds at UFC 329 Fri Jul 11 \u2014 McGregor's knee buckled on opening exchange"
+      "headline": "Max Holloway TKO'd Conor McGregor in 69 seconds at UFC 329 Fri Jul 11 — McGregor's knee buckled on opening exchange"
     },
     {
       "date": "2026-07-14",
@@ -1033,12 +908,12 @@
     {
       "date": "2026-07-15",
       "section": "world_news",
-      "headline": "US-Iran: CENTCOM 4th-wave strikes hit Bushehr, Jask, Konarak, Abu Musa, Bandar Abbas overnight; Trump imposes 20% toll on ALL Hormuz-transiting cargo + reinstates Iranian port blockade; UAE reports 2 oil tankers struck in Omani waters \u2014 1 Indian crew member killed"
+      "headline": "US-Iran: CENTCOM 4th-wave strikes hit Bushehr, Jask, Konarak, Abu Musa, Bandar Abbas overnight; Trump imposes 20% toll on ALL Hormuz-transiting cargo + reinstates Iranian port blockade; UAE reports 2 oil tankers struck in Omani waters — 1 Indian crew member killed"
     },
     {
       "date": "2026-07-15",
       "section": "world_news",
-      "headline": "Bangkok Rong Beer fire (Jul 11-12): confirmed 27 dead, 25 still critical; investigation finds majority trapped in windowless bathrooms, exits locked or obstructed; negligence charges expected \u2014 Thailand's deadliest fire in 17 years"
+      "headline": "Bangkok Rong Beer fire (Jul 11-12): confirmed 27 dead, 25 still critical; investigation finds majority trapped in windowless bathrooms, exits locked or obstructed; negligence charges expected — Thailand's deadliest fire in 17 years"
     },
     {
       "date": "2026-07-15",
@@ -1088,7 +963,7 @@
     {
       "date": "2026-07-15",
       "section": "fx",
-      "headline": "EUR/USD ~1.1450 (+0.6%) \u2014 biggest single-day EUR/USD move in weeks on CPI beat; recovering from 13-month lows; USD/JPY ~162 (40-yr yen low, BoJ Jul 30-31 +25bp consensus); GBP/USD ~1.3400 (3-month high); USD/SEK ~9.66; EUR/SEK ~11.06; EUR/NOK ~11.13"
+      "headline": "EUR/USD ~1.1450 (+0.6%) — biggest single-day EUR/USD move in weeks on CPI beat; recovering from 13-month lows; USD/JPY ~162 (40-yr yen low, BoJ Jul 30-31 +25bp consensus); GBP/USD ~1.3400 (3-month high); USD/SEK ~9.66; EUR/SEK ~11.06; EUR/NOK ~11.13"
     },
     {
       "date": "2026-07-15",
@@ -1103,7 +978,7 @@
     {
       "date": "2026-07-15",
       "section": "equities",
-      "headline": "Jul 15 early European: DAX +0.7%, FTSE 100 +0.6%, Stoxx 600 +0.9%, Nikkei +0.9% \u2014 broad risk-on tone on CPI and bank earnings"
+      "headline": "Jul 15 early European: DAX +0.7%, FTSE 100 +0.6%, Stoxx 600 +0.9%, Nikkei +0.9% — broad risk-on tone on CPI and bank earnings"
     },
     {
       "date": "2026-07-15",
@@ -1113,12 +988,12 @@
     {
       "date": "2026-07-15",
       "section": "nordics",
-      "headline": "Nokia (NOKIA.HE): NestAI defense-5G partnership operational \u2014 3 new capabilities: deployable C2 5G network, AI mission planning with coverage assurance, ISAC early threat detection for denied environments; JPMorgan OW \u20ac21; Nordea Buy \u20ac14.8 (cut from \u20ac15.7); Q2 earnings Jul 23"
+      "headline": "Nokia (NOKIA.HE): NestAI defense-5G partnership operational — 3 new capabilities: deployable C2 5G network, AI mission planning with coverage assurance, ISAC early threat detection for denied environments; JPMorgan OW €21; Nordea Buy €14.8 (cut from €15.7); Q2 earnings Jul 23"
     },
     {
       "date": "2026-07-15",
       "section": "nordics",
-      "headline": "Nordea Q2 results tomorrow Jul 16 07:30 EEST \u2014 key Nordic event; new 2026-30 strategy targets ROE >15%, C/I ratio 40-42%; interim dividend expected late July"
+      "headline": "Nordea Q2 results tomorrow Jul 16 07:30 EEST — key Nordic event; new 2026-30 strategy targets ROE >15%, C/I ratio 40-42%; interim dividend expected late July"
     },
     {
       "date": "2026-07-15",
@@ -1128,12 +1003,12 @@
     {
       "date": "2026-07-15",
       "section": "stocks",
-      "headline": "Prologis/Segro: UK Takeover Panel formal bid-or-walk deadline Jul 22 \u2014 shareholders pressing for higher than \u00a312.6B all-stock offer; Segro board rejected"
+      "headline": "Prologis/Segro: UK Takeover Panel formal bid-or-walk deadline Jul 22 — shareholders pressing for higher than £12.6B all-stock offer; Segro board rejected"
     },
     {
       "date": "2026-07-15",
       "section": "ma",
-      "headline": "KKR joins Amwins + Dragoneer in A$7.7B ($5.3B) consortium bid for Steadfast Group (Australia's largest insurance broker) \u2014 announced Jul 14"
+      "headline": "KKR joins Amwins + Dragoneer in A$7.7B ($5.3B) consortium bid for Steadfast Group (Australia's largest insurance broker) — announced Jul 14"
     },
     {
       "date": "2026-07-15",
@@ -1153,7 +1028,7 @@
     {
       "date": "2026-07-15",
       "section": "sport",
-      "headline": "World Cup 2026 SF1: Spain 2-0 France \u2014 Oyarzabal penalty (Digne foul on Yamal) + Porro 58'; Mbappe blanked; Spain into their 3rd World Cup final"
+      "headline": "World Cup 2026 SF1: Spain 2-0 France — Oyarzabal penalty (Digne foul on Yamal) + Porro 58'; Mbappe blanked; Spain into their 3rd World Cup final"
     },
     {
       "date": "2026-07-15",
@@ -1178,7 +1053,7 @@
     {
       "date": "2026-07-16",
       "section": "world_news",
-      "headline": "VP Vance: US-Iran technical talks ongoing via 14-point Doha MOU; US will not return to military action unless necessary \u2014 first de-escalation signal after 4th wave of CENTCOM strikes"
+      "headline": "VP Vance: US-Iran technical talks ongoing via 14-point Doha MOU; US will not return to military action unless necessary — first de-escalation signal after 4th wave of CENTCOM strikes"
     },
     {
       "date": "2026-07-16",
@@ -1193,7 +1068,7 @@
     {
       "date": "2026-07-16",
       "section": "world_news",
-      "headline": "World Cup 2026 SF2: Argentina 2-1 England \u2014 Messi assists Fernandez (85) and Martinez (92) after Gordon gave England 55min lead; Final: Spain vs Argentina MetLife Stadium Sunday Jul 19"
+      "headline": "World Cup 2026 SF2: Argentina 2-1 England — Messi assists Fernandez (85) and Martinez (92) after Gordon gave England 55min lead; Final: Spain vs Argentina MetLife Stadium Sunday Jul 19"
     },
     {
       "date": "2026-07-16",
@@ -1203,7 +1078,7 @@
     {
       "date": "2026-07-16",
       "section": "macro",
-      "headline": "Morgan Stanley Q2: revenue 1.3B (vs 9.64B est, +27% YoY); EPS .46 (vs .94 est); equities trading +69% to .3B \u2014 record quarter"
+      "headline": "Morgan Stanley Q2: revenue 1.3B (vs 9.64B est, +27% YoY); EPS .46 (vs .94 est); equities trading +69% to .3B — record quarter"
     },
     {
       "date": "2026-07-16",
@@ -1248,7 +1123,7 @@
     {
       "date": "2026-07-16",
       "section": "nordics",
-      "headline": "Nordea (NDA) H1 2026 results today \u2014 key Nordic event; NII bottom signal + dividend (est EUR0.33/sh) + ROE >15%; new 2026-30 strategy C/I 40-42%; stock reaction sets Helsinki tone"
+      "headline": "Nordea (NDA) H1 2026 results today — key Nordic event; NII bottom signal + dividend (est EUR0.33/sh) + ROE >15%; new 2026-30 strategy C/I 40-42%; stock reaction sets Helsinki tone"
     },
     {
       "date": "2026-07-16",
@@ -1278,12 +1153,12 @@
     {
       "date": "2026-07-16",
       "section": "ma",
-      "headline": "KKR+Amwins+Dragoneer consortium: A.7B bid for Steadfast Group (ASX, Australia largest insurance broker) \u2014 live"
+      "headline": "KKR+Amwins+Dragoneer consortium: A.7B bid for Steadfast Group (ASX, Australia largest insurance broker) — live"
     },
     {
       "date": "2026-07-16",
       "section": "sport",
-      "headline": "World Cup 2026 Final set: Spain vs Argentina, MetLife Stadium, Sunday Jul 19 \u2014 Messi seeking back-to-back WC titles at age 39"
+      "headline": "World Cup 2026 Final set: Spain vs Argentina, MetLife Stadium, Sunday Jul 19 — Messi seeking back-to-back WC titles at age 39"
     },
     {
       "date": "2026-07-16",
@@ -1433,7 +1308,7 @@
     {
       "date": "2026-07-18",
       "section": "world_news",
-      "headline": "Iranian crude oil sanctions expired 12:01am EDT July 17 \u2014 dual escalation with bridge strikes"
+      "headline": "Iranian crude oil sanctions expired 12:01am EDT July 17 — dual escalation with bridge strikes"
     },
     {
       "date": "2026-07-18",
@@ -1513,12 +1388,12 @@
     {
       "date": "2026-07-18",
       "section": "equities",
-      "headline": "NYT reports Meta in talks to rent compute to Anthropic for up to $10B \u2014 unconfirmed but market-moving"
+      "headline": "NYT reports Meta in talks to rent compute to Anthropic for up to $10B — unconfirmed but market-moving"
     },
     {
       "date": "2026-07-18",
       "section": "nordics",
-      "headline": "Nokia (NOKIA.HE): SEB Buy upgrade Jul 15; first commercial AI-RAN platform launched; Q2 & H1 results Thu Jul 23 \u2014 binary event (72% of FY consensus profit must land in H2); ADR ~$10; JPMorgan OW EUR 21"
+      "headline": "Nokia (NOKIA.HE): SEB Buy upgrade Jul 15; first commercial AI-RAN platform launched; Q2 & H1 results Thu Jul 23 — binary event (72% of FY consensus profit must land in H2); ADR ~$10; JPMorgan OW EUR 21"
     },
     {
       "date": "2026-07-18",
@@ -1543,22 +1418,22 @@
     {
       "date": "2026-07-18",
       "section": "stocks",
-      "headline": "Prologis/Segro bid-or-walk deadline Tuesday Jul 22; \u00a312.6B all-stock offer binary outcome imminent"
+      "headline": "Prologis/Segro bid-or-walk deadline Tuesday Jul 22; £12.6B all-stock offer binary outcome imminent"
     },
     {
       "date": "2026-07-18",
       "section": "ma",
-      "headline": "Prologis/Segro: UK Takeover Panel deadline Tue Jul 22; \u00a312.6B all-stock (24.6% premium) rejected by Segro board; shareholders pushing higher"
+      "headline": "Prologis/Segro: UK Takeover Panel deadline Tue Jul 22; £12.6B all-stock (24.6% premium) rejected by Segro board; shareholders pushing higher"
     },
     {
       "date": "2026-07-18",
       "section": "ma",
-      "headline": "KKR + Amwins + Dragoneer A$7.7B bid for Steadfast Group (ASX, Australia's largest insurance broker) \u2014 live"
+      "headline": "KKR + Amwins + Dragoneer A$7.7B bid for Steadfast Group (ASX, Australia's largest insurance broker) — live"
     },
     {
       "date": "2026-07-18",
       "section": "ma",
-      "headline": "Meta/Anthropic: NYT reports up to $10B compute rental deal \u2014 unconfirmed; landmark hyperscaler-to-AI-lab monetisation if true"
+      "headline": "Meta/Anthropic: NYT reports up to $10B compute rental deal — unconfirmed; landmark hyperscaler-to-AI-lab monetisation if true"
     },
     {
       "date": "2026-07-18",
@@ -1578,12 +1453,12 @@
     {
       "date": "2026-07-18",
       "section": "gossip",
-      "headline": "Andy Burnham becomes UK PM Monday Jul 20 \u2014 youngest Labour PM since Blair; inherits Iran-driven oil-shock cost-of-living squeeze on day one"
+      "headline": "Andy Burnham becomes UK PM Monday Jul 20 — youngest Labour PM since Blair; inherits Iran-driven oil-shock cost-of-living squeeze on day one"
     },
     {
       "date": "2026-07-19",
       "section": "developing",
-      "headline": "US-Iran Night 7: Bonji desalination plant near Jask hit \u2014 10,000 villagers in 20 southern villages lose drinking water; Iran retaliated against Kuwait (airport suspended), Qatar, Bahrain, Jordan; diplomatic track moribund"
+      "headline": "US-Iran Night 7: Bonji desalination plant near Jask hit — 10,000 villagers in 20 southern villages lose drinking water; Iran retaliated against Kuwait (airport suspended), Qatar, Bahrain, Jordan; diplomatic track moribund"
     },
     {
       "date": "2026-07-19",
@@ -1608,7 +1483,7 @@
     {
       "date": "2026-07-19",
       "section": "world_news",
-      "headline": "Andy Burnham becomes UK PM Monday Jul 20 \u2014 youngest Labour PM since Blair; drops digital ID scheme; inherits Iran-driven cost-of-living crisis"
+      "headline": "Andy Burnham becomes UK PM Monday Jul 20 — youngest Labour PM since Blair; drops digital ID scheme; inherits Iran-driven cost-of-living crisis"
     },
     {
       "date": "2026-07-19",
@@ -1618,7 +1493,7 @@
     {
       "date": "2026-07-19",
       "section": "macro",
-      "headline": "Oil surge: Brent ~8/bbl (+4.6% Fri, +14% wk); WTI ~2.50 \u2014 Iran war escalation driving Hormuz risk premium; Iran retaliation against Gulf neighbours amplifying supply fears"
+      "headline": "Oil surge: Brent ~8/bbl (+4.6% Fri, +14% wk); WTI ~2.50 — Iran war escalation driving Hormuz risk premium; Iran retaliation against Gulf neighbours amplifying supply fears"
     },
     {
       "date": "2026-07-19",
@@ -1638,12 +1513,12 @@
     {
       "date": "2026-07-19",
       "section": "equities",
-      "headline": "Week ahead: Alphabet + Tesla earnings Tue \u2014 AI capex guidance critical for semis recovery; Mon: Ryanair, Dominos, Crown Holdings, AGNC, Zions"
+      "headline": "Week ahead: Alphabet + Tesla earnings Tue — AI capex guidance critical for semis recovery; Mon: Ryanair, Dominos, Crown Holdings, AGNC, Zions"
     },
     {
       "date": "2026-07-19",
       "section": "nordic",
-      "headline": "OMXH25 6,174.83 (+0.96% Fri); Nokia ~EUR 10.27 (-31% from June high); Nokia Q2 Thu Jul 23 \u2014 72% H2 profit hurdle; binary event for 140% YTD run"
+      "headline": "OMXH25 6,174.83 (+0.96% Fri); Nokia ~EUR 10.27 (-31% from June high); Nokia Q2 Thu Jul 23 — 72% H2 profit hurdle; binary event for 140% YTD run"
     },
     {
       "date": "2026-07-19",
@@ -1653,7 +1528,7 @@
     {
       "date": "2026-07-19",
       "section": "stocks",
-      "headline": "Nokia (NOKIA.HE): Thu Jul 23 Q2 binary event \u2014 72% H2 profit hurdle; SEB Buy maintained"
+      "headline": "Nokia (NOKIA.HE): Thu Jul 23 Q2 binary event — 72% H2 profit hurdle; SEB Buy maintained"
     },
     {
       "date": "2026-07-19",
@@ -1673,7 +1548,7 @@
     {
       "date": "2026-07-19",
       "section": "ma",
-      "headline": "KKR + Amwins + Dragoneer / Steadfast Group: A$7.7B bid for ASX largest insurance broker \u2014 live"
+      "headline": "KKR + Amwins + Dragoneer / Steadfast Group: A$7.7B bid for ASX largest insurance broker — live"
     },
     {
       "date": "2026-07-19",
@@ -1813,12 +1688,12 @@
     {
       "date": "2026-07-21",
       "section": "world_news",
-      "headline": "Andy Burnham Day 1 as UK PM: cabinet \u2014 Healey Chancellor, Miliband Foreign Secretary, Mahmood Home Sec; Trump calls UK 'poverty stricken disaster' in social post, then phones Burnham; \u00a3340M announced to end rough sleeping"
+      "headline": "Andy Burnham Day 1 as UK PM: cabinet — Healey Chancellor, Miliband Foreign Secretary, Mahmood Home Sec; Trump calls UK 'poverty stricken disaster' in social post, then phones Burnham; £340M announced to end rough sleeping"
     },
     {
       "date": "2026-07-21",
       "section": "world_news",
-      "headline": "US-Iran Night 8+: CENTCOM completed overnight strikes (9pm ET Jul 20) hitting command centres, maritime targets, missile infrastructure; ~100 US service members injured since Jul 7, 3 killed in recent days; Iranian FM Baghaei signals negotiations could be 'pursued based on national interests' \u2014 first de-escalation language in weeks; Brent eased from $91 to ~$87-88/bbl"
+      "headline": "US-Iran Night 8+: CENTCOM completed overnight strikes (9pm ET Jul 20) hitting command centres, maritime targets, missile infrastructure; ~100 US service members injured since Jul 7, 3 killed in recent days; Iranian FM Baghaei signals negotiations could be 'pursued based on national interests' — first de-escalation language in weeks; Brent eased from $91 to ~$87-88/bbl"
     },
     {
       "date": "2026-07-21",
@@ -1863,7 +1738,7 @@
     {
       "date": "2026-07-21",
       "section": "equities",
-      "headline": "Today early: chips rebounding on Iranian FM de-escalation signal \u2014 Broadcom +2%, Micron +1.9%, AMD +1.6%, Intel +2.1%; AMC Entertainment +17.7% premarket on record Q2 beat"
+      "headline": "Today early: chips rebounding on Iranian FM de-escalation signal — Broadcom +2%, Micron +1.9%, AMD +1.6%, Intel +2.1%; AMC Entertainment +17.7% premarket on record Q2 beat"
     },
     {
       "date": "2026-07-21",
@@ -1883,22 +1758,22 @@
     {
       "date": "2026-07-21",
       "section": "stocks",
-      "headline": "Prologis/Segro: third bid at \u00a313.5B ($18.2B, 993p/share) rejected by Segro Jul 17; bid-or-walk deadline TOMORROW Wed Jul 22 at 17:00 London per UK Takeover Panel"
+      "headline": "Prologis/Segro: third bid at £13.5B ($18.2B, 993p/share) rejected by Segro Jul 17; bid-or-walk deadline TOMORROW Wed Jul 22 at 17:00 London per UK Takeover Panel"
     },
     {
       "date": "2026-07-21",
       "section": "stocks",
-      "headline": "CXMT (ChangXin Memory Technologies): Shanghai STAR Market DRAM IPO approaching Jul 27 \u2014 Chinese DRAM competitor pressuring Micron, SanDisk, Samsung"
+      "headline": "CXMT (ChangXin Memory Technologies): Shanghai STAR Market DRAM IPO approaching Jul 27 — Chinese DRAM competitor pressuring Micron, SanDisk, Samsung"
     },
     {
       "date": "2026-07-21",
       "section": "ma",
-      "headline": "Prologis third bid \u00a313.5B ($18.2B) for Segro \u2014 rejected Jul 17; bid-or-walk deadline tomorrow Jul 22 17:00 London"
+      "headline": "Prologis third bid £13.5B ($18.2B) for Segro — rejected Jul 17; bid-or-walk deadline tomorrow Jul 22 17:00 London"
     },
     {
       "date": "2026-07-21",
       "section": "ma",
-      "headline": "KKR + Amwins + Dragoneer A$7.7B ($5.3B) bid for Steadfast Group (ASX largest insurance broker) \u2014 live, no new developments"
+      "headline": "KKR + Amwins + Dragoneer A$7.7B ($5.3B) bid for Steadfast Group (ASX largest insurance broker) — live, no new developments"
     },
     {
       "date": "2026-07-21",
@@ -1908,7 +1783,7 @@
     {
       "date": "2026-07-21",
       "section": "sport",
-      "headline": "F1: Hungarian GP next (Hungaroring Budapest, Jul 24-26); Antonelli leads championship (6 wins), Russell P2, Hamilton P3 \u2014 all Mercedes. Belgian GP Jul 19: Antonelli 1st, Leclerc 2nd, Verstappen 3rd; Russell+Hamilton collide lap 1"
+      "headline": "F1: Hungarian GP next (Hungaroring Budapest, Jul 24-26); Antonelli leads championship (6 wins), Russell P2, Hamilton P3 — all Mercedes. Belgian GP Jul 19: Antonelli 1st, Leclerc 2nd, Verstappen 3rd; Russell+Hamilton collide lap 1"
     },
     {
       "date": "2026-07-21",
@@ -1934,6 +1809,126 @@
       "date": "2026-07-21",
       "section": "sentiment",
       "headline": "Tentatively risk-on: chips rebounding on Iranian FM de-escalation signal; Brent off $91 to $87-88 but conflict active; key test is Alphabet+Tesla earnings AH tomorrow Wed Jul 22"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "developing",
+      "headline": "US-Iran Day 15+: Iran seized 2 non-compliant tankers in Hormuz + struck US radar/air-defence in Gulf overnight; Brent $92/bbl (highest since Jun 11, 4th day of gains); Iranian FM Baghaei de-escalation signal not halting kinetic activity"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "developing",
+      "headline": "Prologis/Segro: third bid £13.5B rejected; bid-or-walk deadline TODAY 17:00 London (UK Takeover Panel Rule 2.6a); binary outcome imminent"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "developing",
+      "headline": "Nokia (NOKIA.HE) +5.25% Helsinki on pre-earnings run ahead of binary Q2 event Thu Jul 23 07:00 EEST; consensus rev €4.83B / EPS €0.051; 72% FY profit must land H2"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "world_news",
+      "headline": "Zelenskyy fires army chief Gen. Syrskyi after mass protests (Soviet command culture / Bakhmut legacy cited); Mykhailo Drapatyi appointed new Ukraine commander-in-chief"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "world_news",
+      "headline": "US-Iran: Iran seized 2 non-compliant tankers in Hormuz + struck US radar/air-defence in Gulf; CENTCOM continued strikes; Trump: Iran will pay; ~100 US service members injured, 3 killed recently; Brent $92"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "world_news",
+      "headline": "UK — Andy Burnham Day 2: cabinet confirmed (Healey Chancellor, Miliband Foreign Sec, Mahmood Home Sec); £340M rough sleeping; Trump 'poverty stricken disaster' jab then constructive phone call"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "world_news",
+      "headline": "Tate Brothers first Miami federal court appearance: fighting UK extradition on rape/trafficking charges (7 women, 2010-2017 eastern England); next hearing Jul 27; decision falls to Secretary Rubio"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "macro",
+      "headline": "ECB tomorrow Jul 23 14:45 EEST: 88% probability hold at 2.25%; non-projection meeting; Lagarde PC 15:30 EEST; 12% tail-risk hike on Brent $92 / inflation"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "macro",
+      "headline": "FOMC blackout ahead of Jul 28-29; hold at 3.50-3.75% ~83% priced; Sep hike ~50% CME / ~80% sell-side; Jun CPI -0.4%/3.5% undershoot still in play"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "macro",
+      "headline": "Brent crude $92/bbl (4-day surge; highest since Jun 11; +14% over 2 weeks); WTI ~$87; overnight tanker seizures re-applying Hormuz risk premium; US 10Y ~4.40%; Bund ~3.0%; Gold ~$4,100/oz"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "calendar",
+      "headline": "Today Jul 22 key events: Alphabet (GOOGL) Q2 AH ~22:00 EEST (cons: EPS $3.04 / rev $116.9B); Tesla (TSLA) Q2 AH ~22:30 EEST (cons: rev $27.6B, 480k deliveries); Prologis/Segro deadline 17:00 London; Nokia Q2 + ECB TOMORROW"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "fx",
+      "headline": "EUR/USD 1.1413 (flat, consolidating; ECB tomorrow next catalyst); USD/JPY 162.0 (40-yr yen low; BoJ Jul 30-31 +25bp priced); GBP/USD 1.340 (3M high); EUR/SEK 11.06; EUR/NOK 11.13; USD/SEK 9.66"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "equities",
+      "headline": "Jul 22 session: S&P 500 +0.89%; Nasdaq +1.29%; Dow +0.74% — chips and tech leading on short-covering ahead of Alphabet/Tesla AH earnings"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "equities",
+      "headline": "AMC Entertainment +17.7% (record Q2 beat); Nokia +5.25% Helsinki; European markets broadly positive; Alphabet + Tesla AH tonight = biggest event of week for tech/semis direction"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "nordics",
+      "headline": "Nokia (NOKIA.HE) +5.25% to ~€9.39; Q2 TOMORROW 07:00 EEST binary event; 72% FY profit must land H2; consensus rev €4.83B EPS €0.051; SEB Buy | JPMorgan OW €21 | Nordea Buy €14.8; -31% from June peak"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "nordics",
+      "headline": "OMXH25 positive today; Nordea dividend record date Aug 6 / pay Aug 13; Ericsson recovering mildly from -11.1% post Q2 rev miss; CEO Ekholm to Narvinger Oct 1; Sampo quiet"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "stocks",
+      "headline": "Nokia Q2 tomorrow binary; Prologis/Segro outcome today 17:00 London binary; Alphabet + Tesla AH tonight; CXMT Shanghai DRAM IPO Jul 27 structural risk for Micron/SanDisk/Samsung"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "ma",
+      "headline": "Prologis/Segro TODAY 17:00 London deadline: third bid £13.5B (993p/share, 9.7% premium to NAV) rejected; Segro board hostile; binary walk-or-firm-offer outcome"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "ma",
+      "headline": "CXMT (ChangXin Memory Technologies) Shanghai STAR Market DRAM IPO Jul 27; Chinese DRAM entrant; structural pressure on Micron, SanDisk, Samsung"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "ma",
+      "headline": "Meta/Anthropic: up to $10B compute rental deal (NYT Jul 18) remains unconfirmed; no new developments"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "sport",
+      "headline": "F1 Hungarian GP: Hungaroring Budapest Jul 24-26 (race Sun Jul 26); Antonelli leads 204pts vs Hamilton 159 vs Russell 154 — all Mercedes; Antonelli won Belgian GP Spa; circuit favours qualifying pace"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "gossip",
+      "headline": "Tate Brothers (Andrew + Tristan) first Miami court appearance; fighting UK extradition; rape/trafficking charges; next hearing Jul 27"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "gossip",
+      "headline": "Jason Bateman arrested Monaco for drunk and disorderly conduct in leopard outfit"
+    },
+    {
+      "date": "2026-07-22",
+      "section": "sentiment",
+      "headline": "Tentatively risk-on: chips/tech bouncing on short-covering ahead of Alphabet+Tesla AH, but Brent $92 re-applies Iran war premium after overnight tanker seizures; session direction lives on tonight's AI capex guidance"
     }
   ]
 }
