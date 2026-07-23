@@ -1,141 +1,6 @@
 {
   "stories": [
     {
-      "date": "2026-07-08",
-      "section": "world_news",
-      "headline": "US reimposed Iran oil sanctions + CENTCOM struck 80+ Iranian targets (air defense, radar, 60+ IRGC boats) after IRGC hit 3 Hormuz tankers in 24h; Iran vows crushing response; Doha talks effectively dead"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "world_news",
-      "headline": "NATO Ankara summit Day 2: Trump meets Zelenskyy at sidelines; allies affirm ironclad Article 5; EUR70B Ukraine military aid pledged for 2026"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "world_news",
-      "headline": "Bomb explodes near Macron's Damascus hotel (Four Seasons area) during historic Syria state visit; Macron safe; first Western EU head-of-state in Syria since Assad fell"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "world_news",
-      "headline": "Venezuela earthquake death toll rises to 3,535 (from 2,954); Day 14; fuel shortages halting heavy rescue machinery; $37B UN damage estimate"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "world_news",
-      "headline": "Cuba suffers third island-wide blackout of 2026; national grid collapses amid fuel crisis; millions without power"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "macro",
-      "headline": "FOMC June 2026 minutes released 21:00 EEST; first Warsh-era minutes; committee split 8-1-9 hold/cut/hike; Warsh skipped dot plot; Sep hike probability ~50-55%"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "macro",
-      "headline": "Samsung Q2 2026: record W89.4T operating profit (+1,810% YoY) but revenue miss; stock -6.9% in Seoul; triggered SMH semiconductor ETF -3%, Micron -4.7% on AI capex fears"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "macro",
-      "headline": "DeepSeek developing own AI chip (Reuters, Jul 7); amplified chip sector selloff alongside Samsung miss; DeepSeek independence from Nvidia/Samsung chips flagged as structural risk"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "macro",
-      "headline": "US 10Y drifting toward 4.30-4.40% on soft labour backdrop; German Bund 10Y ~2.94%; gold ~$4,100-4,150/oz; oil reversing higher on Iran escalation"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "fx",
-      "headline": "EUR/USD ~1.1430, recovering from 13-month lows but capped below bearish trendline; ECB July 23 next catalyst"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "fx",
-      "headline": "USD/JPY ~161-162, near 40-year yen lows; FinMin Katayama repeated warning without intervention; Iran risk-off = potential yen safe-haven bid"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "fx",
-      "headline": "GBP/USD ~1.3300, 3-month sterling high on Bailey Sintra two-more-hikes signal + NFP dollar softness; holding above 1.33"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "equities",
-      "headline": "July 7 close: S&P 500 -0.45% to 7,503.85; Nasdaq -1.16% to 25,818.69; Dow -0.25% to 52,925.15; ends 4-day winning streak on chip selloff"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "equities",
-      "headline": "Samsung -6.9% in Seoul (record profit, revenue miss); Micron -4.7%; AMD -2%; SMH semiconductor ETF -3% on DeepSeek AI chip + Samsung miss"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "equities",
-      "headline": "SpaceX (SPCX) ~flat (+1%) on Nasdaq-100 inclusion day (Jul 7); $4.3B passive buy pre-positioned; sell-the-news dynamic; stock ~$149-158"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "equities",
-      "headline": "Jul 8 premarket: Marvell -5%, ARM Holdings -4% (chip weakness extends); IBM gains; Plug Power +1.5% (50MW hydrogen contract); Iran escalation = risk-off tone"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "nordics",
-      "headline": "Nokia (NOKIA.HE) EUR10.42, -3.17%; catches down to global chip rout; Q2 earnings July 23; Danske Buy/EUR14 vs UBS Neutral/EUR11 vs LBBW Sell/EUR9.75; +137% YTD"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "nordics",
-      "headline": "Nordea +0.12%, Sampo +0.92%; defensive financials outperforming as tech/semis sold"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "nordics",
-      "headline": "SK Hynix ADR (SKHY) Nasdaq listing Thursday July 10; $29B raise, largest-ever US listing by foreign company; -25% from announcement highs on tariff headwinds; key read for AI memory sector"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "nordics",
-      "headline": "Cint Group re-listing on Nasdaq Stockholm also July 10"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "stocks",
-      "headline": "SpaceX (SPCX) ~$149-158 post-Nasdaq-100 inclusion; only ~3% float; Palantir-style sell-the-news risk in next 48h"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "stocks",
-      "headline": "SK Hynix ADR (SKHY) Thursday Nasdaq debut; world's largest foreign US stock offering; will set tone for AI memory sector into Q3 2026"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "ma",
-      "headline": "Alphabet joins EUR411M Series B in Proxima Fusion (Jul 7); largest fusion energy private round of 2026; Google DeepMind AI to model plasma physics; co-led by Atomico"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "sport",
-      "headline": "World Cup R16 Jul 8: Argentina 2-1 Egypt (Messi equalizer + Enzo Fernandez stoppage-time header; Messi 8 WC goals, sole Golden Boot leader); Switzerland 4-3 pens vs Colombia (0-0 AET); all 8 QF slots filled"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "sport",
-      "headline": "Wimbledon QF Day 10: Djokovic beats Auger-Aliassime 7-6(10) 3-6 6-3 6-7(4) 7-6(4) in 5h+ thriller (15th Wimbledon SF); Gauff beats Pegula 4-6 6-3 6-3; Muchova beats Osaka 7-6 6-4; Sinner vs Fritz and Paolini vs Kostyuk to follow"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "gossip",
-      "headline": "Swift-Kelce wedding leaks escalate: handwritten vows now circulating; Paul McCartney performing I Want to Hold Your Hand (first time in 62 years) confirmed by multiple guests; $26M+ charity donations total"
-    },
-    {
-      "date": "2026-07-08",
-      "section": "gossip",
-      "headline": "Macron Damascus hotel bomb adds drama to historic Syria visit; French delegation safe"
-    },
-    {
       "date": "2026-07-09",
       "section": "world_news",
       "headline": "Le Pen appeals court upholds EU-funds conviction but cuts office ban to 45 months (30 suspended); Le Pen announces 2027 presidential run alongside Bardella; will appeal to Cour de Cassation to avoid ankle tag"
@@ -1929,6 +1794,146 @@
       "date": "2026-07-22",
       "section": "sentiment",
       "headline": "Tentatively risk-on: chips/tech bouncing on short-covering ahead of Alphabet+Tesla AH, but Brent $92 re-applies Iran war premium after overnight tanker seizures; session direction lives on tonight's AI capex guidance"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "developing",
+      "headline": "US-Iran war Day 16: Pentagon requests $87.6B emergency supplemental from Congress ($37.5B spent); Hegseth warns funds dry up in weeks; mediators proposed 10-day ceasefire Jul 20 (unaccepted); Brent $94/bbl"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "developing",
+      "headline": "Prologis submits final £14B ($18.7B) best-and-final bid for Segro (45% premium, partial £3.5B cash); Segro board minded to recommend; deal appears set to proceed"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "developing",
+      "headline": "Alphabet Q2: revenue $119.8B (+24% YoY, beat); Google Cloud +82% to $24.8B; capex raised to $205B (from $180-190B); GOOGL -4% AH; Nasdaq futures erased losses on Asia AI optimism"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "developing",
+      "headline": "Tesla Q2: record revenue $28.24B (+26%, beat); EPS miss $0.33 vs $0.53 est; FCF -$1.09B (was +$1.44B Q1); opex +47%; TSLA -4% AH"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "world_news",
+      "headline": "Pentagon requests $87.6B emergency Iran war supplemental from Congress ($67.1B DoD); Hegseth warns funds run dry in weeks; Day 16 of CENTCOM strikes"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "world_news",
+      "headline": "France passes EU first blanket ban on digital platforms for minors; first member state to act unilaterally ahead of any EU directive"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "world_news",
+      "headline": "2 World Trade Center breaks ground in Lower Manhattan, 25 years after 9/11; $9B tower; delivery targeted 2032"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "world_news",
+      "headline": "Ebola DRC: 80% new cases unknown transmission chains; 3rd-largest outbreak (1,963 confirmed / 719 dead); Uganda separate Marburg case confirmed"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "macro",
+      "headline": "ECB Jul 23 14:45 EEST: hold at 2.25% expected (88%); non-projection meeting; Lagarde PC 15:30 EEST; 12% tail-risk hike given Brent $94"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "macro",
+      "headline": "Fed FOMC blackout (Jul 28-29 decision): hold 3.50-3.75% ~83% priced; Sep hike ~50% odds"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "macro",
+      "headline": "Brent crude $94/bbl (4th consecutive day of gains; highest since mid-July); WTI ~$87 — Iranian tanker seizures reapplying Hormuz risk premium"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "macro",
+      "headline": "GE Vernova Q2 (Jul 22): revenue $11.1B (+22%), orders +88% YoY to $24.2B; FCF $5.1B; FY 2026 guidance raised to $45.5-46.5B revenue; power + data-centre theme intact"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "fx",
+      "headline": "EUR/USD ~1.1413 flat ahead of ECB; USD/JPY ~162.0 (40-yr yen low, BoJ Jul 30-31 +25bp priced); GBP/USD ~1.340 (3M high); EUR/SEK ~11.06; EUR/NOK ~11.13; USD/SEK ~9.66"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "equities",
+      "headline": "Wed Jul 22 closes: S&P 500 -0.14% to 7,499; Nasdaq -0.57% to 25,691; Dow -0.01% to 52,219; chips/tech bounced intraday ahead of AH earnings"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "equities",
+      "headline": "Thu Jul 23 AM: Nasdaq 100 futures erased AH losses; MSCI Asia Pacific +1%; Kospi +2.8%; Samsung +3%+; SK Hynix +3%+ on Google Cloud +82% AI spend confirmation"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "equities",
+      "headline": "GE Vernova Q2 beat: orders +88%, guidance raised; GOOGL -4% AH (capex $205B); TSLA -4% AH (EPS miss); Asia chips rally on AI hyperscaler capex confirmation"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "nordics",
+      "headline": "Nokia (NOKIA.HE) Q2/H1 2026 results released 07:00 EEST; consensus rev €4.83B / comparable op. profit €372M; 72% of FY profit must land H2; Nokia +5.25% yesterday to ~€9.39; -31% from June peak; webcast 15:00 EEST"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "nordics",
+      "headline": "Ericsson (ERIC-B): gradual recovery from -11.1% post-Q2 revenue miss; CEO Ekholm to Narvinger Oct 1; AI component cost pressure persists"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "nordics",
+      "headline": "Nordea: quiet; dividend record date Aug 6 / pay Aug 13 (EUR0.34/sh); ROE 15.9%; Sampo quiet"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "stocks",
+      "headline": "Nokia Q2 reaction today — binary for 140%+ YTD run; SEB Buy | JPMorgan OW €21 | Nordea Buy €14.8"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "stocks",
+      "headline": "CXMT (ChangXin Memory Technologies) Shanghai STAR DRAM IPO Jul 27 — Chinese entrant; structural competition for Micron, SanDisk, Samsung; watch sector pre-IPO"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "ma",
+      "headline": "Prologis final £14B ($18.7B) bid for Segro — Segro board minded to recommend; partial cash option; 45% premium; largest warehouse REIT merger in history if completed"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "ma",
+      "headline": "KKR+Amwins+Dragoneer A$7.7B bid for Steadfast Group (ASX largest insurance broker) — ongoing"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "ma",
+      "headline": "Meta/Anthropic up to $10B compute rental deal (NYT Jul 18) still unconfirmed"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "sport",
+      "headline": "Tour de France: Stage 17 (Jul 22) won by Jasper Philipsen (flat sprint Chambéry→Voiron). Stage 18 today: first major Alpine test 185km to Orcières-Merlette, 3,900m climbing"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "sport",
+      "headline": "F1 Hungarian GP: Practice starts tomorrow Jul 24 at Hungaroring Budapest; Antonelli leads championship 45pts over Hamilton; race Sunday Jul 26"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "gossip",
+      "headline": "Andrew + Tristan Tate fighting UK extradition in Miami federal court (42 + 17 charges incl. rape/trafficking); next hearing Jul 27; decision falls to Sec. Rubio"
+    },
+    {
+      "date": "2026-07-23",
+      "section": "sentiment",
+      "headline": "Tentatively risk-on: Google Cloud +82% validates AI hyperscaler spend lifting Samsung/Kospi +3%+ overnight and erasing Alphabet AH capex-scare from Nasdaq futures; Nokia Q2 and ECB decision are today two swing factors for European direction with Brent $94 shadowing every risk-on move"
     }
   ]
 }
