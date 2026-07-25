@@ -1,121 +1,6 @@
 {
   "stories": [
     {
-      "date": "2026-07-10",
-      "section": "world_news",
-      "headline": "Spain wildfire kills 12 near Almería; victims found in vehicles; one of 2026's deadliest Spanish wildfires"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "world_news",
-      "headline": "Iran IRGC fires 10 ballistic missiles at Al-Azraq air base Jordan (US forces housed there); Kuwait intercepts separate drone/missile swarm; Trump declares ceasefire 'over'; CENTCOM runs 2nd night of Iran strikes"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "world_news",
-      "headline": "Ukraine drone offensive hits 21 Russian oil tankers + 3 refineries over 72h 'at industrial scale'; Russia bans diesel exports"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "world_news",
-      "headline": "Sudan: UN Human Rights Council orders mass atrocity inquiry in North Kordofan as RSF encircles El-Obeid"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "macro",
-      "headline": "Fed Jul 28-29 hold baseline; Sep hike probability ~50-55%; US 10Y ~4.30-4.40%; German Bund ~2.85%; Gold $4,112; Oil Brent $77.85 / WTI $73.30 easing despite Iran escalation"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "macro",
-      "headline": "US June CPI scheduled Tuesday July 14, 14:30 EEST (prev core 3.4%; consensus ~3.2%)"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "fx",
-      "headline": "EUR/USD 1.1438 (+0.18%), recovering from 13-month lows but capped below May bearish trendline; >30bp ECB tightening priced for H2"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "fx",
-      "headline": "USD/JPY ~161-162, 40-year yen low; BoJ Jul 30-31 meeting +25bp hike to 1.00% consensus; repeated MoF warnings without intervention"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "fx",
-      "headline": "GBP/USD ~1.3300, 3-month sterling high on BoE Bailey Sintra 2-more-hikes signal + NFP dollar softness"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "equities",
-      "headline": "Thu Jul 9 closes: S&P 500 +0.81% to 7,543.64; Nasdaq +1.30% to 26,206.89; Dow +0.27% to 52,487; Stoxx 600 +0.8%; Nikkei +1.4%; KOSPI +0.62%"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "equities",
-      "headline": "Chip bounce: SMH ETF +2.5%; SanDisk +7.6%; Micron +4.5%; SK Hynix +5.3% pre-debut; Meta +4% on own AI chip production target by September"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "nordics",
-      "headline": "OMXH25 +1.84%; Nokia (NOKIA.HE) +7.24% on JPMorgan raising NOK ADR price target to $21 from $14; AI/cloud orders +49% YoY; Q2 earnings July 23"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "nordics",
-      "headline": "Nordea €16.84 (+1.14%); Sampo €9.62 (+1.95%); Nordea raises Sampo TP to €10.90, reiterates Buy"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "nordics",
-      "headline": "Cint Group re-lists on Nasdaq Stockholm today"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "stocks",
-      "headline": "SK Hynix (SKHY) Nasdaq debut today at $149/ADR; $26.5B raised; 7x oversubscribed; world's largest-ever US ADR by a foreign company"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "stocks",
-      "headline": "Meta targets own AI chip production by September — structural shift from Nvidia dependency"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "ma",
-      "headline": "Prologis pushes $16.9B bid for UK warehouse REIT Segro"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "ma",
-      "headline": "Kroger agrees to acquire Giant Eagle (US regional grocery chain)"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "ma",
-      "headline": "Steel Partners offers $16.75/share all-cash for InMode (INMD)"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "sport",
-      "headline": "World Cup 2026 QF: France 2-0 Morocco (Mbappe 60', Dembele 66'); France into SFs for 4th straight WC; 6 wins 6 clean sheets no extra time needed"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "sport",
-      "headline": "World Cup QF today: Spain vs Belgium 22:00 EEST (LA Stadium); Sat: Norway vs England (Miami), Argentina vs Switzerland (Kansas City)"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "sport",
-      "headline": "Wimbledon: All-Czech women's final Saturday — Muchova bt Gauff 6-2 1-6 7-6(12-10); Noskova bt Kostyuk 6-4 6-4; Men's SFs today: Zverev vs Fery, Sinner vs Djokovic"
-    },
-    {
-      "date": "2026-07-10",
-      "section": "gossip",
-      "headline": "London disorder: Morocco fans flood Piccadilly & Trafalgar Square post-WC elimination by France; running clashes with police into early morning"
-    },
-    {
       "date": "2026-07-11",
       "section": "world_news",
       "headline": "China lands first-ever reusable rocket successfully — major space milestone challenging US commercial launch dominance"
@@ -1949,6 +1834,101 @@
       "date": "2026-07-24",
       "section": "sentiment",
       "headline": "Risk-off: GOOGL/TSLA capex shock and margin miss dragged Mag 7 lower Thursday; Houthi Saudi tanker strikes pushing Brent to multi-month highs; Friday focus on flash PMIs and Trump tariff market absorption"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "developing",
+      "headline": "US-Iran Day 19: Trump Cabinet escalation meeting Friday; Saudi Arabia launches counter-strikes on Yemen Houthis; US Navy forcibly disables tanker bypassing Iran port blockade"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "developing",
+      "headline": "Trump tariff wave (10-12.5% on 60 partners, effective Jul 24): EU calls unfounded; Australia completely unjustified; Brazil files WTO action; Mexico says treatment unchanged"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "developing",
+      "headline": "Nokia post-Q2 analyst action: BofA raised PT to $18.50 from $18, Buy maintained; AI optical network upside debate heating up"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "world_news",
+      "headline": "Saudi Arabia launches military strikes on Yemen in retaliation for Houthi attack on Saudi vessel — conflict theatre expanding beyond Iran"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "world_news",
+      "headline": "US Navy publicly reports forcibly disabling tanker attempting to bypass Iran port blockade — first such enforcement action made public"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "macro",
+      "headline": "Fed FOMC blackout; Jul 28-29 meeting Chair Warsh; ~67% hold / ~33% hike at 3.50-3.75%; BofA projects 3 hikes Sep/Oct/Dec; Deutsche Bank projects 2"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "macro",
+      "headline": "Brent crude below $98 Fri (near $100 intraday), +12% weekly; US 10Y ~4.35%; German Bund ~2.88%"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "calendar",
+      "headline": "Key week ahead: Tue Jul 28 Consumer Confidence + earnings (Boeing, PayPal, UPS, KO, RCL); Wed Jul 29 FOMC 21:00 EEST + MSFT + META earnings; Thu Jul 30 GDP+PCE+Claims 15:30 EEST + AAPL earnings"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "fx",
+      "headline": "EUR/USD 1.1367 (-0.09% Fri) near 1-yr low; USD/SEK ~9.77; EUR/SEK ~11.10; USD/JPY ~163.15 (yen near 40-yr low); BoJ Jul 30-31 meeting 50bp hike expectations building"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "equities",
+      "headline": "Fri close: S&P 7,412 (+0.05%), Nasdaq 24,976 (-0.64%), Dow 51,947 (+0.46%); weekly Nasdaq -2%; AmEx $4.40 beat, Verizon $1.27 beat, Charter $10.19; Q2 S&P blended growth 37.9% (highest since Q3 2021); 86% of reporters beating EPS"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "nordics",
+      "headline": "Nokia NOKIA.HE ~€11.20 after +9.6% Thu; BofA PT $18.50; Nordea ex-div Aug 5 €0.34/sh; Sampo ~€39 -8.5% over 30 days"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "stocks",
+      "headline": "CXMT IPO Mon Jul 27 Shanghai STAR Board; Chinese DRAM entrant — competitive signal for SK Hynix/Samsung/Micron"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "stocks",
+      "headline": "Mag 7 + FOMC double event Wed Jul 29: MSFT + META report same day as Fed decision; Apple Thu Jul 30; maximum event-risk overlap"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "ma",
+      "headline": "Samsung Biologics acquires PolyPeptide Group (Switzerland): CHF 1.46B ($1.8B) all-cash, 40% premium; GLP-1/peptide CDMO expansion"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "ma",
+      "headline": "Tempus AI acquires Personalis: $1.5B ($16.25/sh); MRD cancer monitoring into Tempus AI oncology platform"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "sport",
+      "headline": "Tour de France Stage 19: Pogacar (maillot jaune) wins Alpe d Huez erasing 3-min deficit; only 2nd rider in yellow to win there (after Thomas 2018); Evenepoel consolidates GC podium"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "sport",
+      "headline": "F1 Hungarian GP qualifying Sat Jul 25 (race Sun Jul 26): Hamilton led FP2 for Ferrari; championship Antonelli (Mercedes) 204pts > Hamilton 159pts > Russell 154pts"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "gossip",
+      "headline": "Tony Romo (former Cowboys QB) arrested for DUI in Milwaukee Thursday night"
+    },
+    {
+      "date": "2026-07-25",
+      "section": "sentiment",
+      "headline": "Risk-off into most event-dense week of Q3: FOMC + Mag7 earnings (MSFT/META/AAPL) + GDP/PCE all before Friday; Brent near $100 + fresh tariffs = no cover to run higher"
     }
   ]
 }
