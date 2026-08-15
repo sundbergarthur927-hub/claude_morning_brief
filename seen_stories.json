@@ -1,126 +1,6 @@
 {
   "stories": [
     {
-      "date": "2026-07-31",
-      "section": "world_news",
-      "headline": "Russia strikes US-registered entity for first time: ballistic missile destroyed Kyiv drone factory of Delaware-registered Terminal Autonomy; no casualties; qualitative escalation in targeting"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "world_news",
-      "headline": "Russian missile crosses into Poland during Jul 30 overnight attack (8 killed, 50+ injured across Ukraine); NATO scrambled jets; Warsaw lodging formal protest"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "world_news",
-      "headline": "Japan 7.1M earthquake Kyushu confirmed; rescue operations ongoing in Kumamoto; no tsunami warning; infrastructure damage"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "world_news",
-      "headline": "Spain/France wildfires: 267,000+ displaced; EU civil protection mechanism activated (aircraft Greece/Italy/Turkey); ~11,000 still evacuated near Madrid; some areas reopening"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "world_news",
-      "headline": "Ebola DRC: UN appoints Julien Harneis as humanitarian coordinator; 3rd-largest outbreak (1,963 confirmed / 719 dead; 80% unknown transmission chains)"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "macro",
-      "headline": "US Q2 2026 GDP advance estimate +1.5% annualised (miss vs +2.1% exp); consumer spending + investment positive; government spending drag"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "macro",
-      "headline": "June Core PCE +3.3% YoY (in-line); headline PCE +3.7% YoY (in-line); Q2 annualised PCE +3.4% (down from 4.4% Q1); disinflation intact"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "macro",
-      "headline": "BoJ HOLDS at 1.00% (Jul 31 morning): Takata dissented for hike; Oct/Dec next hike split 40/50%; FY2026 GDP forecast upgraded to 0.8%"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "macro",
-      "headline": "Suspected MoF JPY intervention overnight: USD/JPY surged from 163.99 (40-yr low) to 158 handle — biggest yen move since April; USD/JPY ~160 at Asia open"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "macro",
-      "headline": "Apple Q3 FY2026 (Jul 30 AH): Rev $109.4B (+16% YoY, beat); EPS $2.02 (+29% YoY, beat); services $30.74B miss ($31.22B est); China weakness; stock -5-6% AH"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "macro",
-      "headline": "Amazon Q2 2026 (Jul 30 AH): Rev $200.6B (+20% YoY); AWS $42.2B (+37% fastest growth in 18 quarters); operating income +43% to $27.5B; FY capex $220B; stock +9.4% AH"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "calendar",
-      "headline": "Today Jul 31: BoJ decision (done, HOLD 1.00% + Ueda hawkish PC); ExxonMobil Q2 + Chevron Q2 pre-market (analysts forecast strongest O&G results in 15 quarters); AbbVie/Linde/Eaton/Colgate; Chicago PMI 16:45 EEST; UoM Sentiment Final 17:00 EEST"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "fx",
-      "headline": "USD/JPY -2.1% to ~160.1 on suspected MoF intervention (163.99 → 158 handle intraday); biggest JPY move since April; EUR/USD +0.75% → ~1.1453; USD/SEK ~9.77; EUR/SEK ~11.10; EUR/NOK ~11.13"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "equities",
-      "headline": "Jul 30 closes: S&P 500 +1.70% → 7,437; Nasdaq +2.80% → 25,122; Dow +1.19% → 52,208 (MSFT +16% on Azure +43% drove the bounce; META -10%+ on EPS miss $6.18 vs $7.21 est)"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "equities",
-      "headline": "Jul 31 pre-market: Amazon +9.4% AH tailwind (AWS +37% fastest in 18 quarters; FY capex $220B); Apple -5-6% AH (services miss + China); Exxon/Chevron reporting pre-open; futures broadly positive"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "equities",
-      "headline": "Asian overnight: Nikkei mixed on JPY intervention; Kospi recovering from Monday -9% AI rout; Samsung/SK Hynix rebounding on AWS +37% AI spend confirmation"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "nordics",
-      "headline": "Nokia (NOKIA.HE) ~EUR10.80: post-Q2 drift; H1 FCF -EUR104M vs +EUR809M YoY headwind; AI order backlog EUR2.8B; BofA Buy $18.50; OMXH25 expected higher on US tech rebound"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "nordics",
-      "headline": "Nordea: ex-div Aug 5 (EUR0.34/sh); record Aug 6, pay Aug 13; quiet. Neste holding record Q2 EBITDA EUR1.2B with Brent ~$89 supportive. Ericsson stabilising post -11.1% Q2 miss."
-    },
-    {
-      "date": "2026-07-31",
-      "section": "stocks",
-      "headline": "ExxonMobil (XOM) + Chevron (CVX) reporting pre-market Jul 31; Q2 oil averaged $90-100/bbl; analysts forecast strongest O&G results in 15 quarters; both likely to beat estimates"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "ma",
-      "headline": "Prologis/Segro (GBP14B/$18.7B): board-recommended; UK Takeover Panel formal offer deadline Aug 12; no new developments Jul 31. OCS/Mitie (GBP3.1B), Var Energi/BlueNord ($1.3B), Argenx/Forte ($2.2B) ongoing."
-    },
-    {
-      "date": "2026-07-31",
-      "section": "sport",
-      "headline": "DC Open (Washington) QFs Jul 31: ATP — [1] de Minaur vs Nakashima; WTA — [1] Pegula vs [5] Kalinskaya; Alexandra Eala (Philippines) stunned world no.6 Qinwen Zheng 4-6 6-4 6-1 in R32"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "gossip",
-      "headline": "Glen Hansard (Irish musician, Oscar-winning co-writer of 'Falling Slowly'/Once) died in single-vehicle motorcycle crash Jul 29, aged 56"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "gossip",
-      "headline": "House of the Dragon S3E6 major character death (Jul 26, HBO Max) still dominating social media"
-    },
-    {
-      "date": "2026-07-31",
-      "section": "sentiment",
-      "headline": "Cautiously risk-on: MSFT Azure +43% + Amazon AWS +37% restore AI capex confidence; Apple services miss + BoJ/MoF intervention + 30Y at 5.17% + Brent $89 on resumed Iran strikes cap the upside; Exxon/Chevron pre-market are today's swing factor"
-    },
-    {
       "date": "2026-08-01",
       "section": "developing",
       "headline": "US-Iran war: Trump signals 'progress' on Gaza/Iran peace talks (Jul 31); US officials warn new Iran strikes possible 'as soon as this weekend'; Hormuz <15 ships/day"
@@ -1694,6 +1574,116 @@
       "date": "2026-08-14",
       "section": "sentiment",
       "headline": "Risk-on into weekend: S&P 500 fresh ATH 7,798.99 as PPI + Retail Sales confirm US soft-landing path; key risk is unresolved Iran-Hormuz deal (Brent $87.18, Bloomberg: elusive) and Jackson Hole policy signal (Aug 27-29)"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "developing",
+      "headline": "US-Iran Hormuz deadlock Aug 15: Brent +1.51% to $88.38 on Friday; Iran: 'no reopening while US naval blockade continues'; ~8-15 tankers/day vs 130 pre-crisis; deal elusive into weekend"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "developing",
+      "headline": "Gaza Aug 15: Netanyahu holds firm on IDF withdrawal; Israeli strikes killed 26+ Palestinians over weekend; US-mediated ceasefire framework at impasse after Trump 15-pt plan rejection (Aug 9)"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "developing",
+      "headline": "Nokia NestAI defense-AI Aug 15: ADR +2.3% Fri to $10.56; NOKIA.HE ~96% YTD near 17-yr highs; Nokia+Ericsson announce Autonomous Networks collaboration; NestAI operational capabilities driving sentiment"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "world_news",
+      "headline": "Ukraine Aug 14-15: Russian overnight attacks hit Kherson (5 adults+child injured) + Odesa infrastructure; Ukrainian forces struck 2 relay stations + 5 Russian drone command posts; ~28-40% Russia refining capacity knocked out"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "world_news",
+      "headline": "Gaza Aug 15: 26+ Palestinians killed over weekend by Israeli strikes; Netanyahu defiant; US ceasefire plan requiring IDF withdrawal rejected; Washington mediation at impasse"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "world_news",
+      "headline": "Iran/Hormuz Aug 15: FM: 'US must lift blockade first'; IEA cut 2026 oil demand growth forecast citing Hormuz disruption + high prices; Brent +1.5% Friday"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "world_news",
+      "headline": "European Athletics Championships Birmingham Day 6 (Aug 15): Keely Hodgkinson + Audrey Werro through 800m semis (Werro despite fall); GB leads medal table 4+ golds; final day Aug 16"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "macro",
+      "headline": "US Retail Sales July (released Fri Aug 14): +0.32% MoM (beat +0.3% cons); 10th consecutive monthly upside surprise; consumer spending holding"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "macro",
+      "headline": "UMich August consumer sentiment (prelim, Fri Aug 14): fell short of expectations; inflation pessimism triggered afternoon S&P dip from ATH 7,798.99"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "macro",
+      "headline": "Bonds Aug 15: US 10Y ~4.60%; US 30Y ~5.17% (2-decade high); German Bund ~3.16% (15-yr high). Jackson Hole confirmed Aug 27-29 theme: 'Financial Innovation: Implications for Payments'"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "macro",
+      "headline": "AMAT Q3 FY2026 (AH Thu Aug 13): EPS $3.50 non-GAAP (beat $3.36 est); rev $9.12B (slight miss $9.18B); semiconductor equipment AI capex cycle healthy"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "calendar",
+      "headline": "Week ahead Aug 18-22: Empire State Mfg Mon; FOMC Minutes Wed Aug 20 ~21:00 EEST (Jul 29-30 meeting); Jobless Claims/Philly Fed/Existing Home Sales Thu; Flash PMIs Fri; Jackson Hole Aug 27-29"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "fx",
+      "headline": "USD/JPY ~159.14 Fri (+1.4% from ~157.79 Thu brief); MoF intervention effect fading; yen softening on USD strength post-retail sales. EUR/USD ~1.1524-1.1536 near 2-mth highs. USD/SEK 9.61; EUR/SEK 11.10; EUR/NOK 11.13"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "equities",
+      "headline": "Fri Aug 14 closes: S&P 500 7,781 (-0.22%, from ATH 7,798.99 Thu); Nasdaq -0.2%; Dow flat. Third straight weekly gain intact; S&P +2.76% past month, +20.64% YoY. Driver: UMich sentiment miss in afternoon"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "equities",
+      "headline": "Cisco (CSCO ~$113) closed week -8.4% despite $9.3B record AI orders (+4.5x YoY FY26); market questioned revenue conversion timeline; near Nov 2024 support"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "nordics",
+      "headline": "Nokia (NOKIA.HE): ADR +2.3% Fri to $10.56; 96% YTD near 17-yr highs; NestAI defense-AI operational results + Nokia/Ericsson autonomous networks collaboration announced; Nordea raised PT; Q4 margin risk flagged (+19% AI orders)"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "nordics",
+      "headline": "Neste (NESTE.HE) EUR 26.60 (+2.62%) on Brent tailwind; Nordea EUR 15.68 (dividend EUR 0.34/sh paid Aug 13); Ericsson stabilising; OMX Helsinki/Stockholm positive on week"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "stocks",
+      "headline": "Stocks to watch Aug 15: Nokia (defense-AI/17-yr highs, Q4 margin risk); AMAT (EPS beat AH, Mon open in focus); Cisco CSCO ~$113 (-8.4% week despite record AI orders, near support)"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "ma",
+      "headline": "M&A light Aug 15: OpenAI/NextSlide presentation AI startup acquired (Aug 10, enterprise productivity push); Prologis/SEGRO GBP14B in regulatory review (confirmed Aug 12). No new deals in 24-48h"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "sport",
+      "headline": "European Athletics Birmingham Day 6 (Aug 15): Hodgkinson/Werro 800m semis; GB leads medal table; FA Community Shield tomorrow Aug 16 14:00 GMT at Cardiff - Arsenal (PL champs) vs Man City (FA Cup), Maresca debut"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "gossip",
+      "headline": "6th Astra TV Awards Aug 15 (LA): 'The Pitt' leads with 12 nominations. Halle Berry turned 60 on Aug 14, celebrating with kids and fiance Van Hunt"
+    },
+    {
+      "date": "2026-08-15",
+      "section": "sentiment",
+      "headline": "Risk-off Friday close: S&P -0.22% from ATH 7,798.99 on UMich sentiment miss; third straight weekly gain held; Brent $88.38 on Hormuz stalemate is dominant macro risk heading into week of FOMC Minutes + Jackson Hole"
     }
   ],
   "last_updated": "2026-08-14"
