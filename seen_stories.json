@@ -106,126 +106,6 @@
       "headline": "Risk-off into weekend: S&P -0.22% from ATH on UMich miss; week pivots on Home Depot/Walmart earnings + FOMC minutes; Hormuz supply-risk keeps Brent near $89"
     },
     {
-      "date": "2026-08-09",
-      "section": "developing",
-      "headline": "Iranian missile targets UAE vessel in Strait of Hormuz (Aug 9) — direct challenge to Aug 5 ceasefire framework (60-day Hormuz opening + no-nuclear pledge); parliament Hormuz restriction bill still pending; Brent $82.15 Friday"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "developing",
-      "headline": "NFP July -23K follow-through: CPI July (Wed Aug 12), FOMC minutes (Aug 19), Jackson Hole (Aug 19-21) are next key catalysts; 2 cuts (~58bps) priced 2026"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "developing",
-      "headline": "Prologis/Segro GBP14B: formal offer document deadline Wed Aug 12 17:00 BST — critical UK Takeover Panel milestone"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "world_news",
-      "headline": "UAE reports Iranian missile targeted one of its ships in the Strait of Hormuz (Aug 9) — direct challenge to August 5 ceasefire; Brent upside risk Monday"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "world_news",
-      "headline": "Central America's most active volcano erupts Aug 9 morning; red alert issued — most severe warning; conditions intensifying into nightfall"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "world_news",
-      "headline": "Netanyahu rejects US-backed Gaza deal: will not withdraw from Gaza until Hamas fully disarms; Washington ceasefire push stalled"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "world_news",
-      "headline": "Danube record-low water levels in northern Serbia: sandbanks exposed, dry marinas, cargo vessels stranded — European heatwave/drought spreading continent-wide"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "world_news",
-      "headline": "Washington state wildfires: aerial footage shows smoke across central/eastern WA; helicopters dropping water on active fires"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "macro",
-      "headline": "Fed post-NFP: holding 3.50-3.75%; 3 Jul dissenters; 2 cuts (~58bps) priced 2026; US 10Y ~4.60% (-10bps post-NFP); US 30Y 5.17% (highest since 2007); next FOMC Sep 16"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "macro",
-      "headline": "ECB deposit rate 2.25% (raised June on war inflation); July EZ HICP 2.9% YoY (core 2.5%, services 3.3%); Lagarde: Sep hike still open; ECB Monthly Bulletin Thu Aug 13; next meeting Sep 11"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "macro",
-      "headline": "BoJ holding 1.00%; next hike Oct (40%) vs Dec (50%); USD/JPY ~157.6 stable post-MoF intervention from 163.99 peak"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "calendar",
-      "headline": "Week: CPI July (US) Wed Aug 12 15:30 EEST; Prologis/Segro offer doc deadline Wed Aug 12 19:00 EEST; PPI July + ECB Bulletin + Nordea div pay (EUR0.34/sh) Thu Aug 13; FOMC minutes Wed Aug 19; Jackson Hole Aug 19-21"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "fx",
-      "headline": "EUR/USD 1.1557 (+0.3% Fri, near 2-month high, NFP dollar weakness); USD/JPY 157.6 (stable); EUR/SEK ~11.10 flat; USD/SEK ~9.61; EUR/NOK firming on Brent $82 — upside risk if UAE tanker attack confirmed"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "equities",
-      "headline": "Fri Aug 7 record close: S&P 500 7,757.64 (+0.62%, ATH, week +3.58% best since April); Nasdaq 26,690.62 (+1.3%); Dow 54,036.93 (+0.5%); FTSE -0.2%; DAX -0.4%; Nikkei 63,719 -1.0% (yen strength)"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "equities",
-      "headline": "Big movers: Airbnb (ABNB) +16% (Q2 beat); Atlassian (TEAM) +29% (Q4 beat); Twilio +17%; Microchip Tech (MCHP) +11.7%; The Trade Desk (TTD) -18.1% (Q2 miss); Western Digital (WDC) -5.4%"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "nordics",
-      "headline": "Nokia (NOKIA.HE) ~EUR10.80: FY op profit guidance raised EUR2.1-2.6B; S&P Global positive outlook; BofA Buy $18.50 / JPM OW EUR21; EUR2.8B AI/defence backlog; H1 FCF -EUR104M drag"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "nordics",
-      "headline": "Nordea dividend payment Thu Aug 13 EUR0.34/sh (ex-div Aug 5, record Aug 6). Neste: record Q2 EBITDA EUR1.2B; Brent $82 supportive. Ericsson: stabilising; CEO Ekholm->Narvinger Oct 1. Iberdrola/Caruna EUR5B: on track Q1 2027"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "stocks",
-      "headline": "Stocks to watch Mon: Airbnb (ABNB) +16% continuation; TTD -18.1% dead-cat vs further downside; energy basket (Neste/XOM/Equinor) two-way Iran trade; Prologis/Segro offer doc Wed"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "ma",
-      "headline": "Prologis/Segro GBP14B: offer document deadline Wed Aug 12 — largest warehouse REIT merger in history; closes H1 2027"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "ma",
-      "headline": "NEW: Telecom Italia/Poste Italiane EUR10.8B ($12.3B): TIM board unanimously approved (Aug 8) — landmark Italian telecoms consolidation"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "sport",
-      "headline": "MotoGP British GP (Silverstone): Jorge Martin (Aprilia) won Sprint race Aug 8; main race Aug 9 (championship lead over Ogura/Bezzecchi intact)"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "sport",
-      "headline": "National Bank Open Montreal (ATP M1000) finals Aug 9; De Minaur in contention after Zverev eliminated in QFs; Sinner + Djokovic withdrew; PL pre-season: Arsenal 1-3 Real Betis, Chelsea 0-1 Juventus; season Aug 22"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "gossip",
-      "headline": "Michael B. Jordan (39) + British singer Raye (28) spotted together in LA Friday; Ariana Grande emotional milestone message on Eternal Sunshine tour; Conan O'Brien Must Go S3 premieres Aug 21 HBO Max"
-    },
-    {
-      "date": "2026-08-09",
-      "section": "sentiment",
-      "headline": "Risk-on near S&P ATH (7,757.64, week +3.58%) threatened by Iranian missile targeting UAE vessel in Hormuz Sunday — if Aug 5 ceasefire collapses, Brent spikes 5-10% and NFP-driven rate-cut rally reverses on Monday open"
-    },
-    {
       "date": "2026-08-10",
       "section": "developing",
       "headline": "US-Iran ceasefire collapse risk: Aug 5 framework (60-day Hormuz opening + no-nuclear pledge) directly threatened after Iran targeted UAE ADNOC tanker in Strait of Hormuz Aug 9 (no casualties); Saudi Arabia condemns 'in strongest terms'; Trump warns 'harsh new attack'; Brent +2.5% to $84.18/bbl Monday open; Iran parliament Hormuz restriction bill still pending vote"
@@ -1569,6 +1449,116 @@
       "date": "2026-08-23",
       "section": "sentiment",
       "headline": "Risk-off Aug 23: US-Canada trade war escalation (50% tariff snap-back + Canadian retaliation Sept 8) dominates Sunday open; auto/supply-chain stocks face gap-down Monday; Ukraine 822-drone assault + NATO Romania intercept add geopolitical risk; Brent $94 stagflationary for growth importers into Jackson Hole week"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "developing",
+      "headline": "US-Iran Economic D-Day Aug 24: Bessent op-ed Sunday framed today's sanctions rollout as 'single greatest financial offensive'; targets foreign banks, oil buyers, third-country middlemen; press conf 20:00 EEST; Iran Rezaei threatens Hormuz shutdown"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "developing",
+      "headline": "US-Canada trade war Aug 24: 50% Section 338 tariffs on ~$20B Canadian goods live since Sat midnight; Carney 'at war' with US; Ottawa retaliation 50% on steel/dairy/appliances/farm-eq/pulp/electronics starts Sept 8"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "developing",
+      "headline": "Ukraine Independence Day 35th Aug 24: Russia launched 72 drones + ballistic missile overnight; Ukraine downed 48; 24 Shaheds hit 10 locations; Kyiv on alert posture"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "world_news",
+      "headline": "Iran dismisses Bessent Economic D-Day threats — 'years of sanctions have failed'; Iran warns transit-violating Hormuz ships face detention/confiscation"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "world_news",
+      "headline": "NATO-Russia first: Spain confirms F/A-18 shootdown of Russian drone over Romanian airspace (Galati) is first NATO kinetic engagement; Romania Article 4 expected"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "world_news",
+      "headline": "Israel overnight airstrike NW Syria air base blocks Turkish troop deployment; Ankara summons envoy; regional front widening"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "world_news",
+      "headline": "Philippines TS Kujira + monsoon death toll rises to 30+; state of calamity declared in 3 provinces"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "world_news",
+      "headline": "US: Rep. Beatty (D-OH) files federal suit to block Trump-name signage at Kennedy Center; Army Sec Driscoll considering year-end departure"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "macro",
+      "headline": "Fed quiet ahead of Jackson Hole Aug 27-29; Warsh keynote Fri Aug 28 17:00 EEST — first as Chair; Sept hold ~65% priced; US 10Y 4.65-4.70%; German Bund 3.16% 15-yr high"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "calendar",
+      "headline": "Aug 24 calendar: 14:30 US Chicago Fed National Activity Index (prev -0.03, cons +0.02); 20:00 Bessent Iran sanctions press conf; US Open qualifying begins NYC; ECB July minutes Thursday"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "fx",
+      "headline": "FX Aug 24: EUR/USD 1.168 (flat, 2-mo highs, soft USD); USD/JPY ~159 (yen soft); USD/CAD watch Monday open (tariff snap-back CAD selling); EUR/NOK firming w/ Brent $91+"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "equities",
+      "headline": "Fri Aug 21 closes: S&P 500 7,674 (+0.43%); Nasdaq 26,180 (+0.43%); Dow 53,277 (+0.98%); Treasury yields stabilised; financials led; BTC +22% weekly. Nikkei ~66,200; Hang Seng ~25,700 this AM"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "equities",
+      "headline": "US futures cautious open expected — Canada tariff live + Iran sanctions binary contain risk; energy set to gap higher, autos/consumer discretionary weaker; no major earnings today"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "nordic",
+      "headline": "Nokia NOKIA.HE ~EUR10.15: JPM 'consensus not modeling order book strength'; China mainland site closures; Omdia #1 5G core competitiveness; Warsh Jackson Hole positioning event"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "nordic",
+      "headline": "Neste NESTE.HE ~EUR26.60: Brent $91+ refining-margin tailwind. Nordea EUR15.68 quiet. Volvo/Atlas Copco/Ericsson watch for US-Canada tariff read-through"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "stocks_watch",
+      "headline": "Aug 24 stocks: Neste (Brent $91+ + Bessent tail-risk); Canadian auto supply chain Magna/Linamar/BRP (50% tariff live); US energy majors XOM/CVX/OXY (Iran sanctions squeeze non-Iranian barrels); 3 US IPO pricings today"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "ma",
+      "headline": "M&A Aug 24: No new major announcements (Sun quiet). Recent flow: Madison Air/Airflow $5.4B, Alibaba videogames $1.5B+, Deutsche Telekom/Fiberhost+Inea EUR1B, Ari Emanuel's Mari/ATG $6B"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "sport",
+      "headline": "F1 Dutch GP Zandvoort (Sun, final ever): Norris wins for McLaren; Antonelli P2, Russell P3, Hamilton P4; Verstappen heavy crash at start triggered red flag (home DNF)"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "sport",
+      "headline": "Premier League MW1: Man City 2-1 Bournemouth (Maresca-era opener, Gvardiol winner 90+1'); Newcastle 2-2 Liverpool (Szoboszlai penalty 99th min); Brighton rout Villa; Fulham-Chelsea tonight 21:00 EEST"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "sport",
+      "headline": "Tennis Aug 24: Kyrgios ATP disciplinary review post-cocaine test still open; US Open qualifying starts today (main draw Aug 30)"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "gossip",
+      "headline": "Aug 24 gossip: Tom Holland/Zendaya post-wedding public appearances; Meghan+Harry surprise David Foster Foundation 40th (Victoria BC); HBO Lanterns premiered Sunday night"
+    },
+    {
+      "date": "2026-08-24",
+      "section": "sentiment",
+      "headline": "Cautiously risk-off Aug 24 open: Bessent Iran Economic D-Day presser + live US-Canada 50% tariffs twin binaries dominate flows; energy sole clear long; CAD + risk-cyclicals under pressure"
     }
   ],
   "last_updated": "2026-08-21"
