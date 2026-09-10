@@ -1,831 +1,133 @@
 {
   "stories": [
-    {
-      "date": "2026-08-26",
-      "section": "developing",
-      "headline": "Iran/Hormuz Aug 26: Trump confirms US Navy 'removed and/or detonated' all Hormuz mines; Iran + Oman floating phased demining + temporary shipping corridor; China Iranian oil imports collapsed to 534k bpd Aug (from 823k bpd Jul) — secondary sanctions biting"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "developing",
-      "headline": "Jackson Hole Aug 27-29 Day 1: ECB Schnabel on panel today Aug 26; Warsh keynote Fri Aug 28 08:00 ET (19 days before Sep 16 FOMC); markets bracing for structural policy signal, not near-term guidance"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "developing",
-      "headline": "Nokia (NOKIA.HE) -3.7% Aug 26 (~$11.98 ADR): profit-taking after +6.3% NestAI surge Aug 25; still near 17-yr highs; trend intact"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "world_news",
-      "headline": "Indonesia wildfires Aug 25-26: massive fires Kalimantan + Sumatra scorching peatland/forest; haze crossing into Malaysia and Brunei; 30 aircraft deployed; 72 arrested; 4 companies investigated for intentional burning"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "world_news",
-      "headline": "France tornado: struck village of Pomas near Carcassonne (Aude dept.) — damage and casualties being assessed"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "world_news",
-      "headline": "US Open mixed doubles: Alcaraz + Serena Williams wildcard pair knocked out in QF by Bencic/Cobolli 5-4(4), 4-1"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "macro",
-      "headline": "ECB Schnabel at Jackson Hole panel Aug 26; ECB recently raised rates 25bp; deposit rate 2.00%; PCE Q2 5.1% as Iran-driven energy inflation keeps pressure on; markets pricing 3 ECB hikes 2026"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "macro",
-      "headline": "Fed: Warsh no new statements; Jackson Hole keynote Fri Aug 28 08:00 ET described as 'blank piece of paper' focused on structural questions, not near-term rates"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "macro",
-      "headline": "Bonds: US 10Y ~4.70% (near 19-month highs); German Bund ~3.18% — holding ahead of Jackson Hole"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "calendar",
-      "headline": "Aug 26 calendar: 15:30 EEST US GDP Q2 Second Estimate (advance +1.5% ann.); Personal Income Jul; Personal Spending Jul; Durable Goods Orders Jul prelim; Jackson Hole Day 1 — Schnabel panel (Warsh Fri)"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "fx",
-      "headline": "FX Aug 26: EUR/USD 1.1668 (~-0.1% from yesterday 1.1682; range 1.1651-1.1671); USD/JPY ~159; EUR/SEK ~11.10; USD/SEK ~9.61; EUR/NOK slight easing as Hormuz mines-cleared softens crude premium"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "equities",
-      "headline": "Tue 25 Aug closes: S&P 500 7,677 +0.32%; Nasdaq 26,151 +0.66%; Dow 53,577 +0.30%; chip basket bouncing from Mon -5-6% selloff; energy names eased on Hormuz mines-cleared news"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "nordic",
-      "headline": "Nokia (NOKIA.HE) -3.7% (~$11.98 ADR); Neste (NESTE.HE) -5.19% (~EUR29.80) continued weakness post Q2 miss (revenue/EBIT miss + capex upgrade); 2-day loss ~-8.4%; watch EUR28 support; Nordea (NDA-FI) -0.85% (~EUR15.68)"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "stocks_watch",
-      "headline": "Stocks to watch Aug 26: Neste EUR28 support key — 2-day -8.4% post Q2 miss; Nokia -3.7% consolidation (healthy or distribution?); chip basket bounce; Jackson Hole plays TLT/XLF/USD/JPY sensitive to Warsh Fri signal"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "ma",
-      "headline": "M&A Aug 26: No major new transactions in last 24h; Prologis/Segro GBP14B Scheme of Arrangement on track H1 2027; deal-making quiet ahead of Jackson Hole rate clarity"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "sport",
-      "headline": "US Open mixed doubles: Alcaraz + Serena Williams knocked out QF (Bencic/Cobolli 5-4(4), 4-1); CL play-offs Lyon vs Fenerbahce 2nd leg tonight (1-1 agg); Celtic through (3-0 agg vs LASK)"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "sentiment",
-      "headline": "Risk-on Aug 25 close: S&P +0.32%, Nasdaq +0.66% as Iran Hormuz mines-cleared eased crude premium and chips bounced from oversold — all attention shifts to Warsh Fri Jackson Hole keynote, defining macro event of the week"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "developing",
-      "headline": "US-Iran 'Economic D-Day' Aug 24: Bessent launches Operation Economic Outcast — 5 Iranian lifelines sanctioned (digital assets, tech, gold, aviation, shipping); 60 global entities hit; secondary sanction threat vs countries trading with Tehran; Iran blacklisted 46 non-compliant Hormuz vessels"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "developing",
-      "headline": "Jackson Hole Aug 27-29: Warsh delivers first-ever keynote as Fed Chair Fri Aug 28; markets pricing ~33% odds Sep rate hike; 3 FOMC dissenters (hawkish) at Jul 29 meeting"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "developing",
-      "headline": "Nokia NestAI defense-AI: first operational results confirmed; Nokia +6.3% on OMX Helsinki Aug 25 near 17-yr highs; Nordea raised PT (Buy)"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "world_news",
-      "headline": "US Treasury 'Economic D-Day' Aug 24: Operation Economic Outcast — Bessent calls it warning shot; UAE/HK/China/Singapore/Swiss-linked entities among 60 sanctioned; tougher rounds signalled"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "world_news",
-      "headline": "Hormuz Aug 24: Iran blacklists 46 non-compliant vessels; Hormuz tanker traffic +400% past 7 days as US-protected ships defy Tehran; supertanker cost ~$20M war-risk insurance; Hormuz Index in 'extreme' crisis-pressure band"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "world_news",
-      "headline": "Evergrande: Founder Hui Ka Yan sentenced to life in prison — China landmark prosecution of $300B+ collapse"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "world_news",
-      "headline": "Harry & Meghan to relocate to UK from autumn 2026 for extended stay — explicitly not resuming working royal roles"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "macro",
-      "headline": "ECB Aug 21: Euro-area pay growth eased Q2; consumer inflation expectations edged down July; Kazaks: ECB 'well placed to act on uncomfortable inflation'; investors pricing 3 ECB hikes in 2026 (up from 2)"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "macro",
-      "headline": "Fed Aug 23: Kashkari says US Treasury market working 'as it should'; Warsh Jackson Hole keynote Fri Aug 28 — will frame big structural questions, not near-term guidance; Sep FOMC 3 weeks away"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "macro",
-      "headline": "Bonds: US 10Y ~4.70% (near 19-month highs); German Bund ~3.18% (near 15-yr highs)"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "calendar",
-      "headline": "Aug 25 calendar: Conference Board Consumer Confidence 17:00 EEST (Jul: 90.8 vs 92.4 est; Expectations Index below recessionary 80); New Home Sales 17:00 EEST; Jackson Hole Day 1 (no major speeches — Warsh Fri)"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "fx",
-      "headline": "FX Aug 25: EUR/USD 1.1682 (+0.9% vs 2 weeks); USD/JPY ~159 (MoF intervention fading); EUR/NOK firming on Brent Hormuz premium; USD/SEK ~9.61; EUR/SEK ~11.10; Brent ~$87-88/bbl"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "equities",
-      "headline": "Mon 24 Aug closes: S&P 500 7,653 (-0.28%) | Nasdaq 25,980 (-0.76%) | Dow 53,417 (+0.26%) | FTSE 100 +0.1% | DAX 26,062 (-0.29%) | Nikkei -0.10%"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "equities",
-      "headline": "Aug 24 movers: Seagate -6.5%, Sandisk -6.0%, Micron -5.8%, Lumentum/Coherent -4%+, AMD -3%+, Broadcom -2%+ — chip/storage names led losses on AI infrastructure spending uncertainty"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "nordic",
-      "headline": "OMX Helsinki 25 +0.78% Aug 25; Nokia (NOKIA.HE) +6.3% near 17-yr highs (NestAI defense-AI momentum, Nordea PT raise); Neste (NESTE.HE) -3.2% to ~EUR 29.06; Nordea stable post-dividend; Ericsson CEO transition Oct 1"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "stocks_watch",
-      "headline": "Stocks to watch Aug 25: Nokia (NestAI momentum); Chip basket (Micron/Sandisk/Seagate/AMD) oversold -5-6% — bounce vs distribution; Brent-sensitive names Hormuz premium; Jackson Hole positioning (TLT/XLF/USD/JPY) Thu-Fri"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "ma",
-      "headline": "M&A Aug 25: Prologis/Segro (GBP14B) Scheme of Arrangement on track H1 2027; Madison Air/Airflow $5.4B (Aug 18); Alibaba videogame $1.5B+ (Aug 17); Mari/ATG Entertainment $6B Broadway+West End from Providence Equity (Aug 15)"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "sport",
-      "headline": "F1 Dutch GP Zandvoort (Sun 23 Aug): Norris wins rain-affected race; Verstappen crash lap 1 red flag; Russell 3rd Hamilton 4th. Final Dutch GP on F1 calendar."
-    },
-    {
-      "date": "2026-08-25",
-      "section": "sport",
-      "headline": "Champions League play-offs Aug 25 (2nd legs): Celtic through vs LASK (3-0 agg); Lyon vs Fenerbahce 2nd leg tomorrow (1-1 agg)"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "gossip",
-      "headline": "Harry & Meghan UK return confirmed autumn 2026 (not resuming royal roles); Hui Ka Yan (Evergrande) life sentence"
-    },
-    {
-      "date": "2026-08-25",
-      "section": "sentiment",
-      "headline": "Risk-off Monday: S&P slipped on chip/storage dump (-5-6%); 'Economic D-Day' Iran sanctions added macro tail risk; Jackson Hole Warsh keynote Fri Aug 28 single biggest market event of the week"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "developing",
-      "headline": "US-Iran Economic D-Day Aug 24: Bessent op-ed Sunday framed today's sanctions rollout as 'single greatest financial offensive'; targets foreign banks, oil buyers, third-country middlemen; press conf 20:00 EEST; Iran Rezaei threatens Hormuz shutdown"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "developing",
-      "headline": "US-Canada trade war Aug 24: 50% Section 338 tariffs on ~$20B Canadian goods live since Sat midnight; Carney 'at war' with US; Ottawa retaliation 50% on steel/dairy/appliances/farm-eq/pulp/electronics starts Sept 8"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "developing",
-      "headline": "Ukraine Independence Day 35th Aug 24: Russia launched 72 drones + ballistic missile overnight; Ukraine downed 48; 24 Shaheds hit 10 locations; Kyiv on alert posture"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "world_news",
-      "headline": "Iran dismisses Bessent Economic D-Day threats — 'years of sanctions have failed'; Iran warns transit-violating Hormuz ships face detention/confiscation"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "world_news",
-      "headline": "NATO-Russia first: Spain confirms F/A-18 shootdown of Russian drone over Romanian airspace (Galati) is first NATO kinetic engagement; Romania Article 4 expected"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "world_news",
-      "headline": "Israel overnight airstrike NW Syria air base blocks Turkish troop deployment; Ankara summons envoy; regional front widening"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "world_news",
-      "headline": "Philippines TS Kujira + monsoon death toll rises to 30+; state of calamity declared in 3 provinces"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "world_news",
-      "headline": "US: Rep. Beatty (D-OH) files federal suit to block Trump-name signage at Kennedy Center; Army Sec Driscoll considering year-end departure"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "macro",
-      "headline": "Fed quiet ahead of Jackson Hole Aug 27-29; Warsh keynote Fri Aug 28 17:00 EEST — first as Chair; Sept hold ~65% priced; US 10Y 4.65-4.70%; German Bund 3.16% 15-yr high"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "calendar",
-      "headline": "Aug 24 calendar: 14:30 US Chicago Fed National Activity Index (prev -0.03, cons +0.02); 20:00 Bessent Iran sanctions press conf; US Open qualifying begins NYC; ECB July minutes Thursday"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "fx",
-      "headline": "FX Aug 24: EUR/USD 1.168 (flat, 2-mo highs, soft USD); USD/JPY ~159 (yen soft); USD/CAD watch Monday open (tariff snap-back CAD selling); EUR/NOK firming w/ Brent $91+"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "equities",
-      "headline": "Fri Aug 21 closes: S&P 500 7,674 (+0.43%); Nasdaq 26,180 (+0.43%); Dow 53,277 (+0.98%); Treasury yields stabilised; financials led; BTC +22% weekly. Nikkei ~66,200; Hang Seng ~25,700 this AM"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "equities",
-      "headline": "US futures cautious open expected — Canada tariff live + Iran sanctions binary contain risk; energy set to gap higher, autos/consumer discretionary weaker; no major earnings today"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "nordic",
-      "headline": "Nokia NOKIA.HE ~EUR10.15: JPM 'consensus not modeling order book strength'; China mainland site closures; Omdia #1 5G core competitiveness; Warsh Jackson Hole positioning event"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "nordic",
-      "headline": "Neste NESTE.HE ~EUR26.60: Brent $91+ refining-margin tailwind. Nordea EUR15.68 quiet. Volvo/Atlas Copco/Ericsson watch for US-Canada tariff read-through"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "stocks_watch",
-      "headline": "Aug 24 stocks: Neste (Brent $91+ + Bessent tail-risk); Canadian auto supply chain Magna/Linamar/BRP (50% tariff live); US energy majors XOM/CVX/OXY (Iran sanctions squeeze non-Iranian barrels); 3 US IPO pricings today"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "ma",
-      "headline": "M&A Aug 24: No new major announcements (Sun quiet). Recent flow: Madison Air/Airflow $5.4B, Alibaba videogames $1.5B+, Deutsche Telekom/Fiberhost+Inea EUR1B, Ari Emanuel's Mari/ATG $6B"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "sport",
-      "headline": "F1 Dutch GP Zandvoort (Sun, final ever): Norris wins for McLaren; Antonelli P2, Russell P3, Hamilton P4; Verstappen heavy crash at start triggered red flag (home DNF)"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "sport",
-      "headline": "Premier League MW1: Man City 2-1 Bournemouth (Maresca-era opener, Gvardiol winner 90+1'); Newcastle 2-2 Liverpool (Szoboszlai penalty 99th min); Brighton rout Villa; Fulham-Chelsea tonight 21:00 EEST"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "sport",
-      "headline": "Tennis Aug 24: Kyrgios ATP disciplinary review post-cocaine test still open; US Open qualifying starts today (main draw Aug 30)"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "gossip",
-      "headline": "Aug 24 gossip: Tom Holland/Zendaya post-wedding public appearances; Meghan+Harry surprise David Foster Foundation 40th (Victoria BC); HBO Lanterns premiered Sunday night"
-    },
-    {
-      "date": "2026-08-24",
-      "section": "sentiment",
-      "headline": "Cautiously risk-off Aug 24 open: Bessent Iran Economic D-Day presser + live US-Canada 50% tariffs twin binaries dominate flows; energy sole clear long; CAD + risk-cyclicals under pressure"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "developing",
-      "headline": "ECB Schnabel Jackson Hole panel Aug 26: rates must rise more on resilient EZ economy; Middle East energy costs to keep inflation >2% for extended period; acting only on wages = behind the curve"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "developing",
-      "headline": "Nokia/Nvidia Aug 26: Nvidia disclosed $2.21B stake in Nokia (NOK) signalling strategic importance in AI-era networking; JPMorgan reiterated OW EUR21 PT; follows Nokia +6.3% NestAI surge Aug 25"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "macro",
-      "headline": "NVDA Q2 FY27 earnings after close tonight Aug 26: consensus $92B rev (+96% YoY) EPS $2.09 Data Center $85.4B; 95% Polymarket beat odds; guide excludes China revenue — defines AI sentiment for the week"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "positions",
-      "headline": "NVDA (Nasdaq) $213.05 +2.19% (Tue 25 Aug close Yahoo Finance); pre-market $213.00 flat Aug 26; Q2 FY27 earnings tonight after close"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "positions",
-      "headline": "TSLA (NasdaqGS) $350.25 +0.37% (Tue 25 Aug close Yahoo Finance); Nevada Semi factory opens Sept 24 50k trucks/yr; Tesla+SpaceX $16.8B Terafab AI chip plant 3000 jobs announced"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "positions",
-      "headline": "WRT1V (Nasdaq Helsinki): battery energy storage projects Belgium; large US data-center gas engine orders; 3-month price return +37%; price unverified today"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "stocks_watch",
-      "headline": "Stocks to watch Aug 26: AMD Broadcom LRCX chip-basket NVDA earnings vol event; Neste NESTE.HE EUR28 support after 2-day -8.4% post Q2 miss; TLT XLF rate-sensitive Schnabel hawkish + Warsh Friday"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "sport",
-      "headline": "CL play-off Aug 26: Lyon vs Fenerbahce 2nd leg 1-1 FT (aggregate 2-2); went to extra time/penalties; final result unconfirmed"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "entertainment",
-      "headline": "Dolly Parton died Nashville Aug 25 aged 80 after brief battle with cancer; Trump ordered flags half-staff; Sevier County TN declared day of mourning"
-    },
-    {
-      "date": "2026-08-26",
-      "section": "sentiment",
-      "headline": "Risk-on contained Aug 26 morning: markets steady into NVDA Q2 earnings tonight (single biggest AI catalyst since April); Schnabel hawkish balanced by Hormuz mines-cleared; Warsh Friday keynote is week macro reset"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "jackson-hole-warsh-hawkish-aug28"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "nvda-q2-beat-sell-news-217"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "hormuz-mines-cleared-rezaei-conditions"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "warsh-sep-hike-majority-priced"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "ukraine-russia-kherson-outage-aug31"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "nokia-unverified-fri-aug28"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "wrt1v-eur2999-fri-aug28"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "nvda-21755-fri-aug28"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "tsla-unverified-fri-aug28"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "sp500-7711-nasdaq-26402-fri-aug28"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "omxh25-unverified-fri-aug28"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "chip-basket-gap-down-risk-aug31"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "brent-plus2pct-hormuz-energy-aug31"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "pl-arsenal-villa-mw2-aug31"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "us-open-main-draw-aug30"
-    },
-    {
-      "d": "2026-08-30",
-      "s": "fx-eurusd-1158-warsh-aug31"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "hormuz-larak-oman-deal-emerging"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "fomc-sep16-66pct-cme-fedwatch"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "nepal-floods-thousands-missing-4d"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "ukraine-caspian-iran-russia-ship"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "nokia-eur732m-cashburn-aug31"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "nvda-22078-recovery-aug31"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "tsla-36795-cybercab-sept3"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "slb-kelvion-4b-deal-aug31"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "oneok-brazos-443b-aug31"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "djokovic-r1-exit-navone"
-    },
-    {
-      "d": "2026-09-01",
-      "s": "sp500-7692-lower-aug31"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "us-iran-strikes-supertankers-sep1"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "kyiv-railway-depot-7-killed-sep1"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "canada-countertariffs-sep8-6days"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "ecb-july-minutes-hike-likely"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "us10y-475-19month-high-sep1"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "brent-9128-sep1-iran-escalation"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "fomc-sep16-hike-65-82pct"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "nokia-858-sep1-close"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "wrt1v-2999-sep1-close"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "nvda-22441-sep1-close-up321pct"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "tsla-35609-sep1-close"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "sp500-7631-nasdaq-26099-sep1"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "neste-brent91-hormuz-tailwind"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "us-open-r1-gauff-zverev-sep1"
-    },
-    {
-      "d": "2026-09-02",
-      "s": "fx-eurusd-11593-sep1"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "hormuz-tanker-2-killed-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "ukraine-vinnytsia-drone-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "broadcom-q3-ai-221pct-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "fomc-sep16-55pct-cme-sep4"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "us10y-yields-fell-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "nfp-aug-15h30-eest-sep4"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "eurusd-11586-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "nokia-unverified-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "wrt1v-unverified-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "nvda-22845-sep3-close"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "tsla-37637-cybercab-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "sp500-7747-nasdaq-26584-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "avgo-sell-news-sep3"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "neste-brent9530-sep4"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "canada-sep8-4days-tariffs"
-    },
-    {
-      "d": "2026-09-04",
-      "s": "us-open-r2-sep3"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "nfp-aug-162k-vs-53k-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "fomc-sep16-hike-majority-nfp"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "iran-us-tanker-strikes-sep2"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "ukraine-boryspil-sep5"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "putin-ukraine-peace-opening"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "canada-tariffs-sep8-3days"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "germany-russia-leipzig-drone"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "ecb-sep10-hike-expected"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "nokia-euro-stoxx-50-sep21"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "nokia-eur866-sep4-close"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "wrt1v-eur2919-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "nvda-23036-sep4-close"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "tsla-35408-cybercab-nhtsa-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "sp500-77186-nasdaq-26507-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "vw-drops-euro-stoxx-50-sep21"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "aon-usi-17b-deal"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "us-open-zverev-fritz-r3"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "pl-liverpool-forest-tottenham-newcastle-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "fomc-waller-hold-inclined-sep3"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "nvda-huggingface-13b-sep2"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "tsla-cybercab-launch-austin-sep3"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "cyprus-ferry-8-dead-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "xi-egypt-visit-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "nepal-china-floods-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "sp500-7748-nasdaq-26584-sep3"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "nokia-841-sep3-close"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "wrt1v-2893-db-pt29-sep3"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "aon-usi-17b-closed-aug31"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "boliden-nexa-13b-aug27"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "pl-mw3-ipswich-liverpool-sep4"
-    },
-    {
-      "d": "2026-09-05",
-      "s": "nfp-aug-due-sep5-today"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "witkoff-kushner-moscow-sep5"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "philippines-duterte-arrested-sep5"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "trump-iran-small-potatoes-sep5"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "canada-tariffs-sep8-d1"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "nvda-exdiv-sep10-025"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "omxh25-645482-sep4"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "fx-eurusd-11622-ecb-sep4"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "usd-jpy-156-yen-firmer-sep4"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "vfc-puts-25x-sep5"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "arcosa-crh-approved-sep4"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "khosla-96b-allen-estate-sep3"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "bournemouth-newcastle-2-1-sep5"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "katie-taylor-undisputed-sep5"
-    },
-    {
-      "d": "2026-09-06",
-      "s": "sentiment-risk-off-canada-sep8"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "ukraine-peace-kyiv-nsas-sep7"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "saxony-anhalt-afd-44pct-sep6"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "nepal-tibet-avalanche-sep7"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "ecb-sep10-hike-preview"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "canada-tariffs-live-sep8"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "nokia-918-sep5-euro-stoxx"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "wrt1v-2919-sep4-div-sep15"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "nvda-23036-sep4-unverified"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "tsla-35408-sep4-cybercab"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "sp500-77186-sep5-nfp-risk"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "omxh25-unverified-sep5"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "hormuz-84ships-blockade-sep7"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "us-open-alcaraz-qf-sep7"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "us-open-zverev-cerundolo-r4"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "vw-euro-stoxx-exit-sep21"
-    },
-    {
-      "d": "2026-09-07",
-      "s": "sentiment-risk-on-peace-sep7"
-    }
+    {"d":"2026-08-30","s":"jackson-hole-warsh-hawkish-aug28"},
+    {"d":"2026-08-30","s":"nvda-q2-beat-sell-news-217"},
+    {"d":"2026-08-30","s":"hormuz-mines-cleared-rezaei-conditions"},
+    {"d":"2026-08-30","s":"warsh-sep-hike-majority-priced"},
+    {"d":"2026-08-30","s":"ukraine-russia-kherson-outage-aug31"},
+    {"d":"2026-08-30","s":"nokia-unverified-fri-aug28"},
+    {"d":"2026-08-30","s":"wrt1v-eur2999-fri-aug28"},
+    {"d":"2026-08-30","s":"nvda-21755-fri-aug28"},
+    {"d":"2026-08-30","s":"tsla-unverified-fri-aug28"},
+    {"d":"2026-08-30","s":"sp500-7711-nasdaq-26402-fri-aug28"},
+    {"d":"2026-08-30","s":"omxh25-unverified-fri-aug28"},
+    {"d":"2026-08-30","s":"chip-basket-gap-down-risk-aug31"},
+    {"d":"2026-08-30","s":"brent-plus2pct-hormuz-energy-aug31"},
+    {"d":"2026-08-30","s":"pl-arsenal-villa-mw2-aug31"},
+    {"d":"2026-08-30","s":"us-open-main-draw-aug30"},
+    {"d":"2026-08-30","s":"fx-eurusd-1158-warsh-aug31"},
+    {"d":"2026-09-01","s":"hormuz-larak-oman-deal-emerging"},
+    {"d":"2026-09-01","s":"fomc-sep16-66pct-cme-fedwatch"},
+    {"d":"2026-09-01","s":"nepal-floods-thousands-missing-4d"},
+    {"d":"2026-09-01","s":"ukraine-caspian-iran-russia-ship"},
+    {"d":"2026-09-01","s":"nokia-eur-732m-cashburn-aug31"},
+    {"d":"2026-09-01","s":"nvda-22078-recovery-aug31"},
+    {"d":"2026-09-01","s":"tsla-36795-cybercab-sept3"},
+    {"d":"2026-09-01","s":"slb-kelvion-4b-deal-aug31"},
+    {"d":"2026-09-01","s":"oneok-brazos-443b-aug31"},
+    {"d":"2026-09-01","s":"djokovic-r1-exit-navone"},
+    {"d":"2026-09-01","s":"sp500-7692-lower-aug31"},
+    {"d":"2026-09-02","s":"us-iran-strikes-supertankers-sep1"},
+    {"d":"2026-09-02","s":"kyiv-railway-depot-7-killed-sep1"},
+    {"d":"2026-09-02","s":"canada-countertariffs-sep8-6days"},
+    {"d":"2026-09-02","s":"ecb-july-minutes-hike-likely"},
+    {"d":"2026-09-02","s":"us10y-475-19month-high-sep1"},
+    {"d":"2026-09-02","s":"brent-9128-sep1-iran-escalation"},
+    {"d":"2026-09-02","s":"fomc-sep16-hike-65-82pct"},
+    {"d":"2026-09-02","s":"nokia-858-sep1-close"},
+    {"d":"2026-09-02","s":"wrt1v-2999-sep1-close"},
+    {"d":"2026-09-02","s":"nvda-22441-sep1-close-up321pct"},
+    {"d":"2026-09-02","s":"tsla-35609-sep1-close"},
+    {"d":"2026-09-02","s":"sp500-7631-nasdaq-26099-sep1"},
+    {"d":"2026-09-02","s":"neste-brent91-hormuz-tailwind"},
+    {"d":"2026-09-02","s":"us-open-r1-gauff-zverev-sep1"},
+    {"d":"2026-09-02","s":"fx-eurusd-11593-sep1"},
+    {"d":"2026-09-04","s":"hormuz-tanker-2-killed-sep3"},
+    {"d":"2026-09-04","s":"ukraine-vinnytsia-drone-sep3"},
+    {"d":"2026-09-04","s":"broadcom-q3-ai-221pct-sep3"},
+    {"d":"2026-09-04","s":"fomc-sep16-55pct-cme-sep4"},
+    {"d":"2026-09-04","s":"us10y-yields-fell-sep3"},
+    {"d":"2026-09-04","s":"nfp-aug-15h30-eest-sep4"},
+    {"d":"2026-09-04","s":"eurusd-11586-sep3"},
+    {"d":"2026-09-04","s":"nokia-unverified-sep3"},
+    {"d":"2026-09-04","s":"wrt1v-unverified-sep3"},
+    {"d":"2026-09-04","s":"nvda-22845-sep3-close"},
+    {"d":"2026-09-04","s":"tsla-37637-cybercab-sep3"},
+    {"d":"2026-09-04","s":"sp500-7747-nasdaq-26584-sep3"},
+    {"d":"2026-09-04","s":"avgo-sell-news-sep3"},
+    {"d":"2026-09-04","s":"neste-brent9530-sep4"},
+    {"d":"2026-09-04","s":"canada-sep8-4days-tariffs"},
+    {"d":"2026-09-04","s":"us-open-r2-sep3"},
+    {"d":"2026-09-05","s":"nfp-aug-162k-vs-53k-sep4"},
+    {"d":"2026-09-05","s":"fomc-sep16-hike-majority-nfp"},
+    {"d":"2026-09-05","s":"iran-us-tanker-strikes-sep2"},
+    {"d":"2026-09-05","s":"ukraine-boryspil-sep5"},
+    {"d":"2026-09-05","s":"putin-ukraine-peace-opening"},
+    {"d":"2026-09-05","s":"canada-tariffs-sep8-3days"},
+    {"d":"2026-09-05","s":"germany-russia-leipzig-drone"},
+    {"d":"2026-09-05","s":"ecb-sep10-hike-expected"},
+    {"d":"2026-09-05","s":"nokia-euro-stoxx-50-sep21"},
+    {"d":"2026-09-05","s":"nokia-eur866-sep4-close"},
+    {"d":"2026-09-05","s":"wrt1v-eur2919-sep4"},
+    {"d":"2026-09-05","s":"nvda-23036-sep4-close"},
+    {"d":"2026-09-05","s":"tsla-35408-cybercab-nhtsa-sep4"},
+    {"d":"2026-09-05","s":"sp500-77186-nasdaq-26507-sep4"},
+    {"d":"2026-09-05","s":"vw-drops-euro-stoxx-50-sep21"},
+    {"d":"2026-09-05","s":"aon-usi-17b-deal"},
+    {"d":"2026-09-05","s":"us-open-zverev-fritz-r3"},
+    {"d":"2026-09-05","s":"pl-liverpool-forest-tottenham-newcastle-sep4"},
+    {"d":"2026-09-05","s":"fomc-waller-hold-inclined-sep3"},
+    {"d":"2026-09-05","s":"nvda-huggingface-13b-sep2"},
+    {"d":"2026-09-05","s":"tsla-cybercab-launch-austin-sep3"},
+    {"d":"2026-09-05","s":"cypress-ferry-8-dead-sep4"},
+    {"d":"2026-09-05","s":"xi-egypt-visit-sep4"},
+    {"d":"2026-09-05","s":"nepal-china-floods-sep4"},
+    {"d":"2026-09-05","s":"boliden-nexa-13b-aug27"},
+    {"d":"2026-09-06","s":"witkoff-kushner-moscow-sep5"},
+    {"d":"2026-09-06","s":"philippines-duterte-arrested-sep5"},
+    {"d":"2026-09-06","s":"trump-iran-small-potatoes-sep5"},
+    {"d":"2026-09-06","s":"canada-tariffs-sep8-d1"},
+    {"d":"2026-09-06","s":"nvda-exdiv-sep10-025"},
+    {"d":"2026-09-06","s":"omxh25-645482-sep4"},
+    {"d":"2026-09-06","s":"fx-eurusd-11622-ecb-sep4"},
+    {"d":"2026-09-06","s":"usd-jpy-156-yen-firmer-sep4"},
+    {"d":"2026-09-06","s":"vfc-puts-25x-sep5"},
+    {"d":"2026-09-06","s":"arcosa-crh-approved-sep4"},
+    {"d":"2026-09-06","s":"khosla-96b-allen-estate-sep3"},
+    {"d":"2026-09-06","s":"bournemouth-newcastle-2-1-sep5"},
+    {"d":"2026-09-06","s":"katie-taylor-undisputed-sep5"},
+    {"d":"2026-09-06","s":"sentiment-risk-off-canada-sep8"},
+    {"d":"2026-09-07","s":"ukraine-peace-kyiv-nsas-sep7"},
+    {"d":"2026-09-07","s":"saxony-anhalt-afd-44pct-sep6"},
+    {"d":"2026-09-07","s":"nepal-tibet-avalanche-sep7"},
+    {"d":"2026-09-07","s":"ecb-sep10-hike-preview"},
+    {"d":"2026-09-07","s":"canada-tariffs-live-sep8"},
+    {"d":"2026-09-07","s":"nokia-918-sep5-euro-stoxx"},
+    {"d":"2026-09-07","s":"wrt1v-2919-sep4-div-sep15"},
+    {"d":"2026-09-07","s":"nvda-23036-sep4-unverified"},
+    {"d":"2026-09-07","s":"tsla-35408-sep4-cybercab"},
+    {"d":"2026-09-07","s":"sp500-77186-sep5-nfp-risk"},
+    {"d":"2026-09-07","s":"omxh25-unverified-sep5"},
+    {"d":"2026-09-07","s":"hormuz-84ships-blockade-sep7"},
+    {"d":"2026-09-07","s":"us-open-alcaraz-qf-sep7"},
+    {"d":"2026-09-07","s":"us-open-zverev-cerundolo-r4"},
+    {"d":"2026-09-07","s":"vw-euro-stoxx-exit-sep21"},
+    {"d":"2026-09-07","s":"sentiment-risk-on-peace-sep7"},
+    {"d":"2026-09-10","s":"houthi-saudi-aramco-brent99-sep8"},
+    {"d":"2026-09-10","s":"ukraine-peace-no-breakthrough-sep8"},
+    {"d":"2026-09-10","s":"canada-us-bilateral-tariffs-sep8"},
+    {"d":"2026-09-10","s":"uk-france-israel-settlement-sanctions"},
+    {"d":"2026-09-10","s":"russia-nk-bridge-novichenko"},
+    {"d":"2026-09-10","s":"ecb-sep10-25bps-hike-today"},
+    {"d":"2026-09-10","s":"nokia-918-sep8-verified"},
+    {"d":"2026-09-10","s":"wrt1v-2919-sep9-intraday-ceo-bell"},
+    {"d":"2026-09-10","s":"nvda-22573-sep8-exdiv-sep10"},
+    {"d":"2026-09-10","s":"tsla-36665-sep8-slovenia-fsd"},
+    {"d":"2026-09-10","s":"sp500-7636-nasdaq-26253-sep9"},
+    {"d":"2026-09-10","s":"omxh25-minus106-sep9"},
+    {"d":"2026-09-10","s":"wafd-everbank-39b-sep8"},
+    {"d":"2026-09-10","s":"paytabs-amazon-mena-100m-sep9"},
+    {"d":"2026-09-10","s":"sentiment-risk-off-brent99-sep9"}
   ],
-  "last_updated": "2026-09-07"
+  "last_updated": "2026-09-10"
 }
