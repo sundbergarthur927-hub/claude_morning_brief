@@ -647,7 +647,79 @@
         {
             "d": "2026-09-10",
             "s": "sentiment-riskoff-azraq-sep10"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "iran-brent100-goldman120-sep11"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "canada-20b-counter-tariffs-sep11"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "wrt1v-2919-sep11-intraday"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "nvda-21836-sep10-close"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "nvda-doj-groq-20b-probe-sep10"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "tsla-36356-sep10-close"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "sp500-75917-nasdaq-26082-sep10"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "omxh25-650899-sep10-close"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "vera-cantor-conference-sep11"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "klac-ubs-semi-note-sep11"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "oura-ipo-nasdaq-sep11"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "tata-iveco-deal-sep7"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "apollo-atlantic-10b-sep5"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "sabalenka-rybakina-final-sep11"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "sentiment-riskoff-brent100-sep10"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "cpi-aug-today-sep11-1530"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "fomc-sep16-59pct-sep11"
+        },
+        {
+            "d": "2026-09-11",
+            "s": "ecb-aftermath-riskoff-sep10"
         }
     ],
-    "last_updated": "2026-09-10"
+    "last_updated": "2026-09-11"
 }
