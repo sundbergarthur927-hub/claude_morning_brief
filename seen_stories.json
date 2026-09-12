@@ -719,7 +719,25 @@
         {
             "d": "2026-09-11",
             "s": "ecb-aftermath-riskoff-sep10"
-        }
+        },
+        {"d":"2026-09-12","s":"iran-5-tankers-destroyed-sep11"},
+        {"d":"2026-09-12","s":"fomc-sep16-70pct-cpi-sep12"},
+        {"d":"2026-09-12","s":"israel-settlement-ban-expanded-sep12"},
+        {"d":"2026-09-12","s":"houthi-saudi-aramco-advance-sep12"},
+        {"d":"2026-09-12","s":"canada-us-auto-supply-chains-sep12"},
+        {"d":"2026-09-12","s":"cpi-aug-0pt4-3pt4-result-sep11"},
+        {"d":"2026-09-12","s":"nokia-9558-3pt44-sep11"},
+        {"d":"2026-09-12","s":"nokia-google-finland-13b-riyadh-sep11"},
+        {"d":"2026-09-12","s":"wrt1v-2890-exdiv-sep15-sep11"},
+        {"d":"2026-09-12","s":"nvda-21829-sep11-close"},
+        {"d":"2026-09-12","s":"tsla-36544-modely-china-sep11"},
+        {"d":"2026-09-12","s":"tsla-autopilot-congress-sep11"},
+        {"d":"2026-09-12","s":"sp500-76570-nasdaq-26333-sep11"},
+        {"d":"2026-09-12","s":"omxh25-65450-sep11"},
+        {"d":"2026-09-12","s":"ucl-md1-sep11-bayern-5-0"},
+        {"d":"2026-09-12","s":"us-open-women-final-sep12"},
+        {"d":"2026-09-12","s":"us-open-men-final-zverev-shelton-sep13"},
+        {"d":"2026-09-12","s":"sentiment-riskon-cpi-snap-sep11"}
     ],
-    "last_updated": "2026-09-11"
+    "last_updated": "2026-09-12"
 }
