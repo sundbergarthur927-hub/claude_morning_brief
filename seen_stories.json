@@ -737,7 +737,19 @@
         {"d":"2026-09-12","s":"ucl-md1-sep11-bayern-5-0"},
         {"d":"2026-09-12","s":"us-open-women-final-sep12"},
         {"d":"2026-09-12","s":"us-open-men-final-zverev-shelton-sep13"},
-        {"d":"2026-09-12","s":"sentiment-riskon-cpi-snap-sep11"}
+        {"d":"2026-09-12","s":"sentiment-riskon-cpi-snap-sep11"},
+        {"d":"2026-09-13","s":"houthi-bab-el-mandeb-island-sep12"},
+        {"d":"2026-09-13","s":"brics-summit-modi-putin-xi-sep13"},
+        {"d":"2026-09-13","s":"trump-iran-war-soon-sep13"},
+        {"d":"2026-09-13","s":"saudi-pipeline-houthi-sep13"},
+        {"d":"2026-09-13","s":"fomc-sep16-66pct-sep13"},
+        {"d":"2026-09-13","s":"rybakina-def-sabalenka-63-sep12"},
+        {"d":"2026-09-13","s":"us-open-men-final-underway-sep13"},
+        {"d":"2026-09-13","s":"anthropic-ipo-2t-target-sep13"},
+        {"d":"2026-09-13","s":"nokia-unverified-sep13"},
+        {"d":"2026-09-13","s":"wrt1v-2919-intraday-yahoo-sep11"},
+        {"d":"2026-09-13","s":"eurusd-11599-sep11-close"},
+        {"d":"2026-09-13","s":"sentiment-riskoff-bab-el-mandeb-sep13"}
     ],
-    "last_updated": "2026-09-12"
+    "last_updated": "2026-09-13"
 }
