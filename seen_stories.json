@@ -206,7 +206,27 @@
         {"d":"2026-09-14","s":"sp500-7619-sep12-friday"},
         {"d":"2026-09-14","s":"celestica-cls-11pct-sep12"},
         {"d":"2026-09-14","s":"holtec-hnuc-ipo-sep18"},
-        {"d":"2026-09-14","s":"sentiment-riskoff-ai-brent100-sep14"}
+        {"d":"2026-09-14","s":"sentiment-riskoff-ai-brent100-sep14"},
+        {"d":"2026-09-15","s":"nokia-1013-ai-selloff-sep14"},
+        {"d":"2026-09-15","s":"iran-vessel-hormuz-1killed-sep15"},
+        {"d":"2026-09-15","s":"fomc-sep16-6080pct-sep15"},
+        {"d":"2026-09-15","s":"xi-trump-summit-washington-sep15"},
+        {"d":"2026-09-15","s":"putin-iturup-japan-russia-sep15"},
+        {"d":"2026-09-15","s":"china-fm-ai-fearmongering-sep15"},
+        {"d":"2026-09-15","s":"us10y-multiyear-high-sep14"},
+        {"d":"2026-09-15","s":"nokia-859-sep14-close"},
+        {"d":"2026-09-15","s":"wrt1v-2690-exdiv-sep15"},
+        {"d":"2026-09-15","s":"nvda-21096-sep14-close"},
+        {"d":"2026-09-15","s":"tsla-35897-sep14-close"},
+        {"d":"2026-09-15","s":"sp500-76199-nasdaq-26186-sep14"},
+        {"d":"2026-09-15","s":"omxh25-636261-sep14-close"},
+        {"d":"2026-09-15","s":"openai-ipo-delay-2026-sep15"},
+        {"d":"2026-09-15","s":"anthropic-ipo-oct-shift-sep15"},
+        {"d":"2026-09-15","s":"c3ai-short-34pct-sep15"},
+        {"d":"2026-09-15","s":"baldwin-bwin-77b-private-sep14"},
+        {"d":"2026-09-15","s":"apollo-jj-ortho-20b-sep14"},
+        {"d":"2026-09-15","s":"copart-acv-19b-sep10"},
+        {"d":"2026-09-15","s":"sentiment-riskoff-ai-fomc-sep15"}
     ],
-    "last_updated": "2026-09-14"
+    "last_updated": "2026-09-15"
 }
