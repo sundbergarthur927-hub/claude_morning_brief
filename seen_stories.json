@@ -1,16 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-01","s":"hormuz-larak-oman-deal-emerging"},
-        {"d":"2026-09-01","s":"fomc-sep16-66pct-cme-fedwatch"},
-        {"d":"2026-09-01","s":"nepal-floods-thousands-missing-4d"},
-        {"d":"2026-09-01","s":"ukraine-caspian-iran-russia-ship"},
-        {"d":"2026-09-01","s":"nokia-eur732m-cashburn-aug31"},
-        {"d":"2026-09-01","s":"nvda-22078-recovery-aug31"},
-        {"d":"2026-09-01","s":"tsla-36795-cybercab-sept3"},
-        {"d":"2026-09-01","s":"slb-kelvion-4b-deal-aug31"},
-        {"d":"2026-09-01","s":"oneok-brazos-443b-aug31"},
-        {"d":"2026-09-01","s":"djokovic-r1-exit-navone"},
-        {"d":"2026-09-01","s":"sp500-7692-lower-aug31"},
         {"d":"2026-09-02","s":"us-iran-strikes-supertankers-sep1"},
         {"d":"2026-09-02","s":"kyiv-railway-depot-7-killed-sep1"},
         {"d":"2026-09-02","s":"canada-countertariffs-sep8-6days"},
@@ -226,7 +215,24 @@
         {"d":"2026-09-15","s":"baldwin-bwin-77b-private-sep14"},
         {"d":"2026-09-15","s":"apollo-jj-ortho-20b-sep14"},
         {"d":"2026-09-15","s":"copart-acv-19b-sep10"},
-        {"d":"2026-09-15","s":"sentiment-riskoff-ai-fomc-sep15"}
+        {"d":"2026-09-15","s":"sentiment-riskoff-ai-fomc-sep15"},
+        {"d":"2026-09-16","s":"iran-proportionate-era-over-sep15"},
+        {"d":"2026-09-16","s":"israel-kfar-reman-9dead-sep15"},
+        {"d":"2026-09-16","s":"ukraine-poland-border-train-drone-sep14"},
+        {"d":"2026-09-16","s":"oman-sidr-tanker-rescue-sep15"},
+        {"d":"2026-09-16","s":"fomc-sep16-2pm-hike-88pct"},
+        {"d":"2026-09-16","s":"ecb-2pt65-effective-sep16"},
+        {"d":"2026-09-16","s":"brent-108-10y-multiyear-sep15"},
+        {"d":"2026-09-16","s":"nokia-869-sep15-close"},
+        {"d":"2026-09-16","s":"wrt1v-2919-sep16-intraday-exdiv"},
+        {"d":"2026-09-16","s":"nvda-21217-sep15-close"},
+        {"d":"2026-09-16","s":"tsla-35658-sep15-close"},
+        {"d":"2026-09-16","s":"sp500-75857-nasdaq-25981-sep15"},
+        {"d":"2026-09-16","s":"omxh25-644543-sep15-close"},
+        {"d":"2026-09-16","s":"qualcomm-4pct-amd-2pct-sep15"},
+        {"d":"2026-09-16","s":"roivant-roiv-1686pct-sep15"},
+        {"d":"2026-09-16","s":"nams-pharma-minus10pct-sep15"},
+        {"d":"2026-09-16","s":"sentiment-riskoff-fomc-brent108-sep15"}
     ],
-    "last_updated": "2026-09-15"
+    "last_updated": "2026-09-16"
 }
