@@ -1,20 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-02","s":"us-iran-strikes-supertankers-sep1"},
-        {"d":"2026-09-02","s":"kyiv-railway-depot-7-killed-sep1"},
-        {"d":"2026-09-02","s":"canada-countertariffs-sep8-6days"},
-        {"d":"2026-09-02","s":"ecb-july-minutes-hike-likely"},
-        {"d":"2026-09-02","s":"us10y-475-19month-high-sep1"},
-        {"d":"2026-09-02","s":"brent-9128-sep1-iran-escalation"},
-        {"d":"2026-09-02","s":"fomc-sep16-hike-65-82pct"},
-        {"d":"2026-09-02","s":"nokia-858-sep1-close"},
-        {"d":"2026-09-02","s":"wrt1v-2999-sep1-close"},
-        {"d":"2026-09-02","s":"nvda-22441-sep1-close-up321pct"},
-        {"d":"2026-09-02","s":"tsla-35609-sep1-close"},
-        {"d":"2026-09-02","s":"sp500-7631-nasdaq-26099-sep1"},
-        {"d":"2026-09-02","s":"neste-brent91-hormuz-tailwind"},
-        {"d":"2026-09-02","s":"us-open-r1-gauff-zverev-sep1"},
-        {"d":"2026-09-02","s":"fx-eurusd-11593-sep1"},
         {"d":"2026-09-04","s":"hormuz-tanker-2-killed-sep3"},
         {"d":"2026-09-04","s":"ukraine-vinnytsia-drone-sep3"},
         {"d":"2026-09-04","s":"broadcom-q3-ai-221pct-sep3"},
@@ -232,7 +217,22 @@
         {"d":"2026-09-16","s":"qualcomm-4pct-amd-2pct-sep15"},
         {"d":"2026-09-16","s":"roivant-roiv-1686pct-sep15"},
         {"d":"2026-09-16","s":"nams-pharma-minus10pct-sep15"},
-        {"d":"2026-09-16","s":"sentiment-riskoff-fomc-brent108-sep15"}
+        {"d":"2026-09-16","s":"sentiment-riskoff-fomc-brent108-sep15"},
+        {"d":"2026-09-17","s":"fomc-sep16-hike-25bps-warsh"},
+        {"d":"2026-09-17","s":"us10y-5016-fed-hike-sep16"},
+        {"d":"2026-09-17","s":"dow-631-sp500-7551-sep16"},
+        {"d":"2026-09-17","s":"nokia-rosenblatt-buy-15adr-sep16"},
+        {"d":"2026-09-17","s":"nokia-telxius-800g-sep16"},
+        {"d":"2026-09-17","s":"nokia-884-sep16-close"},
+        {"d":"2026-09-17","s":"wrt1v-2749-sep16-close"},
+        {"d":"2026-09-17","s":"nvda-21390-sep16-close"},
+        {"d":"2026-09-17","s":"tsla-sep16-unverified"},
+        {"d":"2026-09-17","s":"omxh25-649926-sep16"},
+        {"d":"2026-09-17","s":"houthi-bab-mandab-control-sep17"},
+        {"d":"2026-09-17","s":"eurusd-11540-sep16-fed"},
+        {"d":"2026-09-17","s":"anthropic-ipo-oct-delay-sep17"},
+        {"d":"2026-09-17","s":"vg-venture-global-78pct-short"},
+        {"d":"2026-09-17","s":"goldman-tsla-neutral-delivery-sep16"}
     ],
-    "last_updated": "2026-09-16"
+    "last_updated": "2026-09-17"
 }
