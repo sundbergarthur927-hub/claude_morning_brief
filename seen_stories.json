@@ -232,7 +232,28 @@
         {"d":"2026-09-17","s":"eurusd-11540-sep16-fed"},
         {"d":"2026-09-17","s":"anthropic-ipo-oct-delay-sep17"},
         {"d":"2026-09-17","s":"vg-venture-global-78pct-short"},
-        {"d":"2026-09-17","s":"goldman-tsla-neutral-delivery-sep16"}
+        {"d":"2026-09-17","s":"goldman-tsla-neutral-delivery-sep16"},
+        {"d":"2026-09-18","s":"iran-offensive-posture-sep17"},
+        {"d":"2026-09-18","s":"russia-caspian-iran-resupply-sep17"},
+        {"d":"2026-09-18","s":"iraq-krg-drones-iran-sep17"},
+        {"d":"2026-09-18","s":"houthi-bab-mandab-pipeline-sep18"},
+        {"d":"2026-09-18","s":"fomc-10y-493-relief-rally-sep17"},
+        {"d":"2026-09-18","s":"ecb-265-cpi-32-sep16"},
+        {"d":"2026-09-18","s":"eurusd-11480-usd-strength-sep17"},
+        {"d":"2026-09-18","s":"usdjpy-15626-sep18"},
+        {"d":"2026-09-18","s":"nokia-c3ia-ukmod-mou-sep17"},
+        {"d":"2026-09-18","s":"nokia-unverified-sep17-503"},
+        {"d":"2026-09-18","s":"wrt1v-unverified-sep17-503"},
+        {"d":"2026-09-18","s":"nvda-unverified-sep17-503"},
+        {"d":"2026-09-18","s":"tsla-unverified-sep17-503"},
+        {"d":"2026-09-18","s":"sp500-7637-nasdaq-26418-sep17"},
+        {"d":"2026-09-18","s":"generac-gnrc-18pct-amazon-sep17"},
+        {"d":"2026-09-18","s":"omxh25-unverified-sep17-503"},
+        {"d":"2026-09-18","s":"wartsila-battery-gasengine-sep17"},
+        {"d":"2026-09-18","s":"holtec-hnuc-ipo-listed-sep18"},
+        {"d":"2026-09-18","s":"orion180-ipo-nasdaq-sep18"},
+        {"d":"2026-09-18","s":"ucl-md2-sep17-partial"},
+        {"d":"2026-09-18","s":"sentiment-riskon-10y-relief-sep17"}
     ],
-    "last_updated": "2026-09-17"
+    "last_updated": "2026-09-18"
 }
