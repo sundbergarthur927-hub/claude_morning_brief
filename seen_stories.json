@@ -1,21 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-04","s":"hormuz-tanker-2-killed-sep3"},
-        {"d":"2026-09-04","s":"ukraine-vinnytsia-drone-sep3"},
-        {"d":"2026-09-04","s":"broadcom-q3-ai-221pct-sep3"},
-        {"d":"2026-09-04","s":"fomc-sep16-55pct-cme-sep4"},
-        {"d":"2026-09-04","s":"us10y-yields-fell-sep3"},
-        {"d":"2026-09-04","s":"nfp-aug-15h30-eest-sep4"},
-        {"d":"2026-09-04","s":"eurusd-11586-sep3"},
-        {"d":"2026-09-04","s":"nokia-unverified-sep3"},
-        {"d":"2026-09-04","s":"wrt1v-unverified-sep3"},
-        {"d":"2026-09-04","s":"nvda-22845-sep3-close"},
-        {"d":"2026-09-04","s":"tsla-37637-cybercab-sep3"},
-        {"d":"2026-09-04","s":"sp500-7747-nasdaq-26584-sep3"},
-        {"d":"2026-09-04","s":"avgo-sell-news-sep3"},
-        {"d":"2026-09-04","s":"neste-brent9530-sep4"},
-        {"d":"2026-09-04","s":"canada-sep8-4days-tariffs"},
-        {"d":"2026-09-04","s":"us-open-r2-sep3"},
         {"d":"2026-09-05","s":"nfp-aug-162k-vs-53k-sep4"},
         {"d":"2026-09-05","s":"fomc-sep16-hike-majority-nfp"},
         {"d":"2026-09-05","s":"iran-us-tanker-strikes-sep2"},
@@ -253,7 +237,24 @@
         {"d":"2026-09-18","s":"holtec-hnuc-ipo-listed-sep18"},
         {"d":"2026-09-18","s":"orion180-ipo-nasdaq-sep18"},
         {"d":"2026-09-18","s":"ucl-md2-sep17-partial"},
-        {"d":"2026-09-18","s":"sentiment-riskon-10y-relief-sep17"}
+        {"d":"2026-09-18","s":"sentiment-riskon-10y-relief-sep17"},
+        {"d":"2026-09-19","s":"houthi-yemen-biggest-landgrab-sep19"},
+        {"d":"2026-09-19","s":"fomc-aftermath-16of18-hike-10y5006-sep18"},
+        {"d":"2026-09-19","s":"russia-ukraine-pow-thousands-sep19"},
+        {"d":"2026-09-19","s":"tice-syria-planned-abduction-sep19"},
+        {"d":"2026-09-19","s":"nokia-microsoft-fabric-ai-partnership-sep17"},
+        {"d":"2026-09-19","s":"nokia-936-sep18-close"},
+        {"d":"2026-09-19","s":"wrt1v-2846-sep18-close"},
+        {"d":"2026-09-19","s":"nvda-22227-sep18-close"},
+        {"d":"2026-09-19","s":"tsla-36427-sep18-close"},
+        {"d":"2026-09-19","s":"tsla-barclays-q3-delivery-beat"},
+        {"d":"2026-09-19","s":"sp500-765050-nasdaq-265225-sep18"},
+        {"d":"2026-09-19","s":"omxh25-655877-sep18-close"},
+        {"d":"2026-09-19","s":"10y-5006-back-above-5pct-sep18"},
+        {"d":"2026-09-19","s":"fx-eurusd-11480-sep17-confirmed"},
+        {"d":"2026-09-19","s":"holtec-hnuc-first-trading-day-sep19"},
+        {"d":"2026-09-19","s":"orion180-ipo-first-trading-day-sep19"},
+        {"d":"2026-09-19","s":"sentiment-mixed-cautious-10y5pct-sep19"}
     ],
-    "last_updated": "2026-09-18"
+    "last_updated": "2026-09-19"
 }
