@@ -1,19 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-06","s":"witkoff-kushner-moscow-sep5"},
-        {"d":"2026-09-06","s":"philippines-duterte-arrested-sep5"},
-        {"d":"2026-09-06","s":"trump-iran-small-potatoes-sep5"},
-        {"d":"2026-09-06","s":"canada-tariffs-sep8-d1"},
-        {"d":"2026-09-06","s":"nvda-exdiv-sep10-025"},
-        {"d":"2026-09-06","s":"omxh25-645482-sep4"},
-        {"d":"2026-09-06","s":"fx-eurusd-11622-ecb-sep4"},
-        {"d":"2026-09-06","s":"usd-jpy-156-yen-firmer-sep4"},
-        {"d":"2026-09-06","s":"vfc-puts-25x-sep5"},
-        {"d":"2026-09-06","s":"arcosa-crh-approved-sep4"},
-        {"d":"2026-09-06","s":"khosla-96b-allen-estate-sep3"},
-        {"d":"2026-09-06","s":"bournemouth-newcastle-2-1-sep5"},
-        {"d":"2026-09-06","s":"katie-taylor-undisputed-sep5"},
-        {"d":"2026-09-06","s":"sentiment-risk-off-canada-sep8"},
         {"d":"2026-09-07","s":"ukraine-peace-kyiv-nsas-sep7"},
         {"d":"2026-09-07","s":"saxony-anhalt-afd-44pct-sep6"},
         {"d":"2026-09-07","s":"nepal-tibet-avalanche-sep7"},
@@ -234,7 +220,18 @@
         {"d":"2026-09-20","s":"nordea-eur1787-db-pt20-sep17"},
         {"d":"2026-09-20","s":"nvda-22227-sep18-yahoo-verified"},
         {"d":"2026-09-20","s":"tsla-36427-sep18-yahoo-verified"},
-        {"d":"2026-09-20","s":"sentiment-riskoff-houthi-trump-xi-sep20"}
+        {"d":"2026-09-20","s":"sentiment-riskoff-houthi-trump-xi-sep20"},
+        {"d":"2026-09-21","s":"nokia-stoxx50-effective-sep21"},
+        {"d":"2026-09-21","s":"riyadh-air-raid-houthi-sep21"},
+        {"d":"2026-09-21","s":"germany-afd-merz-state-elections-sep21"},
+        {"d":"2026-09-21","s":"italy-meloni-burqa-foreigncap-sep21"},
+        {"d":"2026-09-21","s":"france-canada-ties-sep21"},
+        {"d":"2026-09-21","s":"nokia-unverified-eur-sep21"},
+        {"d":"2026-09-21","s":"wrt1v-unverified-sep21"},
+        {"d":"2026-09-21","s":"engie-stoxx50-effective-sep21"},
+        {"d":"2026-09-21","s":"usd-jpy-15683-sep21-open"},
+        {"d":"2026-09-21","s":"eur-usd-11487-sep21-open"},
+        {"d":"2026-09-21","s":"sentiment-riskoff-riyadh-sep21"}
     ],
-    "last_updated": "2026-09-20"
+    "last_updated": "2026-09-21"
 }
