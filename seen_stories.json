@@ -1,21 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-07","s":"ukraine-peace-kyiv-nsas-sep7"},
-        {"d":"2026-09-07","s":"saxony-anhalt-afd-44pct-sep6"},
-        {"d":"2026-09-07","s":"nepal-tibet-avalanche-sep7"},
-        {"d":"2026-09-07","s":"ecb-sep10-hike-preview"},
-        {"d":"2026-09-07","s":"canada-tariffs-live-sep8"},
-        {"d":"2026-09-07","s":"nokia-918-sep5-euro-stoxx"},
-        {"d":"2026-09-07","s":"wrt1v-2919-sep4-div-sep15"},
-        {"d":"2026-09-07","s":"nvda-23036-sep4-unverified"},
-        {"d":"2026-09-07","s":"tsla-35408-sep4-cybercab"},
-        {"d":"2026-09-07","s":"sp500-77186-sep5-nfp-risk"},
-        {"d":"2026-09-07","s":"omxh25-unverified-sep5"},
-        {"d":"2026-09-07","s":"hormuz-84ships-blockade-sep7"},
-        {"d":"2026-09-07","s":"us-open-alcaraz-qf-sep7"},
-        {"d":"2026-09-07","s":"us-open-zverev-cerundolo-r4"},
-        {"d":"2026-09-07","s":"vw-euro-stoxx-exit-sep21"},
-        {"d":"2026-09-07","s":"sentiment-risk-on-peace-sep7"},
         {"d":"2026-09-08","s":"canada-tariffs-live-sep8-active"},
         {"d":"2026-09-08","s":"trump-bombardier-block-sep8"},
         {"d":"2026-09-08","s":"ukraine-russia-readiness-sep7"},
@@ -231,7 +215,23 @@
         {"d":"2026-09-21","s":"engie-stoxx50-effective-sep21"},
         {"d":"2026-09-21","s":"usd-jpy-15683-sep21-open"},
         {"d":"2026-09-21","s":"eur-usd-11487-sep21-open"},
-        {"d":"2026-09-21","s":"sentiment-riskoff-riyadh-sep21"}
+        {"d":"2026-09-21","s":"sentiment-riskoff-riyadh-sep21"},
+        {"d":"2026-09-22","s":"un-warcrime-us-iran-178-sep22"},
+        {"d":"2026-09-22","s":"zelensky-caspian-strikes-sep22"},
+        {"d":"2026-09-22","s":"trump-iran-powerplants-warcrime-sep22"},
+        {"d":"2026-09-22","s":"patriot-gm-lockheed-sep22"},
+        {"d":"2026-09-22","s":"xi-trump-sep24-approaching-sep22"},
+        {"d":"2026-09-22","s":"nokia-airan-8operators-sep22"},
+        {"d":"2026-09-22","s":"nokia-microsoft-surge-sep22"},
+        {"d":"2026-09-22","s":"nvda-22738-sep21-close"},
+        {"d":"2026-09-22","s":"tsla-37530-sep21-close"},
+        {"d":"2026-09-22","s":"omxh25-658546-sep21-close"},
+        {"d":"2026-09-22","s":"nordea-1500jobs-2027-sep22"},
+        {"d":"2026-09-22","s":"volvo-ex30-us-halt-sep22"},
+        {"d":"2026-09-22","s":"nscale-nvda-ipo-filing-sep22"},
+        {"d":"2026-09-22","s":"bjkcup-shenzhen-sep22"},
+        {"d":"2026-09-22","s":"eurusd-11472-sep22"},
+        {"d":"2026-09-22","s":"sentiment-mixed-tech-iran-10y-sep22"}
     ],
-    "last_updated": "2026-09-21"
+    "last_updated": "2026-09-22"
 }
