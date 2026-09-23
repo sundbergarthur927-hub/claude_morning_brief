@@ -1,19 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-08","s":"canada-tariffs-live-sep8-active"},
-        {"d":"2026-09-08","s":"trump-bombardier-block-sep8"},
-        {"d":"2026-09-08","s":"ukraine-russia-readiness-sep7"},
-        {"d":"2026-09-08","s":"hormuz-oman-corridor-sep8"},
-        {"d":"2026-09-08","s":"ecb-sep10-25bp-preview"},
-        {"d":"2026-09-08","s":"wrt1v-2919-sep8-open"},
-        {"d":"2026-09-08","s":"nokia-unverified-sep8"},
-        {"d":"2026-09-08","s":"nvda-22588-sep8-intraday"},
-        {"d":"2026-09-08","s":"tsla-36816-sep8-close"},
-        {"d":"2026-09-08","s":"omxh25-649532-sep7-close"},
-        {"d":"2026-09-08","s":"charter-cox-345b"},
-        {"d":"2026-09-08","s":"us-open-r4-alcaraz-tiafoe-shelton"},
-        {"d":"2026-09-08","s":"ucl-matchday1-sep8"},
-        {"d":"2026-09-08","s":"fx-eurusd-11620-sep8"},
         {"d":"2026-09-10","s":"houthi-saudi-aramco-brent99-sep8"},
         {"d":"2026-09-10","s":"ukraine-peace-no-breakthrough-sep8"},
         {"d":"2026-09-10","s":"canada-us-bilateral-tariffs-sep8"},
@@ -231,7 +217,24 @@
         {"d":"2026-09-22","s":"nscale-nvda-ipo-filing-sep22"},
         {"d":"2026-09-22","s":"bjkcup-shenzhen-sep22"},
         {"d":"2026-09-22","s":"eurusd-11472-sep22"},
-        {"d":"2026-09-22","s":"sentiment-mixed-tech-iran-10y-sep22"}
+        {"d":"2026-09-22","s":"sentiment-mixed-tech-iran-10y-sep22"},
+        {"d":"2026-09-23","s":"trump-xi-sep24-confirmed-agenda"},
+        {"d":"2026-09-23","s":"nokia-928-sep22-poststoxx-close"},
+        {"d":"2026-09-23","s":"wrt1v-2784-sep23-intraday"},
+        {"d":"2026-09-23","s":"nvda-22887-sep22-close"},
+        {"d":"2026-09-23","s":"tsla-37890-sep22-close"},
+        {"d":"2026-09-23","s":"sp500-77647-nasdaq-27122-sep22"},
+        {"d":"2026-09-23","s":"omxh25-664211-sep22-close"},
+        {"d":"2026-09-23","s":"bamboo-cvc-ipo-nyse-sep23"},
+        {"d":"2026-09-23","s":"priority-tech-16b-private-sep22"},
+        {"d":"2026-09-23","s":"telix-itm-165b-sep21"},
+        {"d":"2026-09-23","s":"akzonobel-axalta-25b-eu-sep21"},
+        {"d":"2026-09-23","s":"kone-tk-elevator-uk-antitrust-sep22"},
+        {"d":"2026-09-23","s":"uber-delivery-hero-korea-sep22"},
+        {"d":"2026-09-23","s":"meta-connect-sep23"},
+        {"d":"2026-09-23","s":"cnn-politico-whitehouse-lawsuit-sep23"},
+        {"d":"2026-09-23","s":"sentiment-riskon-trump-xi-nasdaq23pct-sep22"},
+        {"d":"2026-09-23","s":"houthi-taiz-repelled-sep21"}
     ],
-    "last_updated": "2026-09-22"
+    "last_updated": "2026-09-23"
 }
