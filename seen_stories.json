@@ -1,17 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-12","s":"houthi-bab-el-mandeb-island-sep12"},
-        {"d":"2026-09-12","s":"brics-summit-modi-putin-xi-sep13"},
-        {"d":"2026-09-12","s":"trump-iran-war-soon-sep13"},
-        {"d":"2026-09-12","s":"saudi-pipeline-houthi-sep13"},
-        {"d":"2026-09-12","s":"fomc-sep16-66pct-sep13"},
-        {"d":"2026-09-12","s":"rybakina-def-sabalenka-63-sep12"},
-        {"d":"2026-09-12","s":"us-open-men-final-underway-sep13"},
-        {"d":"2026-09-12","s":"anthropic-ipo-2t-target-sep13"},
-        {"d":"2026-09-12","s":"nokia-unverified-sep13"},
-        {"d":"2026-09-12","s":"wrt1v-2919-intraday-yahoo-sep11"},
-        {"d":"2026-09-12","s":"eurusd-11599-sep11-close"},
-        {"d":"2026-09-12","s":"sentiment-riskoff-bab-el-mandeb-sep13"},
         {"d":"2026-09-13","s":"fomc-sep16-855pct-hike-sep12"},
         {"d":"2026-09-13","s":"houthis-redsea-coast-brent100-sep14"},
         {"d":"2026-09-13","s":"brics-new-delhi-declaration-sep14"},
@@ -213,7 +201,23 @@
         {"d":"2026-09-26","s":"bundesliga-bayern-3-2-dortmund-sep25"},
         {"d":"2026-09-26","s":"premierleague-manutd-2-1-chelsea-sep25"},
         {"d":"2026-09-26","s":"lavercup-london-sep25"},
-        {"d":"2026-09-26","s":"sentiment-riskon-friday-rally-sep26"}
+        {"d":"2026-09-26","s":"sentiment-riskon-friday-rally-sep26"},
+        {"d":"2026-09-27","s":"iran-hormuz-5day-ultimatum-sep27"},
+        {"d":"2026-09-27","s":"pope-france-ai-warning-sep27"},
+        {"d":"2026-09-27","s":"switzerland-neutrality-vote-sep27"},
+        {"d":"2026-09-27","s":"trump-ukraine-diesel-sep27"},
+        {"d":"2026-09-27","s":"nokia-jefferies-buy-sep24"},
+        {"d":"2026-09-27","s":"wrt1v-tges-ai-datacenter-sep21"},
+        {"d":"2026-09-27","s":"nvda-cheapest-decade-sep24"},
+        {"d":"2026-09-27","s":"tsla-robotaxi-fsd-selloff-sep25"},
+        {"d":"2026-09-27","s":"omxh25-652177-sep25-verified"},
+        {"d":"2026-09-27","s":"nordea-1793-sep25"},
+        {"d":"2026-09-27","s":"sampo-noba-reduction-sep23"},
+        {"d":"2026-09-27","s":"oura-ipo-priced-sep28-nasdaq"},
+        {"d":"2026-09-27","s":"accelevation-accv-ipo-sep28"},
+        {"d":"2026-09-27","s":"f1-baku-russell-win-sep27"},
+        {"d":"2026-09-27","s":"fx-levels-eurusd-11389-sep25"},
+        {"d":"2026-09-27","s":"sentiment-riskoff-iran-5day-sep27"}
     ],
-    "last_updated": "2026-09-26"
+    "last_updated": "2026-09-27"
 }
