@@ -1,18 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-13","s":"fomc-sep16-855pct-hike-sep12"},
-        {"d":"2026-09-13","s":"houthis-redsea-coast-brent100-sep14"},
-        {"d":"2026-09-13","s":"brics-new-delhi-declaration-sep14"},
-        {"d":"2026-09-13","s":"indonesia-ferry-130-missing-sep13"},
-        {"d":"2026-09-13","s":"ai-slowdown-call-nasdaq-sep14"},
-        {"d":"2026-09-13","s":"israel-france-canada-settlement-ban-sep14"},
-        {"d":"2026-09-13","s":"nokia-nvda-huang-airan-rally-sep12"},
-        {"d":"2026-09-13","s":"zverev-usopen-def-shelton-sep13"},
-        {"d":"2026-09-13","s":"nvda-zankore-31b-indonesia-sep14"},
-        {"d":"2026-09-13","s":"sp500-7619-sep12-friday"},
-        {"d":"2026-09-13","s":"celestica-cls-11pct-sep12"},
-        {"d":"2026-09-13","s":"holtec-hnuc-ipo-sep18"},
-        {"d":"2026-09-13","s":"sentiment-riskoff-ai-brent100-sep14"},
         {"d":"2026-09-14","s":"nokia-1013-ai-selloff-sep14"},
         {"d":"2026-09-14","s":"iran-vessel-hormuz-1killed-sep15"},
         {"d":"2026-09-14","s":"fomc-sep16-6080pct-sep15"},
@@ -217,7 +204,18 @@
         {"d":"2026-09-27","s":"accelevation-accv-ipo-sep28"},
         {"d":"2026-09-27","s":"f1-baku-russell-win-sep27"},
         {"d":"2026-09-27","s":"fx-levels-eurusd-11389-sep25"},
-        {"d":"2026-09-27","s":"sentiment-riskoff-iran-5day-sep27"}
+        {"d":"2026-09-27","s":"sentiment-riskoff-iran-5day-sep27"},
+        {"d":"2026-09-28","s":"iran-hormuz-trump-formal-rejection-sep28"},
+        {"d":"2026-09-28","s":"uk-raf-fairford-terror-5arrested-sep27"},
+        {"d":"2026-09-28","s":"nokia-913-sep25-yahoo-sep28"},
+        {"d":"2026-09-28","s":"wrt1v-unverified-sep28"},
+        {"d":"2026-09-28","s":"nvda-22507-sep25-yahoo-sep28"},
+        {"d":"2026-09-28","s":"tsla-37211-sep25-yahoo-sep28"},
+        {"d":"2026-09-28","s":"omxh25-652177-sep25-yahoo-sep28"},
+        {"d":"2026-09-28","s":"oura-ipo-firsttrading-sep30"},
+        {"d":"2026-09-28","s":"us10y-5184-sep28"},
+        {"d":"2026-09-28","s":"sp500-futures-pos048-sep28"},
+        {"d":"2026-09-28","s":"sentiment-cautious-riskon-sep28"}
     ],
-    "last_updated": "2026-09-27"
+    "last_updated": "2026-09-28"
 }
