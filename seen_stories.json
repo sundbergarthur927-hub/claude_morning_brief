@@ -1,20 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-16","s":"fomc-sep16-hike-25bps-warsh"},
-        {"d":"2026-09-16","s":"us10y-5016-fed-hike-sep16"},
-        {"d":"2026-09-16","s":"dow-631-sp500-7551-sep16"},
-        {"d":"2026-09-16","s":"nokia-rosenblatt-buy-15adr-sep16"},
-        {"d":"2026-09-16","s":"nokia-telxius-800g-sep16"},
-        {"d":"2026-09-16","s":"nokia-884-sep16-close"},
-        {"d":"2026-09-16","s":"wrt1v-2749-sep16-close"},
-        {"d":"2026-09-16","s":"nvda-21390-sep16-close"},
-        {"d":"2026-09-16","s":"tsla-sep16-unverified"},
-        {"d":"2026-09-16","s":"omxh25-649926-sep16"},
-        {"d":"2026-09-16","s":"houthi-bab-mandab-control-sep17"},
-        {"d":"2026-09-16","s":"eurusd-11540-sep16-fed"},
-        {"d":"2026-09-16","s":"anthropic-ipo-oct-delay-sep17"},
-        {"d":"2026-09-16","s":"vg-venture-global-78pct-short"},
-        {"d":"2026-09-16","s":"goldman-tsla-neutral-delivery-sep16"},
         {"d":"2026-09-17","s":"iran-offensive-posture-sep17"},
         {"d":"2026-09-17","s":"russia-caspian-iran-resupply-sep17"},
         {"d":"2026-09-17","s":"iraq-krg-drones-iran-sep17"},
@@ -209,7 +194,20 @@
         {"d":"2026-09-30","s":"neste-3420-minus452-sep29"},
         {"d":"2026-09-30","s":"nordea-1802-plus084-sep29"},
         {"d":"2026-09-30","s":"deutsche-telekom-fiberhost-eur1bn"},
-        {"d":"2026-09-30","s":"sentiment-riskoff-10y-yields-sep30"}
+        {"d":"2026-09-30","s":"sentiment-riskoff-10y-yields-sep30"},
+        {"d":"2026-10-01","s":"us-pce-soft-sep30-fed-oct28-hike"},
+        {"d":"2026-10-01","s":"nokia-902-sep30-close"},
+        {"d":"2026-10-01","s":"wrt1v-2812-sep30-close"},
+        {"d":"2026-10-01","s":"wrt1v-q2-record-2b8-oct27"},
+        {"d":"2026-10-01","s":"nvda-22838-sep30-close"},
+        {"d":"2026-10-01","s":"tsla-35481-sep30-close"},
+        {"d":"2026-10-01","s":"tsla-q3-delivery-oct2"},
+        {"d":"2026-10-01","s":"sp500-worst-sep-since-jun"},
+        {"d":"2026-10-01","s":"omxh25-642590-sep30-close"},
+        {"d":"2026-10-01","s":"hormel-brakebush-1b055-oct2026"},
+        {"d":"2026-10-01","s":"ma-2026-ytd-38t-record-pace"},
+        {"d":"2026-10-01","s":"fx-eurusd-11339-sep30"},
+        {"d":"2026-10-01","s":"sentiment-riskon-pce-soft-oct1"}
     ],
-    "last_updated": "2026-09-30"
+    "last_updated": "2026-10-01"
 }
