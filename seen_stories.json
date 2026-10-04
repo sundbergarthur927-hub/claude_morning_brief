@@ -1,50 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-09-19",
-            "s": "trump-greenland-denmark-deal-sep20"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "russia-elections-annexed-ukraine-sep20"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "tusk-nato-russia-accidental-strikes-sep20"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "un-iran-war-crimes-minab-sep20"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "nokia-stoxx50-rebal-tomorrow-sep21"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "houthi-saudi-interceptors-us-no-intervention-sep20"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "trump-xi-sep24-iran-sanctions-agenda"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "nordea-eur1787-db-pt20-sep17"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "nvda-22227-sep18-yahoo-verified"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "tsla-36427-sep18-yahoo-verified"
-        },
-        {
-            "d": "2026-09-19",
-            "s": "sentiment-riskoff-houthi-trump-xi-sep20"
-        },
-        {
             "d": "2026-09-20",
             "s": "nokia-stoxx50-effective-sep21"
         },
@@ -811,7 +767,43 @@
         {
             "d": "2026-10-03",
             "s": "sentiment-riskon-nfp-miss-hormuz-oct3"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "iran-two-ships-seized-hormuz-oct4"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "brazil-election-firstround-oct4"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "imf-worldbank-annual-meetings-oct4"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "nokia-iceye-leo-satellite-oct3"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "nokia-941-oct2-close-oct4brief"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "wrt1v-unverified-oct4"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "omxh25-641621-oct2-close-oct4brief"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "nokia-nvda-110ytd-oct4"
+        },
+        {
+            "d": "2026-10-04",
+            "s": "sentiment-riskoff-iran-oct4"
         }
     ],
-    "last_updated": "2026-10-03"
+    "last_updated": "2026-10-04"
 }
