@@ -1,50 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-09-20",
-            "s": "nokia-stoxx50-effective-sep21"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "riyadh-air-raid-houthi-sep21"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "germany-afd-merz-state-elections-sep21"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "italy-meloni-burqa-foreigncap-sep21"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "france-canada-ties-sep21"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "nokia-unverified-eur-sep21"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "wrt1v-unverified-sep21"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "engie-stoxx50-effective-sep21"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "usd-jpy-15683-sep21-open"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "eur-usd-11487-sep21-open"
-        },
-        {
-            "d": "2026-09-20",
-            "s": "sentiment-riskoff-riyadh-sep21"
-        },
-        {
             "d": "2026-09-21",
             "s": "un-warcrime-us-iran-178-sep22"
         },
@@ -803,7 +759,91 @@
         {
             "d": "2026-10-04",
             "s": "sentiment-riskoff-iran-oct4"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "iran-hormuz-7tankers-5days-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "russia-kyiv-bridges-kaliningrad-nuclear-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "northkorea-irbm-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "taiwan-930m-sea-drones-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "netherlands-eu-gas-storage-scrap-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "g7-diesel-reserves-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "imf-weo-oct5-growth-30"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "fx-eurusd-11258-oct4"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "nokia-941-oct2-yahoo-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "wrt1v-2935-oct2-yahoo-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "nvda-23395-oct2-yahoo-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "tsla-37059-oct2-yahoo-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "sp500-7729-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "nasdaq-27191-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "omxh25-641621-oct2-unverified-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "nordea-record-1801-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "volvo-trucks-tel-400vnl-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "volvo-ce-rokbak-winddown-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "paramount-wbd-skydance-110b"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "select-water-pilot-700m-oct5"
+        },
+        {
+            "d": "2026-10-05",
+            "s": "sentiment-riskoff-iran-northkorea-oct5"
         }
     ],
-    "last_updated": "2026-10-04"
+    "last_updated": "2026-10-05"
 }
