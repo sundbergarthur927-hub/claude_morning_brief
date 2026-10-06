@@ -1,70 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-09-21",
-            "s": "un-warcrime-us-iran-178-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "zelensky-caspian-strikes-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "trump-iran-powerplants-warcrime-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "patriot-gm-lockheed-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "xi-trump-sep24-approaching-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "nokia-airan-8operators-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "nokia-microsoft-surge-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "nvda-22738-sep21-close"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "tsla-37530-sep21-close"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "omxh25-658546-sep21-close"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "nordea-1500jobs-2027-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "volvo-ex30-us-halt-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "nscale-nvda-ipo-filing-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "bjkcup-shenzhen-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "eurusd-11472-sep22"
-        },
-        {
-            "d": "2026-09-21",
-            "s": "sentiment-mixed-tech-iran-10y-sep22"
-        },
-        {
             "d": "2026-09-22",
             "s": "trump-xi-sep24-confirmed-agenda"
         },
@@ -594,7 +530,7 @@
         },
         {
             "d": "2026-10-02",
-            "s": "iran-hormuz-1ship-exclusion-zone-oct2"
+            "s": "iran-irgc-uuv-rubio-expelled-oct2"
         },
         {
             "d": "2026-10-02",
@@ -843,7 +779,87 @@
         {
             "d": "2026-10-05",
             "s": "sentiment-riskoff-iran-northkorea-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "iran-hormuz-day2-iraq-lng-oct6"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "paramount-wbd-close-oct6"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "turkey-pakistan-saudi-houthis-mocha-oct6"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "egypt-ethiopia-diplomat-nile-oct6"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "fed-4pct-oct28-hike-25pct-probability-oct6"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "ecb-265pct-oct29-meeting-oct6"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "eurusd-11204-minus048-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "nokia-917-minus255-oct5-close"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "wrt1v-gs-nordea-upgrade-buy-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "wrt1v-valo-bess-schneider-oct6"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "nvda-unverified-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "tsla-unverified-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "omxh25-639527-minus033-oct5-close"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "skyworks-qorvo-22b-merge-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "lowes-options-oct16-puts-oct6"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "schneider-ptc-2370b-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "chrobinson-rxo-58b-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "kkr-gen2-51b-oct5"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "f1-bahrain-verstappen-antonelli-oct4"
+        },
+        {
+            "d": "2026-10-06",
+            "s": "sentiment-riskoff-hormuz-eur-nokia-oct6"
         }
     ],
-    "last_updated": "2026-10-05"
+    "last_updated": "2026-10-06"
 }
