@@ -1,74 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-09-22",
-            "s": "trump-xi-sep24-confirmed-agenda"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "nokia-928-sep22-poststoxx-close"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "wrt1v-2784-sep23-intraday"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "nvda-22887-sep22-close"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "tsla-37890-sep22-close"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "sp500-77647-nasdaq-27122-sep22"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "omxh25-664211-sep22-close"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "bamboo-cvc-ipo-nyse-sep23"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "priority-tech-16b-private-sep22"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "telix-itm-165b-sep21"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "akzonobel-axalta-25b-eu-sep21"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "kone-tk-elevator-uk-antitrust-sep22"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "uber-delivery-hero-korea-sep22"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "meta-connect-sep23"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "cnn-politico-whitehouse-lawsuit-sep23"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "sentiment-riskon-trump-xi-nasdaq23pct-sep22"
-        },
-        {
-            "d": "2026-09-22",
-            "s": "houthi-taiz-repelled-sep21"
-        },
-        {
             "d": "2026-09-23",
             "s": "trump-xi-sep24-outcome-china-iranian-airlines"
         },
@@ -859,7 +791,95 @@
         {
             "d": "2026-10-06",
             "s": "sentiment-riskoff-hormuz-eur-nokia-oct6"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "iran-ghalibaf-7conditions-islamabad-oct7"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "oct7-anniversary-hamas-gaza-year4"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "houthi-babalandab-offensive-oct6"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "rbi-india-71pct-gdp-fy27-oct7"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "fomc-minutes-sep16-released-oct7"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "us10y-527-5334-intraday-2002high-oct6"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "eurusd-11252-minus006-oct7"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "nokia-unverified-nok-plus603-oct6"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "wrt1v-unverified-oct7"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "nvda-23924-plus014-oct6-verified"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "tsla-38068-plus051-oct6-verified"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "sp500-7819-plus058-oct6"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "omxh25-646140-plus103-oct6-verified"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "spacex-40b-nvda-chips"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "tsla-q3-earnings-oct21"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "nordea-sampo-target-1090"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "informa-clarion-224b"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "mckesson-cdr-optioncare-5b"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "bpce-sabadell-7pct-stake"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "chinaopen-tennis-qf-oct6"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "sentiment-cautious-riskon-fomc-hormuz-oct7"
+        },
+        {
+            "d": "2026-10-07",
+            "s": "levi-q3-earnings-oct7"
         }
     ],
-    "last_updated": "2026-10-06"
+    "last_updated": "2026-10-07"
 }
