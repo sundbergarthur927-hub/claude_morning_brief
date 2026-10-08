@@ -1,62 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-09-23",
-            "s": "trump-xi-sep24-outcome-china-iranian-airlines"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "ukraine-moscow-largest-drone-sep24"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "iran-president-unga-defiant-sep24"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "hurricane-polo-cat5-sep24"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "unga-guterres-final-sep24"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "fed-hawkish-speakers-10y-19yr-sep23"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "eurusd-11379-sep24"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "nokia-945-sep23-close"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "wrt1v-2935-sep23-close"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "nvda-22551-insider-selling-sep23"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "tsla-unverified-sep24"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "sp500-7706-nasdaq-26936-sep23"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "omxh25-659992-sep23-close"
-        },
-        {
-            "d": "2026-09-23",
-            "s": "sentiment-riskoff-10y-19yr-fed-sep23"
-        },
-        {
             "d": "2026-09-25",
             "s": "trump-xi-no-breakthroughs-sep25"
         },
@@ -879,7 +823,111 @@
         {
             "d": "2026-10-07",
             "s": "levi-q3-earnings-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "iran-hormuz-pentagon-centcom-combat-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "oct7-anniversary-pm-warning-investigation"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "germany-bnd-chief-arrested-state-secrets"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "us-raf-fairford-bombers-removed-iran"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "hormuz-tanker-qatar-hit-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "ukraine-russia-kyiv-targets-shift"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "us10y-532-oct7-2002high"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "pepsi-progressive-q3-oct8"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "fx-eurusd-11252-flat-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "nokia-954-minus060-oct7-verified"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "nokia-253-jobcuts-finland-oct8"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "nokia-brazil-network-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "wrt1v-unverified-oct8"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "nvda-unverified-oct8"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "tsla-unverified-oct8"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "sp500-780177-minus022-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "nikkei-70035-minus092-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "omxh25-640624-minus085-oct7-verified"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "nordea-q3-earnings-oct15"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "crh-ncc-denmark-finland-ops"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "opch-58b-mckesson-cdr-plus34-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "nscale-nyse-ipo-2b-oct8"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "emera-canadian-utilities-143b-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "energy-transfer-vaquero-262b-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "tdsynnex-bluestar-oct7"
+        },
+        {
+            "d": "2026-10-08",
+            "s": "sentiment-riskoff-pentagon-centcom-oct8"
         }
     ],
-    "last_updated": "2026-10-07"
+    "last_updated": "2026-10-08"
 }
