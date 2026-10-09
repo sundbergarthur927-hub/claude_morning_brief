@@ -927,7 +927,107 @@
         {
             "d": "2026-10-08",
             "s": "sentiment-riskoff-pentagon-centcom-oct8"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "iran-trump-no-strikes-midterms-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "irgc-complete-control-hormuz-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "iran-tankers-outside-strait-gulf-oman-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "nobel-peace-prize-2026-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "russia-overnight-kyiv-drones-bombs-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "southkorea-hypersonic-test-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "russia-siberia-plague-denial-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "us10y-523-pullback-30yr-auction-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "fed-dec-hike-86pct-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "ecb-hold-oct29-poll-oct9"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "eurusd-11186-minus06pct-oct8"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "nokia-909-minus478-oct8-verified"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "wrt1v-2909-minus156-oct8-verified"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "nvda-23048-minus294-openai-oct8-verified"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "tsla-37500-minus074-oct8-verified"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "omxh25-634466-minus096-oct8-verified"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "omxs30-3202-minus076-oct8-unverified"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "sp500-7771-minus04-nasdaq-minus12-oct8"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "brent-above-105-oct8"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "sensofusion-ipo-oct13-nasdaq-helsinki"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "trexbio-trxb-ipo-oct9-nasdaq"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "uber-ezcater-23b-oct7"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "crescent-devon-eagle-ford-42b-oct7"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "viatris-pacira-165b-oct7"
+        },
+        {
+            "d": "2026-10-09",
+            "s": "sentiment-riskoff-oil-105-hormuz-oct9"
         }
     ],
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-10-09"
 }
