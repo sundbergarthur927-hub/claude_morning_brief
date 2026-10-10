@@ -1,1033 +1,270 @@
 {
     "stories": [
-        {
-            "d": "2026-09-25",
-            "s": "trump-xi-no-breakthroughs-sep25"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "nokia-stoxx50-unwind-sep25"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "10y-515-2007-high-sep24"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "venezuela-unga-sep24"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "iran-rial-freefall-sep24"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "openai-australia-health-sep25"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "nokia-907-sep24-verified"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "wrt1v-2877-sep24-verified"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "nvda-22458-sep24-verified"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "tsla-37794-sep24-verified"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "omxh25-651778-sep24-verified"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "adaxr-ipo-sep25"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "oura-ipo-sep30"
-        },
-        {
-            "d": "2026-09-25",
-            "s": "sentiment-riskoff-10y515-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "iran-hormuz-7day-trump-rejected-sep26"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "bond-10y-517-bund-36-weekly7-sep26"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "unga-iran-hormuz-proposal-sep26"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "fx-eurusd-11389-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "nokia-913-sep25-verified"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "wrt1v-2912-db-pt29-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "nvda-22507-sep25-verified"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "tsla-37211-sep25-verified"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "sp500-77434-nasdaq-27069-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "nikkei-66364-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "mgm-18b-takeprivate-withdrawn-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "elclasico-real-barca-1-1-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "bundesliga-bayern-3-2-dortmund-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "premierleague-manutd-2-1-chelsea-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "lavercup-london-sep25"
-        },
-        {
-            "d": "2026-09-26",
-            "s": "sentiment-riskon-friday-rally-sep26"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "iran-hormuz-5day-ultimatum-sep27"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "pope-france-ai-warning-sep27"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "switzerland-neutrality-vote-sep27"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "trump-ukraine-diesel-sep27"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "nokia-jefferies-buy-sep24"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "wrt1v-tges-ai-datacenter-sep21"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "nvda-cheapest-decade-sep24"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "tsla-robotaxi-fsd-selloff-sep25"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "omxh25-652177-sep25-verified"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "nordea-1793-sep25"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "sampo-noba-reduction-sep23"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "oura-ipo-priced-sep28-nasdaq"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "accelevation-accv-ipo-sep28"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "f1-baku-russell-win-sep27"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "fx-levels-eurusd-11389-sep25"
-        },
-        {
-            "d": "2026-09-27",
-            "s": "sentiment-riskoff-iran-5day-sep27"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "iran-hormuz-trump-formal-rejection-sep28"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "uk-raf-fairford-terror-5arrested-sep27"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "nokia-913-sep25-yahoo-sep28"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "wrt1v-unverified-sep28"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "nvda-22507-sep25-yahoo-sep28"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "tsla-37211-sep25-yahoo-sep28"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "omxh25-652177-sep25-yahoo-sep28"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "oura-ipo-firsttrading-sep30"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "us10y-5184-sep28"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "sp500-futures-pos048-sep28"
-        },
-        {
-            "d": "2026-09-28",
-            "s": "sentiment-cautious-riskon-sep28"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "iran-qatar-mediators-sep29"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "russia-kyiv-ballistic-sep29"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "nokia-883-sep28-yahoo"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "wrt1v-2836-sep28-yahoo"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "nvda-22886-sep28-yahoo"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "tsla-358-sep28-search"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "sp500-76837-nasdaq-26820-sep28"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "omxh25-649431-sep28-yahoo"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "us10y-524-2007high-sep28"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "nokia-moca-incoax-halt-sep28"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "robotechnik-hkex-ipo-sep29"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "fertitta-caesars-176b-takeprivate"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "lakers-jeanie-buss-legal-125b"
-        },
-        {
-            "d": "2026-09-29",
-            "s": "sentiment-riskoff-10y524-sep29"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "iran-hormuz-escalation-risk-sep30"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "oura-ipo-postponed-sep30"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "us10y-multiyear-high-sep29"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "iraq-weapons-deadline-extended-sep30"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "libya-pipeline-forcemajeure-sep30"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "uae-bengvir-temple-mount-sep30"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "canada-stelco-tariffs-sep30"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "nokia-916-sep29-close"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "wrt1v-2843-sep29-close"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "nvda-22721-sep29-close"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "tsla-35284-sep29-close"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "omxh25-646129-sep29-close"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "sp500-767084-nasdaq-267975-sep29"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "neste-3420-minus452-sep29"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "nordea-1802-plus084-sep29"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "deutsche-telekom-fiberhost-eur1bn"
-        },
-        {
-            "d": "2026-09-30",
-            "s": "sentiment-riskoff-10y-yields-sep30"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "us-pce-soft-sep30-fed-oct28-hike"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "nokia-902-sep30-close"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "wrt1v-2812-sep30-close"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "wrt1v-q2-record-2b8-oct27"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "nvda-22838-sep30-close"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "tsla-35481-sep30-close"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "tsla-q3-delivery-oct2"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "sp500-worst-sep-since-jun"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "omxh25-642590-sep30-close"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "hormel-brakebush-1b055-oct2026"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "ma-2026-ytd-38t-record-pace"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "fx-eurusd-11339-sep30"
-        },
-        {
-            "d": "2026-10-01",
-            "s": "sentiment-riskon-pce-soft-oct1"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "iran-irgc-uuv-rubio-expelled-oct2"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "raf-fairford-iran-burnham-strong-indications-oct2"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "nfp-scheduled-1530hki-oct2"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "nokia-919-plus188-oct1-close"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "wrt1v-2815-australia-46ts-oct1-close"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "nvda-23086-amazon-8b-buyback-150b-oct1"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "tsla-35481-flat-q3-pending-oct1-close"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "sp500-76664-nasdaq-26872-oct1"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "nikkei-68956-plus33pct-oct1"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "dax-25059-oct1"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "omxh25-637658-minus077-oct1-close"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "nordea-minus278-oct1"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "fresenius-mabxience-750m-oct1"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "rexel-gcg-14b-oct2026"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "fx-eurusd-11296-minus038-oct2"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "asian-games-india-hockey-final-oct2"
-        },
-        {
-            "d": "2026-10-02",
-            "s": "sentiment-cautious-riskon-nfp-hormuz-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "iran-irgc-uuv-rubio-expelled-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "nfp-sep-29k-miss-oct28-hike-dead"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "tsla-q3-486532-beat-461k-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "ukraine-cic-drapatyi-replaces-syrskyi"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "trump-diesel-ukraine-blame"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "nokia-9408-17yr-high-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "wrt1v-2935-plus426-oct2-verified"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "nvda-23395-plus134-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "tsla-37059-plus465-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "sp500-7723-plus073-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "omxh25-637658-oct1-unverified"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "eurusd-11225-ecb-minus063-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "mattel-authentic-brands-6b-approach"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "caretrust-lnt-45homes-11b"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "generali-bcc-stake-150m"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "sentiment-riskon-nfp-miss-hormuz-oct3"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "iran-two-ships-seized-hormuz-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "brazil-election-firstround-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "imf-worldbank-annual-meetings-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "nokia-iceye-leo-satellite-oct3"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "nokia-941-oct2-close-oct4brief"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "wrt1v-unverified-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "omxh25-641621-oct2-close-oct4brief"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "nokia-nvda-110ytd-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "sentiment-riskoff-iran-oct4"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "iran-hormuz-7tankers-5days-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "russia-kyiv-bridges-kaliningrad-nuclear-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "northkorea-irbm-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "taiwan-930m-sea-drones-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "netherlands-eu-gas-storage-scrap-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "g7-diesel-reserves-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "imf-weo-oct5-growth-30"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "fx-eurusd-11258-oct4"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "nokia-941-oct2-yahoo-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "wrt1v-2935-oct2-yahoo-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "nvda-23395-oct2-yahoo-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "tsla-37059-oct2-yahoo-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "sp500-7729-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "nasdaq-27191-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "omxh25-641621-oct2-unverified-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "nordea-record-1801-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "volvo-trucks-tel-400vnl-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "volvo-ce-rokbak-winddown-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "paramount-wbd-skydance-110b"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "select-water-pilot-700m-oct5"
-        },
-        {
-            "d": "2026-10-05",
-            "s": "sentiment-riskoff-iran-northkorea-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "iran-hormuz-day2-iraq-lng-oct6"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "paramount-wbd-close-oct6"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "turkey-pakistan-saudi-houthis-mocha-oct6"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "egypt-ethiopia-diplomat-nile-oct6"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "fed-4pct-oct28-hike-25pct-probability-oct6"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "ecb-265pct-oct29-meeting-oct6"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "eurusd-11204-minus048-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "nokia-917-minus255-oct5-close"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "wrt1v-gs-nordea-upgrade-buy-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "wrt1v-valo-bess-schneider-oct6"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "nvda-unverified-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "tsla-unverified-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "omxh25-639527-minus033-oct5-close"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "skyworks-qorvo-22b-merge-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "lowes-options-oct16-puts-oct6"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "schneider-ptc-2370b-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "chrobinson-rxo-58b-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "kkr-gen2-51b-oct5"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "f1-bahrain-verstappen-antonelli-oct4"
-        },
-        {
-            "d": "2026-10-06",
-            "s": "sentiment-riskoff-hormuz-eur-nokia-oct6"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "iran-ghalibaf-7conditions-islamabad-oct7"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "oct7-anniversary-hamas-gaza-year4"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "houthi-babalandab-offensive-oct6"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "rbi-india-71pct-gdp-fy27-oct7"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "fomc-minutes-sep16-released-oct7"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "us10y-527-5334-intraday-2002high-oct6"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "eurusd-11252-minus006-oct7"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "nokia-unverified-nok-plus603-oct6"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "wrt1v-unverified-oct7"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "nvda-23924-plus014-oct6-verified"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "tsla-38068-plus051-oct6-verified"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "sp500-7819-plus058-oct6"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "omxh25-646140-plus103-oct6-verified"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "spacex-40b-nvda-chips"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "tsla-q3-earnings-oct21"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "nordea-sampo-target-1090"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "informa-clarion-224b"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "mckesson-cdr-optioncare-5b"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "bpce-sabadell-7pct-stake"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "chinaopen-tennis-qf-oct6"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "sentiment-cautious-riskon-fomc-hormuz-oct7"
-        },
-        {
-            "d": "2026-10-07",
-            "s": "levi-q3-earnings-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "iran-hormuz-pentagon-centcom-combat-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "oct7-anniversary-pm-warning-investigation"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "germany-bnd-chief-arrested-state-secrets"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "us-raf-fairford-bombers-removed-iran"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "hormuz-tanker-qatar-hit-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "ukraine-russia-kyiv-targets-shift"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "us10y-532-oct7-2002high"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "pepsi-progressive-q3-oct8"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "fx-eurusd-11252-flat-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "nokia-954-minus060-oct7-verified"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "nokia-253-jobcuts-finland-oct8"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "nokia-brazil-network-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "wrt1v-unverified-oct8"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "nvda-unverified-oct8"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "tsla-unverified-oct8"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "sp500-780177-minus022-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "nikkei-70035-minus092-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "omxh25-640624-minus085-oct7-verified"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "nordea-q3-earnings-oct15"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "crh-ncc-denmark-finland-ops"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "opch-58b-mckesson-cdr-plus34-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "nscale-nyse-ipo-2b-oct8"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "emera-canadian-utilities-143b-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "energy-transfer-vaquero-262b-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "tdsynnex-bluestar-oct7"
-        },
-        {
-            "d": "2026-10-08",
-            "s": "sentiment-riskoff-pentagon-centcom-oct8"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "iran-trump-no-strikes-midterms-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "irgc-complete-control-hormuz-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "iran-tankers-outside-strait-gulf-oman-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "nobel-peace-prize-2026-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "russia-overnight-kyiv-drones-bombs-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "southkorea-hypersonic-test-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "russia-siberia-plague-denial-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "us10y-523-pullback-30yr-auction-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "fed-dec-hike-86pct-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "ecb-hold-oct29-poll-oct9"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "eurusd-11186-minus06pct-oct8"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "nokia-909-minus478-oct8-verified"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "wrt1v-2909-minus156-oct8-verified"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "nvda-23048-minus294-openai-oct8-verified"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "tsla-37500-minus074-oct8-verified"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "omxh25-634466-minus096-oct8-verified"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "omxs30-3202-minus076-oct8-unverified"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "sp500-7771-minus04-nasdaq-minus12-oct8"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "brent-above-105-oct8"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "sensofusion-ipo-oct13-nasdaq-helsinki"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "trexbio-trxb-ipo-oct9-nasdaq"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "uber-ezcater-23b-oct7"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "crescent-devon-eagle-ford-42b-oct7"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "viatris-pacira-165b-oct7"
-        },
-        {
-            "d": "2026-10-09",
-            "s": "sentiment-riskoff-oil-105-hormuz-oct9"
-        }
+        {"d":"2026-09-26","s":"iran-hormuz-7day-trump-rejected-sep26"},
+        {"d":"2026-09-26","s":"bond-10y-517-bund-36-weekly7-sep26"},
+        {"d":"2026-09-26","s":"unga-iran-hormuz-proposal-sep26"},
+        {"d":"2026-09-26","s":"fx-eurusd-11389-sep25"},
+        {"d":"2026-09-26","s":"nokia-913-sep25-verified"},
+        {"d":"2026-09-26","s":"wrt1v-2912-db-pt29-sep25"},
+        {"d":"2026-09-26","s":"nvda-22507-sep25-verified"},
+        {"d":"2026-09-26","s":"tsla-37211-sep25-verified"},
+        {"d":"2026-09-26","s":"sp500-77434-nasdaq-27069-sep25"},
+        {"d":"2026-09-26","s":"nikkei-66364-sep25"},
+        {"d":"2026-09-26","s":"mgm-18b-takeprivate-withdrawn-sep25"},
+        {"d":"2026-09-26","s":"elclasico-real-barca-1-1-sep25"},
+        {"d":"2026-09-26","s":"bundesliga-bayern-3-2-dortmund-sep25"},
+        {"d":"2026-09-26","s":"premierleague-manutd-2-1-chelsea-sep25"},
+        {"d":"2026-09-26","s":"lavercup-london-sep25"},
+        {"d":"2026-09-26","s":"sentiment-riskon-friday-rally-sep26"},
+        {"d":"2026-09-27","s":"iran-hormuz-5day-ultimatum-sep27"},
+        {"d":"2026-09-27","s":"pope-france-ai-warning-sep27"},
+        {"d":"2026-09-27","s":"switzerland-neutrality-vote-sep27"},
+        {"d":"2026-09-27","s":"trump-ukraine-diesel-sep27"},
+        {"d":"2026-09-27","s":"nokia-jefferies-buy-sep24"},
+        {"d":"2026-09-27","s":"wrt1v-tges-ai-datacenter-sep21"},
+        {"d":"2026-09-27","s":"nvda-cheapest-decade-sep24"},
+        {"d":"2026-09-27","s":"tsla-robotaxi-fsd-selloff-sep25"},
+        {"d":"2026-09-27","s":"omxh25-652177-sep25-verified"},
+        {"d":"2026-09-27","s":"nordea-1793-sep25"},
+        {"d":"2026-09-27","s":"sampo-noba-reduction-sep23"},
+        {"d":"2026-09-27","s":"oura-ipo-priced-sep28-nasdaq"},
+        {"d":"2026-09-27","s":"accelevation-accv-ipo-sep28"},
+        {"d":"2026-09-27","s":"f1-baku-russell-win-sep27"},
+        {"d":"2026-09-27","s":"fx-levels-eurusd-11389-sep25"},
+        {"d":"2026-09-27","s":"sentiment-riskoff-iran-5day-sep27"},
+        {"d":"2026-09-28","s":"iran-hormuz-trump-formal-rejection-sep28"},
+        {"d":"2026-09-28","s":"uk-raf-fairford-terror-5arrested-sep27"},
+        {"d":"2026-09-28","s":"nokia-913-sep25-yahoo-sep28"},
+        {"d":"2026-09-28","s":"wrt1v-unverified-sep28"},
+        {"d":"2026-09-28","s":"nvda-22507-sep25-yahoo-sep28"},
+        {"d":"2026-09-28","s":"tsla-37211-sep25-yahoo-sep28"},
+        {"d":"2026-09-28","s":"omxh25-652177-sep25-yahoo-sep28"},
+        {"d":"2026-09-28","s":"oura-ipo-firsttrading-sep30"},
+        {"d":"2026-09-28","s":"us10y-5184-sep28"},
+        {"d":"2026-09-28","s":"sp500-futures-pos048-sep28"},
+        {"d":"2026-09-28","s":"sentiment-cautious-riskon-sep28"},
+        {"d":"2026-09-29","s":"iran-qatar-mediators-sep29"},
+        {"d":"2026-09-29","s":"russia-kyiv-ballistic-sep29"},
+        {"d":"2026-09-29","s":"nokia-883-sep28-yahoo"},
+        {"d":"2026-09-29","s":"wrt1v-2836-sep28-yahoo"},
+        {"d":"2026-09-29","s":"nvda-22886-sep28-yahoo"},
+        {"d":"2026-09-29","s":"tsla-358-sep28-search"},
+        {"d":"2026-09-29","s":"sp500-76837-nasdaq-26820-sep28"},
+        {"d":"2026-09-29","s":"omxh25-649431-sep28-yahoo"},
+        {"d":"2026-09-29","s":"us10y-524-2007high-sep28"},
+        {"d":"2026-09-29","s":"nokia-moca-incoax-halt-sep28"},
+        {"d":"2026-09-29","s":"robotechnik-hkex-ipo-sep29"},
+        {"d":"2026-09-29","s":"fertitta-caesars-176b-takeprivate"},
+        {"d":"2026-09-29","s":"lakers-jeanie-buss-legal-125b"},
+        {"d":"2026-09-29","s":"sentiment-riskoff-10y524-sep29"},
+        {"d":"2026-09-30","s":"iran-hormuz-escalation-risk-sep30"},
+        {"d":"2026-09-30","s":"oura-ipo-postponed-sep30"},
+        {"d":"2026-09-30","s":"us10y-multiyear-high-sep29"},
+        {"d":"2026-09-30","s":"iraq-weapons-deadline-extended-sep30"},
+        {"d":"2026-09-30","s":"libya-pipeline-forcemajeure-sep30"},
+        {"d":"2026-09-30","s":"uae-bengvir-temple-mount-sep30"},
+        {"d":"2026-09-30","s":"canada-stelco-tariffs-sep30"},
+        {"d":"2026-09-30","s":"nokia-916-sep29-close"},
+        {"d":"2026-09-30","s":"wrt1v-2843-sep29-close"},
+        {"d":"2026-09-30","s":"nvda-22721-sep29-close"},
+        {"d":"2026-09-30","s":"tsla-35284-sep29-close"},
+        {"d":"2026-09-30","s":"omxh25-646129-sep29-close"},
+        {"d":"2026-09-30","s":"sp500-767084-nasdaq-267975-sep29"},
+        {"d":"2026-09-30","s":"neste-3420-minus452-sep29"},
+        {"d":"2026-09-30","s":"nordea-1802-plus084-sep29"},
+        {"d":"2026-09-30","s":"deutsche-telekom-fiberhost-eur1bn"},
+        {"d":"2026-09-30","s":"sentiment-riskoff-10y-yields-sep30"},
+        {"d":"2026-10-01","s":"us-pce-soft-sep30-fed-oct28-hike"},
+        {"d":"2026-10-01","s":"nokia-902-sep30-close"},
+        {"d":"2026-10-01","s":"wrt1v-2812-sep30-close"},
+        {"d":"2026-10-01","s":"wrt1v-q2-record-2b8-oct27"},
+        {"d":"2026-10-01","s":"nvda-22838-sep30-close"},
+        {"d":"2026-10-01","s":"tsla-35481-sep30-close"},
+        {"d":"2026-10-01","s":"tsla-q3-delivery-oct2"},
+        {"d":"2026-10-01","s":"sp500-worst-sep-since-jun"},
+        {"d":"2026-10-01","s":"omxh25-642590-sep30-close"},
+        {"d":"2026-10-01","s":"hormel-brakebush-1b055-oct2026"},
+        {"d":"2026-10-01","s":"ma-2026-ytd-38t-record-pace"},
+        {"d":"2026-10-01","s":"fx-eurusd-11339-sep30"},
+        {"d":"2026-10-01","s":"sentiment-riskon-pce-soft-oct1"},
+        {"d":"2026-10-02","s":"iran-irgc-uuv-rubio-expelled-oct2"},
+        {"d":"2026-10-02","s":"raf-fairford-iran-burnham-strong-indications-oct2"},
+        {"d":"2026-10-02","s":"nfp-scheduled-1530hki-oct2"},
+        {"d":"2026-10-02","s":"nokia-919-plus188-oct1-close"},
+        {"d":"2026-10-02","s":"wrt1v-2815-australia-46ts-oct1-close"},
+        {"d":"2026-10-02","s":"nvda-23086-amazon-8b-buyback-150b-oct1"},
+        {"d":"2026-10-02","s":"tsla-35481-flat-q3-pending-oct1-close"},
+        {"d":"2026-10-02","s":"sp500-76664-nasdaq-26872-oct1"},
+        {"d":"2026-10-02","s":"nikkei-68956-plus33pct-oct1"},
+        {"d":"2026-10-02","s":"dax-25059-oct1"},
+        {"d":"2026-10-02","s":"omxh25-637658-minus077-oct1-close"},
+        {"d":"2026-10-02","s":"nordea-minus278-oct1"},
+        {"d":"2026-10-02","s":"fresenius-mabxience-750m-oct1"},
+        {"d":"2026-10-02","s":"rexel-gcg-14b-oct2026"},
+        {"d":"2026-10-02","s":"fx-eurusd-11296-minus038-oct2"},
+        {"d":"2026-10-02","s":"asian-games-india-hockey-final-oct2"},
+        {"d":"2026-10-02","s":"sentiment-cautious-riskon-nfp-hormuz-oct2"},
+        {"d":"2026-10-03","s":"iran-irgc-uuv-rubio-expelled-oct2"},
+        {"d":"2026-10-03","s":"nfp-sep-29k-miss-oct28-hike-dead"},
+        {"d":"2026-10-03","s":"tsla-q3-486532-beat-461k-oct2"},
+        {"d":"2026-10-03","s":"ukraine-cic-drapatyi-replaces-syrskyi"},
+        {"d":"2026-10-03","s":"trump-diesel-ukraine-blame"},
+        {"d":"2026-10-03","s":"nokia-9408-17yr-high-oct2"},
+        {"d":"2026-10-03","s":"wrt1v-2935-plus426-oct2-verified"},
+        {"d":"2026-10-03","s":"nvda-23395-plus134-oct2"},
+        {"d":"2026-10-03","s":"tsla-37059-plus465-oct2"},
+        {"d":"2026-10-03","s":"sp500-7723-plus073-oct2"},
+        {"d":"2026-10-03","s":"omxh25-637658-oct1-unverified"},
+        {"d":"2026-10-03","s":"eurusd-11225-ecb-minus063-oct2"},
+        {"d":"2026-10-03","s":"mattel-authentic-brands-6b-approach"},
+        {"d":"2026-10-03","s":"caretrust-lnt-45homes-11b"},
+        {"d":"2026-10-03","s":"generali-bcc-stake-150m"},
+        {"d":"2026-10-03","s":"sentiment-riskon-nfp-miss-hormuz-oct3"},
+        {"d":"2026-10-04","s":"iran-two-ships-seized-hormuz-oct4"},
+        {"d":"2026-10-04","s":"brazil-election-firstround-oct4"},
+        {"d":"2026-10-04","s":"imf-worldbank-annual-meetings-oct4"},
+        {"d":"2026-10-04","s":"nokia-iceye-leo-satellite-oct3"},
+        {"d":"2026-10-04","s":"nokia-941-oct2-close-oct4brief"},
+        {"d":"2026-10-04","s":"wrt1v-unverified-oct4"},
+        {"d":"2026-10-04","s":"omxh25-641621-oct2-close-oct4brief"},
+        {"d":"2026-10-04","s":"nokia-nvda-110ytd-oct4"},
+        {"d":"2026-10-04","s":"sentiment-riskoff-iran-oct4"},
+        {"d":"2026-10-05","s":"iran-hormuz-7tankers-5days-oct5"},
+        {"d":"2026-10-05","s":"russia-kyiv-bridges-kaliningrad-nuclear-oct5"},
+        {"d":"2026-10-05","s":"northkorea-irbm-oct5"},
+        {"d":"2026-10-05","s":"taiwan-930m-sea-drones-oct5"},
+        {"d":"2026-10-05","s":"netherlands-eu-gas-storage-scrap-oct5"},
+        {"d":"2026-10-05","s":"g7-diesel-reserves-oct5"},
+        {"d":"2026-10-05","s":"imf-weo-oct5-growth-30"},
+        {"d":"2026-10-05","s":"fx-eurusd-11258-oct4"},
+        {"d":"2026-10-05","s":"nokia-941-oct2-yahoo-oct5"},
+        {"d":"2026-10-05","s":"wrt1v-2935-oct2-yahoo-oct5"},
+        {"d":"2026-10-05","s":"nvda-23395-oct2-yahoo-oct5"},
+        {"d":"2026-10-05","s":"tsla-37059-oct2-yahoo-oct5"},
+        {"d":"2026-10-05","s":"sp500-7729-oct5"},
+        {"d":"2026-10-05","s":"nasdaq-27191-oct5"},
+        {"d":"2026-10-05","s":"omxh25-641621-oct2-unverified-oct5"},
+        {"d":"2026-10-05","s":"nordea-record-1801-oct5"},
+        {"d":"2026-10-05","s":"volvo-trucks-tel-400vnl-oct5"},
+        {"d":"2026-10-05","s":"volvo-ce-rokbak-winddown-oct5"},
+        {"d":"2026-10-05","s":"paramount-wbd-skydance-110b"},
+        {"d":"2026-10-05","s":"select-water-pilot-700m-oct5"},
+        {"d":"2026-10-05","s":"sentiment-riskoff-iran-northkorea-oct5"},
+        {"d":"2026-10-06","s":"iran-hormuz-day2-iraq-lng-oct6"},
+        {"d":"2026-10-06","s":"paramount-wbd-close-oct6"},
+        {"d":"2026-10-06","s":"turkey-pakistan-saudi-houthis-mocha-oct6"},
+        {"d":"2026-10-06","s":"egypt-ethiopia-diplomat-nile-oct6"},
+        {"d":"2026-10-06","s":"fed-4pct-oct28-hike-25pct-probability-oct6"},
+        {"d":"2026-10-06","s":"ecb-265pct-oct29-meeting-oct6"},
+        {"d":"2026-10-06","s":"eurusd-11204-minus048-oct5"},
+        {"d":"2026-10-06","s":"nokia-917-minus255-oct5-close"},
+        {"d":"2026-10-06","s":"wrt1v-gs-nordea-upgrade-buy-oct5"},
+        {"d":"2026-10-06","s":"wrt1v-valo-bess-schneider-oct6"},
+        {"d":"2026-10-06","s":"nvda-unverified-oct5"},
+        {"d":"2026-10-06","s":"tsla-unverified-oct5"},
+        {"d":"2026-10-06","s":"omxh25-639527-minus033-oct5-close"},
+        {"d":"2026-10-06","s":"skyworks-qorvo-22b-merge-oct5"},
+        {"d":"2026-10-06","s":"lowes-options-oct16-puts-oct6"},
+        {"d":"2026-10-06","s":"schneider-ptc-2370b-oct5"},
+        {"d":"2026-10-06","s":"chrobinson-rxo-58b-oct5"},
+        {"d":"2026-10-06","s":"kkr-gen2-51b-oct5"},
+        {"d":"2026-10-06","s":"f1-bahrain-verstappen-antonelli-oct4"},
+        {"d":"2026-10-06","s":"sentiment-riskoff-hormuz-eur-nokia-oct6"},
+        {"d":"2026-10-07","s":"iran-ghalibaf-7conditions-islamabad-oct7"},
+        {"d":"2026-10-07","s":"oct7-anniversary-hamas-gaza-year4"},
+        {"d":"2026-10-07","s":"houthi-babalandab-offensive-oct6"},
+        {"d":"2026-10-07","s":"rbi-india-71pct-gdp-fy27-oct7"},
+        {"d":"2026-10-07","s":"fomc-minutes-sep16-released-oct7"},
+        {"d":"2026-10-07","s":"us10y-527-5334-intraday-2002high-oct6"},
+        {"d":"2026-10-07","s":"eurusd-11252-minus006-oct7"},
+        {"d":"2026-10-07","s":"nokia-unverified-nok-plus603-oct6"},
+        {"d":"2026-10-07","s":"wrt1v-unverified-oct7"},
+        {"d":"2026-10-07","s":"nvda-23924-plus014-oct6-verified"},
+        {"d":"2026-10-07","s":"tsla-38068-plus051-oct6-verified"},
+        {"d":"2026-10-07","s":"sp500-7819-plus058-oct6"},
+        {"d":"2026-10-07","s":"omxh25-646140-plus103-oct6-verified"},
+        {"d":"2026-10-07","s":"spacex-40b-nvda-chips"},
+        {"d":"2026-10-07","s":"tsla-q3-earnings-oct21"},
+        {"d":"2026-10-07","s":"nordea-sampo-target-1090"},
+        {"d":"2026-10-07","s":"informa-clarion-224b"},
+        {"d":"2026-10-07","s":"mckesson-cdr-optioncare-5b"},
+        {"d":"2026-10-07","s":"bpce-sabadell-7pct-stake"},
+        {"d":"2026-10-07","s":"chinaopen-tennis-qf-oct6"},
+        {"d":"2026-10-07","s":"sentiment-cautious-riskon-fomc-hormuz-oct7"},
+        {"d":"2026-10-07","s":"levi-q3-earnings-oct7"},
+        {"d":"2026-10-08","s":"iran-hormuz-pentagon-centcom-combat-oct7"},
+        {"d":"2026-10-08","s":"oct7-anniversary-pm-warning-investigation"},
+        {"d":"2026-10-08","s":"germany-bnd-chief-arrested-state-secrets"},
+        {"d":"2026-10-08","s":"us-raf-fairford-bombers-removed-iran"},
+        {"d":"2026-10-08","s":"hormuz-tanker-qatar-hit-oct7"},
+        {"d":"2026-10-08","s":"ukraine-russia-kyiv-targets-shift"},
+        {"d":"2026-10-08","s":"us10y-532-oct7-2002high"},
+        {"d":"2026-10-08","s":"pepsi-progressive-q3-oct8"},
+        {"d":"2026-10-08","s":"fx-eurusd-11252-flat-oct7"},
+        {"d":"2026-10-08","s":"nokia-954-minus060-oct7-verified"},
+        {"d":"2026-10-08","s":"nokia-253-jobcuts-finland-oct8"},
+        {"d":"2026-10-08","s":"nokia-brazil-network-oct7"},
+        {"d":"2026-10-08","s":"wrt1v-unverified-oct8"},
+        {"d":"2026-10-08","s":"nvda-unverified-oct8"},
+        {"d":"2026-10-08","s":"tsla-unverified-oct8"},
+        {"d":"2026-10-08","s":"sp500-780177-minus022-oct7"},
+        {"d":"2026-10-08","s":"nikkei-70035-minus092-oct7"},
+        {"d":"2026-10-08","s":"omxh25-640624-minus085-oct7-verified"},
+        {"d":"2026-10-08","s":"nordea-q3-earnings-oct15"},
+        {"d":"2026-10-08","s":"crh-ncc-denmark-finland-ops"},
+        {"d":"2026-10-08","s":"opch-58b-mckesson-cdr-plus34-oct7"},
+        {"d":"2026-10-08","s":"nscale-nyse-ipo-2b-oct8"},
+        {"d":"2026-10-08","s":"emera-canadian-utilities-143b-oct7"},
+        {"d":"2026-10-08","s":"energy-transfer-vaquero-262b-oct7"},
+        {"d":"2026-10-08","s":"tdsynnex-bluestar-oct7"},
+        {"d":"2026-10-08","s":"sentiment-riskoff-pentagon-centcom-oct8"},
+        {"d":"2026-10-09","s":"iran-trump-no-strikes-midterms-oct9"},
+        {"d":"2026-10-09","s":"irgc-complete-control-hormuz-oct9"},
+        {"d":"2026-10-09","s":"iran-tankers-outside-strait-gulf-oman-oct9"},
+        {"d":"2026-10-09","s":"nobel-peace-prize-2026-oct9"},
+        {"d":"2026-10-09","s":"russia-overnight-kyiv-drones-bombs-oct9"},
+        {"d":"2026-10-09","s":"southkorea-hypersonic-test-oct9"},
+        {"d":"2026-10-09","s":"russia-siberia-plague-denial-oct9"},
+        {"d":"2026-10-09","s":"us10y-523-pullback-30yr-auction-oct9"},
+        {"d":"2026-10-09","s":"fed-dec-hike-86pct-oct9"},
+        {"d":"2026-10-09","s":"ecb-hold-oct29-poll-oct9"},
+        {"d":"2026-10-09","s":"eurusd-11186-minus06pct-oct8"},
+        {"d":"2026-10-09","s":"nokia-909-minus478-oct8-verified"},
+        {"d":"2026-10-09","s":"wrt1v-2909-minus156-oct8-verified"},
+        {"d":"2026-10-09","s":"nvda-23048-minus294-openai-oct8-verified"},
+        {"d":"2026-10-09","s":"tsla-37500-minus074-oct8-verified"},
+        {"d":"2026-10-09","s":"omxh25-634466-minus096-oct8-verified"},
+        {"d":"2026-10-09","s":"omxs30-3202-minus076-oct8-unverified"},
+        {"d":"2026-10-09","s":"sp500-7771-minus04-nasdaq-minus12-oct8"},
+        {"d":"2026-10-09","s":"brent-above-105-oct8"},
+        {"d":"2026-10-09","s":"sensofusion-ipo-oct13-nasdaq-helsinki"},
+        {"d":"2026-10-09","s":"trexbio-trxb-ipo-oct9-nasdaq"},
+        {"d":"2026-10-09","s":"uber-ezcater-23b-oct7"},
+        {"d":"2026-10-09","s":"crescent-devon-eagle-ford-42b-oct7"},
+        {"d":"2026-10-09","s":"viatris-pacira-165b-oct7"},
+        {"d":"2026-10-09","s":"sentiment-riskoff-oil-105-hormuz-oct9"},
+        {"d":"2026-10-10","s":"iran-nv-sunshine-lpg-wartime-high-oct9"},
+        {"d":"2026-10-10","s":"houthi-riyadh-airport-3killed-oct9"},
+        {"d":"2026-10-10","s":"eritrea-ethiopia-allout-invasion-oct10"},
+        {"d":"2026-10-10","s":"hurricane-simon-mexico-oct10"},
+        {"d":"2026-10-10","s":"russia-zaporizhzhia-strike-oct10"},
+        {"d":"2026-10-10","s":"nobel-navi-pillay-unconfirmed-oct10"},
+        {"d":"2026-10-10","s":"nokia-931-plus244-oct9-verified"},
+        {"d":"2026-10-10","s":"wrt1v-2936-plus093-oct9-verified"},
+        {"d":"2026-10-10","s":"nvda-22928-minus052-oct9-verified"},
+        {"d":"2026-10-10","s":"tsla-38270-plus205-oct9-verified"},
+        {"d":"2026-10-10","s":"omxh25-unverified-plus059-oct9"},
+        {"d":"2026-10-10","s":"sp500-781154-plus059-oct9"},
+        {"d":"2026-10-10","s":"nasdaq-2736617-plus064-oct9"},
+        {"d":"2026-10-10","s":"nordea-1683-minus041-oct9"},
+        {"d":"2026-10-10","s":"hexagon-rocscience-oct8"},
+        {"d":"2026-10-10","s":"grain-spacex-spectrum-oct8"},
+        {"d":"2026-10-10","s":"novartis-myricx-11b-oct9"},
+        {"d":"2026-10-10","s":"messi-21yr-career-end-oct10"},
+        {"d":"2026-10-10","s":"bitdeer-sec-leveraged-btc-etf-oct9"},
+        {"d":"2026-10-10","s":"anthropic-ipo-november"},
+        {"d":"2026-10-10","s":"eurusd-11231-oct9"},
+        {"d":"2026-10-10","s":"sentiment-riskon-earnings-oct10"}
     ],
-    "last_updated": "2026-10-09"
+    "last_updated": "2026-10-10"
 }
