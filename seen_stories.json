@@ -1,21 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-26","s":"iran-hormuz-7day-trump-rejected-sep26"},
-        {"d":"2026-09-26","s":"bond-10y-517-bund-36-weekly7-sep26"},
-        {"d":"2026-09-26","s":"unga-iran-hormuz-proposal-sep26"},
-        {"d":"2026-09-26","s":"fx-eurusd-11389-sep25"},
-        {"d":"2026-09-26","s":"nokia-913-sep25-verified"},
-        {"d":"2026-09-26","s":"wrt1v-2912-db-pt29-sep25"},
-        {"d":"2026-09-26","s":"nvda-22507-sep25-verified"},
-        {"d":"2026-09-26","s":"tsla-37211-sep25-verified"},
-        {"d":"2026-09-26","s":"sp500-77434-nasdaq-27069-sep25"},
-        {"d":"2026-09-26","s":"nikkei-66364-sep25"},
-        {"d":"2026-09-26","s":"mgm-18b-takeprivate-withdrawn-sep25"},
-        {"d":"2026-09-26","s":"elclasico-real-barca-1-1-sep25"},
-        {"d":"2026-09-26","s":"bundesliga-bayern-3-2-dortmund-sep25"},
-        {"d":"2026-09-26","s":"premierleague-manutd-2-1-chelsea-sep25"},
-        {"d":"2026-09-26","s":"lavercup-london-sep25"},
-        {"d":"2026-09-26","s":"sentiment-riskon-friday-rally-sep26"},
         {"d":"2026-09-27","s":"iran-hormuz-5day-ultimatum-sep27"},
         {"d":"2026-09-27","s":"pope-france-ai-warning-sep27"},
         {"d":"2026-09-27","s":"switzerland-neutrality-vote-sep27"},
@@ -264,7 +248,24 @@
         {"d":"2026-10-10","s":"bitdeer-sec-leveraged-btc-etf-oct9"},
         {"d":"2026-10-10","s":"anthropic-ipo-november"},
         {"d":"2026-10-10","s":"eurusd-11231-oct9"},
-        {"d":"2026-10-10","s":"sentiment-riskon-earnings-oct10"}
+        {"d":"2026-10-10","s":"sentiment-riskon-earnings-oct10"},
+        {"d":"2026-10-11","s":"iran-irgc-mine-supertanker-11ships-oct10"},
+        {"d":"2026-10-11","s":"houthi-riyadh-12killed-oct10"},
+        {"d":"2026-10-11","s":"nobel-pillay-confirmed-trump-rebuke-oct10"},
+        {"d":"2026-10-11","s":"hurricane-isaias-florida-oct10"},
+        {"d":"2026-10-11","s":"us-icc-sanctions-oct11"},
+        {"d":"2026-10-11","s":"spain-sanchez-29n-campaign-oct10"},
+        {"d":"2026-10-11","s":"russia-strikes-20dead-ukraine-oct10"},
+        {"d":"2026-10-11","s":"fx-eurusd-11206-ecb-ref-oct9"},
+        {"d":"2026-10-11","s":"nvda-reflection-ai-talks-oct10"},
+        {"d":"2026-10-11","s":"dow-5165495-plus083-oct9"},
+        {"d":"2026-10-11","s":"omxh25-637867-plus054-oct9-verified"},
+        {"d":"2026-10-11","s":"omxs30-325814-oct9"},
+        {"d":"2026-10-11","s":"ambarella-plus53-qualcomm-nxp-oct9"},
+        {"d":"2026-10-11","s":"iambic-therapeutics-ipo-nvda-backed-oct11"},
+        {"d":"2026-10-11","s":"biogen-raythera-1b-oct11"},
+        {"d":"2026-10-11","s":"qualcomm-ambarella-advisers-oct9"},
+        {"d":"2026-10-11","s":"sentiment-riskon-earnings-oct11"}
     ],
-    "last_updated": "2026-10-10"
+    "last_updated": "2026-10-11"
 }
