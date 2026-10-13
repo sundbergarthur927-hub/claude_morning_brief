@@ -1,16 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-28","s":"iran-hormuz-trump-formal-rejection-sep28"},
-        {"d":"2026-09-28","s":"uk-raf-fairford-terror-5arrested-sep27"},
-        {"d":"2026-09-28","s":"nokia-913-sep25-yahoo-sep28"},
-        {"d":"2026-09-28","s":"wrt1v-unverified-sep28"},
-        {"d":"2026-09-28","s":"nvda-22507-sep25-yahoo-sep28"},
-        {"d":"2026-09-28","s":"tsla-37211-sep25-yahoo-sep28"},
-        {"d":"2026-09-28","s":"omxh25-652177-sep25-yahoo-sep28"},
-        {"d":"2026-09-28","s":"oura-ipo-firsttrading-sep30"},
-        {"d":"2026-09-28","s":"us10y-5184-sep28"},
-        {"d":"2026-09-28","s":"sp500-futures-pos048-sep28"},
-        {"d":"2026-09-28","s":"sentiment-cautious-riskon-sep28"},
         {"d":"2026-09-29","s":"iran-qatar-mediators-sep29"},
         {"d":"2026-09-29","s":"russia-kyiv-ballistic-sep29"},
         {"d":"2026-09-29","s":"nokia-883-sep28-yahoo"},
@@ -270,7 +259,24 @@
         {"d":"2026-10-12","s":"eurusd-11204-flat-oct12"},
         {"d":"2026-10-12","s":"cty-ipo-oct16-oct12"},
         {"d":"2026-10-12","s":"rtsn-12pct-below-ipo-oct12"},
-        {"d":"2026-10-12","s":"sentiment-riskoff-oil-dollar-oct12"}
+        {"d":"2026-10-12","s":"sentiment-riskoff-oil-dollar-oct12"},
+        {"d":"2026-10-13","s":"iran-hormuz-3rd-tanker-shadow-fleet-oct12"},
+        {"d":"2026-10-13","s":"ukraine-ceasefire-kharkiv-unravel-oct12"},
+        {"d":"2026-10-13","s":"houthi-riyadh-mbs-trump-closed-oct12"},
+        {"d":"2026-10-13","s":"india-condemns-hormuz-indian-crew-oct12"},
+        {"d":"2026-10-13","s":"dollar-yields-retreat-from-2002-high-oct13"},
+        {"d":"2026-10-13","s":"nokia-901-minus322-oct12-verified"},
+        {"d":"2026-10-13","s":"wrt1v-2996-plus204-oct12-verified"},
+        {"d":"2026-10-13","s":"nvda-22632-minus129-oct12-verified"},
+        {"d":"2026-10-13","s":"tsla-37803-minus122-oct12-verified"},
+        {"d":"2026-10-13","s":"omxh25-640474-plus041-oct12-verified"},
+        {"d":"2026-10-13","s":"omxs30-unverified-oct13"},
+        {"d":"2026-10-13","s":"nordea-1686-q3-oct15-oct12"},
+        {"d":"2026-10-13","s":"sensofusion-first-trading-oct13"},
+        {"d":"2026-10-13","s":"amazon-decart-7b-oct12"},
+        {"d":"2026-10-13","s":"steris-xodus-21b-oct12"},
+        {"d":"2026-10-13","s":"ionq-elisity-13b-oct12"},
+        {"d":"2026-10-13","s":"sentiment-riskoff-hormuz-yields-oct13"}
     ],
-    "last_updated": "2026-10-12"
+    "last_updated": "2026-10-13"
 }
