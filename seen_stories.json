@@ -1,22 +1,5 @@
 {
     "stories": [
-        {"d":"2026-09-30","s":"iran-hormuz-escalation-risk-sep30"},
-        {"d":"2026-09-30","s":"oura-ipo-postponed-sep30"},
-        {"d":"2026-09-30","s":"us10y-multiyear-high-sep29"},
-        {"d":"2026-09-30","s":"iraq-weapons-deadline-extended-sep30"},
-        {"d":"2026-09-30","s":"libya-pipeline-forcemajeure-sep30"},
-        {"d":"2026-09-30","s":"uae-bengvir-temple-mount-sep30"},
-        {"d":"2026-09-30","s":"canada-stelco-tariffs-sep30"},
-        {"d":"2026-09-30","s":"nokia-916-sep29-close"},
-        {"d":"2026-09-30","s":"wrt1v-2843-sep29-close"},
-        {"d":"2026-09-30","s":"nvda-22721-sep29-close"},
-        {"d":"2026-09-30","s":"tsla-35284-sep29-close"},
-        {"d":"2026-09-30","s":"omxh25-646129-sep29-close"},
-        {"d":"2026-09-30","s":"sp500-767084-nasdaq-267975-sep29"},
-        {"d":"2026-09-30","s":"neste-3420-minus452-sep29"},
-        {"d":"2026-09-30","s":"nordea-1802-plus084-sep29"},
-        {"d":"2026-09-30","s":"deutsche-telekom-fiberhost-eur1bn"},
-        {"d":"2026-09-30","s":"sentiment-riskoff-10y-yields-sep30"},
         {"d":"2026-10-01","s":"us-pce-soft-sep30-fed-oct28-hike"},
         {"d":"2026-10-01","s":"nokia-902-sep30-close"},
         {"d":"2026-10-01","s":"wrt1v-2812-sep30-close"},
@@ -286,7 +269,17 @@
         {"d":"2026-10-14","s":"sentiment-riskon-williams-cpi-oct14"},
         {"d":"2026-10-14","s":"france-student-protests-oct14"},
         {"d":"2026-10-14","s":"trump-russia-china-iran-oct14"},
-        {"d":"2026-10-14","s":"bulgaria-russia-ambassador-oct13"}
+        {"d":"2026-10-14","s":"bulgaria-russia-ambassador-oct13"},
+        {"d":"2026-10-15","s":"us-cpi-sep-3pt7-oct14-actual"},
+        {"d":"2026-10-15","s":"nordea-q3-1518mn-miss-oct15"},
+        {"d":"2026-10-15","s":"nokia-869-minus048-oct14-verified"},
+        {"d":"2026-10-15","s":"wrt1v-2952-minus091-oct14-verified"},
+        {"d":"2026-10-15","s":"nvda-22130-minus316-oct14"},
+        {"d":"2026-10-15","s":"tsla-36716-minus215-oct14"},
+        {"d":"2026-10-15","s":"omxh25-641156-plus015-oct14-verified"},
+        {"d":"2026-10-15","s":"sp500-771894-minus108-nasdaq-minus188-oct14"},
+        {"d":"2026-10-15","s":"fx-eurusd-11123-approx-oct14"},
+        {"d":"2026-10-15","s":"sentiment-riskoff-cpi-hot-oct15"}
     ],
-    "last_updated": "2026-10-14"
+    "last_updated": "2026-10-15"
 }
