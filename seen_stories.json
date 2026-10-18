@@ -1,70 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-03",
-            "s": "iran-irgc-uuv-rubio-expelled-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "nfp-sep-29k-miss-oct28-hike-dead"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "tsla-q3-486532-beat-461k-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "ukraine-cic-drapatyi-replaces-syrskyi"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "trump-diesel-ukraine-blame"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "nokia-9408-17yr-high-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "wrt1v-2935-plus426-oct2-verified"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "nvda-23395-plus134-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "tsla-37059-plus465-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "sp500-7723-plus073-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "omxh25-637658-oct1-unverified"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "eurusd-11225-ecb-minus063-oct2"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "mattel-authentic-brands-6b-approach"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "caretrust-lnt-45homes-11b"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "generali-bcc-stake-150m"
-        },
-        {
-            "d": "2026-10-03",
-            "s": "sentiment-riskon-nfp-miss-hormuz-oct3"
-        },
-        {
             "d": "2026-10-04",
             "s": "iran-two-ships-seized-hormuz-oct4"
         },
@@ -1223,7 +1159,67 @@
         {
             "d": "2026-10-17",
             "s": "sentiment-riskoff-hormuz-brent110-oct17"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "iran-hormuz-2ndtanker-kpler-oct17"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "trump-pauses-russia-sanctions-oct17"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "nordea-buyback-pause-ecb-oct18"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "northkorea-ai-torpedo-oct18"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "pope-leo-discharged-oct18"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "france-mass-protests-oct18"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "eu-diplomats-settlers-wb-oct18"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "eu-summit-costa-splits-oct17"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "ecb-imfc-cpi38-sep-oct17"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "nvda-huang-berlin-allpass-oct17"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "nvda-china-chipshare-34pct-h1"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "proofpoint-varonis-63b-oct16"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "ccc-takeprivate-61b-gtcr-oct16"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "intuit-sequence-oct15"
+        },
+        {
+            "d": "2026-10-18",
+            "s": "sentiment-riskoff-hormuz-sanctions-oct18"
         }
     ],
-    "last_updated": "2026-10-17"
+    "last_updated": "2026-10-18"
 }
