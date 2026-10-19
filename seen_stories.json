@@ -1,42 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-04",
-            "s": "iran-two-ships-seized-hormuz-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "brazil-election-firstround-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "imf-worldbank-annual-meetings-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "nokia-iceye-leo-satellite-oct3"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "nokia-941-oct2-close-oct4brief"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "wrt1v-unverified-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "omxh25-641621-oct2-close-oct4brief"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "nokia-nvda-110ytd-oct4"
-        },
-        {
-            "d": "2026-10-04",
-            "s": "sentiment-riskoff-iran-oct4"
-        },
-        {
             "d": "2026-10-05",
             "s": "iran-hormuz-7tankers-5days-oct5"
         },
@@ -1219,7 +1183,91 @@
         {
             "d": "2026-10-18",
             "s": "sentiment-riskoff-hormuz-sanctions-oct18"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "france-protests-1dead-1800arrested-oct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "iran-hormuz-araghchi-7conditions-oct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "trump-russia-iran-warning-oct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "ukraine-largest-drone-russia-oct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "india-nationals-saudi-houthi-oct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "fed-oct28-74pct-hold-oct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "ecb-oct29-hold-250-oct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "nokia-842-oct16-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "wrt1v-2950-oct16-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "nvda-21413-oct16-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "tsla-35472-oct16-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "sp500-76594-oct16-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "omxh25-unverified-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "omxs30-unverified-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "nordea-jefferies-buy-2060-oct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "tsla-q3-oct21-earnings-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "nokia-q3-oct22-earnings-briefoct19"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "pl-oct18-brighton5-arsenal1-manutd1leeds"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "laliga-oct18-barca5betis-realmadrid4sevilla"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "bundesliga-oct18-bayern6-leipzig1"
+        },
+        {
+            "d": "2026-10-19",
+            "s": "sentiment-riskoff-hormuz-france-oct19"
         }
     ],
-    "last_updated": "2026-10-18"
+    "last_updated": "2026-10-19"
 }
