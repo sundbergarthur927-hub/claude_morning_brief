@@ -1,26 +1,6 @@
 {
     "stories": [
-        {"d":"2026-10-06","s":"iran-hormuz-day2-iraq-lng-oct6"},
-        {"d":"2026-10-06","s":"paramount-wbd-close-oct6"},
-        {"d":"2026-10-06","s":"turkey-pakistan-saudi-houthis-mocha-oct6"},
-        {"d":"2026-10-06","s":"egypt-ethiopia-diplomat-nile-oct6"},
-        {"d":"2026-10-06","s":"fed-4pct-oct28-hike-25pct-probability-oct6"},
-        {"d":"2026-10-06","s":"ecb-265pct-oct29-meeting-oct6"},
-        {"d":"2026-10-06","s":"eurusd-11204-minus048-oct5"},
-        {"d":"2026-10-06","s":"nokia-917-minus255-oct5-close"},
-        {"d":"2026-10-06","s":"wrt1v-gs-nordea-upgrade-buy-oct5"},
-        {"d":"2026-10-06","s":"wrt1v-valo-bess-schneider-oct6"},
-        {"d":"2026-10-06","s":"nvda-unverified-oct5"},
-        {"d":"2026-10-06","s":"tsla-unverified-oct5"},
-        {"d":"2026-10-06","s":"omxh25-639527-minus033-oct5-close"},
-        {"d":"2026-10-06","s":"skyworks-qorvo-22b-merge-oct5"},
-        {"d":"2026-10-06","s":"lowes-options-oct16-puts-oct6"},
-        {"d":"2026-10-06","s":"schneider-ptc-2370b-oct5"},
-        {"d":"2026-10-06","s":"chrobinson-rxo-58b-oct5"},
-        {"d":"2026-10-06","s":"kkr-gen2-51b-oct5"},
-        {"d":"2026-10-06","s":"f1-bahrain-verstappen-antonelli-oct4"},
-        {"d":"2026-10-06","s":"sentiment-riskoff-hormuz-eur-nokia-oct6"},
-        {"d":"2026-10-07","s":"iran-ghalibaf-7conditions-islamabad-oct7"},
+{"d":"2026-10-07","s":"iran-ghalibaf-7conditions-islamabad-oct7"},
         {"d":"2026-10-07","s":"oct7-anniversary-hamas-gaza-year4"},
         {"d":"2026-10-07","s":"houthi-babalandab-offensive-oct6"},
         {"d":"2026-10-07","s":"rbi-india-71pct-gdp-fy27-oct7"},
@@ -318,7 +298,18 @@
         {"d":"2026-10-20","s":"jio-platforms-ipo-oct21-30x-oct20"},
         {"d":"2026-10-20","s":"anthropic-ipo-filing-friday-oct20"},
         {"d":"2026-10-20","s":"merck-kgaa-silence-therapeutics-oct19"},
-        {"d":"2026-10-20","s":"sentiment-riskon-earnings-curfew-oct20"}
+        {"d":"2026-10-20","s":"sentiment-riskon-earnings-curfew-oct20"},
+        {"d":"2026-10-21","s":"france-curfew-cooling-2513-arrested-oct21"},
+        {"d":"2026-10-21","s":"nokia-unverified-q3-oct22-briefoct21"},
+        {"d":"2026-10-21","s":"wrt1v-2779-minus283-oct20-verified"},
+        {"d":"2026-10-21","s":"nvda-21647-minus029-oct20-verified"},
+        {"d":"2026-10-21","s":"nvda-7yr-cheap-forward-pe-oct20"},
+        {"d":"2026-10-21","s":"tsla-37371-plus154-oct20-verified"},
+        {"d":"2026-10-21","s":"tsla-q3-earnings-tonight-consensus-oct21"},
+        {"d":"2026-10-21","s":"omxh25-625146-minus124-oct20-verified"},
+        {"d":"2026-10-21","s":"eurusd-11227-flat-oct21"},
+        {"d":"2026-10-21","s":"jio-platforms-ipo-listing-oct21"},
+        {"d":"2026-10-21","s":"sentiment-mixed-pretslaq3-oct21"}
     ],
-    "last_updated": "2026-10-20"
+    "last_updated": "2026-10-21"
 }
