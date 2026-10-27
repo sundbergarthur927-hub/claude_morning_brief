@@ -1,90 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-12",
-            "s": "iran-hormuz-mine3-midterms-nonfactor-oct11"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "houthi-riyadh-terminal2-oct11"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "trump-ukraine-energy-ceasefire-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "panama-quake-hurricane-simon-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "erie-pa-shooting-9dead-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "pope-leo-death-penalty-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "trump-ukraine-new-president-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "who-russia-plague-worker-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "us-sep-cpi-oct14-scheduled"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "nokia-931-oct9-verified-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "wrt1v-unverified-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "nvda-22928-oct9-verified-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "tsla-38270-china-retail-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "omxh25-637867-oct9-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "omxs30-325814-oct9-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "sp500-781154-week-oct11"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "oil-dollar-rising-hormuz-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "eurusd-11204-flat-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "cty-ipo-oct16-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "rtsn-12pct-below-ipo-oct12"
-        },
-        {
-            "d": "2026-10-12",
-            "s": "sentiment-riskoff-oil-dollar-oct12"
-        },
-        {
             "d": "2026-10-13",
             "s": "iran-hormuz-3rd-tanker-shadow-fleet-oct12"
         },
@@ -1243,7 +1159,95 @@
         {
             "d": "2026-10-26",
             "s": "sentiment-riskoff-hormuz-7tankers-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "iran-hormuz-insurance-refusal-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "anthropic-s1-filed-ai-trade-rekindle-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "serbia-vucic-concedes-oct27"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "israel-election-day-oct27"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "jordan-suspects-arrested-oct27"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "pope-leo-latinamerica-trip-oct27"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "fed-oct28-hold-expected-oct27"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "ecb-oct29-hold-expected-oct27"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "boj-decision-week-oct27"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "eurusd-below-112-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "eurnok-minus057-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "usdjpy-plus044-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "nokia-he-777-plus586-oct26-verified"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "wrt1v-price-unverified-q3-oct27"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "nvda-21600-plus239-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "tsla-est-plus6pct-oct26-barclays-450"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "sp500-767677-plus070-nasdaq-26169-plus082-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "omxh25-629025-plus183-oct26-verified"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "eqt-range-resources-13b-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "ovintiv-logan-energy-890m-oct26"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "f1-usgp-antonelli-wins-oct25"
+        },
+        {
+            "d": "2026-10-27",
+            "s": "sentiment-riskon-anthropic-s1-oct26"
         }
     ],
-    "last_updated": "2026-10-26"
+    "last_updated": "2026-10-27"
 }
