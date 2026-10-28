@@ -1,74 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-13",
-            "s": "iran-hormuz-3rd-tanker-shadow-fleet-oct12"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "ukraine-ceasefire-kharkiv-unravel-oct12"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "houthi-riyadh-mbs-trump-closed-oct12"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "india-condemns-hormuz-indian-crew-oct12"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "dollar-yields-retreat-from-2002-high-oct13"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "nokia-901-minus322-oct12-verified"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "wrt1v-2996-plus204-oct12-verified"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "nvda-22632-minus129-oct12-verified"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "tsla-37803-minus122-oct12-verified"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "omxh25-640474-plus041-oct12-verified"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "omxs30-unverified-oct13"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "nordea-1686-q3-oct15-oct12"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "sensofusion-first-trading-oct13"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "amazon-decart-7b-oct12"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "steris-xodus-21b-oct12"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "ionq-elisity-13b-oct12"
-        },
-        {
-            "d": "2026-10-13",
-            "s": "sentiment-riskoff-hormuz-yields-oct13"
-        },
-        {
             "d": "2026-10-14",
             "s": "hormuz-6ships-oneday-irgc-oct13"
         },
@@ -1247,7 +1179,47 @@
         {
             "d": "2026-10-27",
             "s": "sentiment-riskon-anthropic-s1-oct26"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "wrt1v-q3-results-recordbook-9pt9b-minus834-oct27"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "nokia-he-804-plus347-oct27-verified"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "wrt1v-he-2636-minus834-oct27-verified"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "nvda-21794-plus090-oct27-verified"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "tsla-40746-plus404-oct27-verified"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "omxh25-628158-minus014-oct27-verified"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "israel-election-results-pending-oct28"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "france-10th-strike-charlesvisit-oct28"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "hormuz-day14-no-new-attacks-brent117-oct28"
+        },
+        {
+            "d": "2026-10-28",
+            "s": "sentiment-mixed-wrt1v-tsla-fed-oct28"
         }
     ],
-    "last_updated": "2026-10-27"
+    "last_updated": "2026-10-28"
 }
