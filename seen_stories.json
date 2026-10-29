@@ -1,102 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-14",
-            "s": "hormuz-6ships-oneday-irgc-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "ukraine-kyiv-strike-ceasefire-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "trump-senate-russia-betrayal-oct14"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "nokia-enterprise-edge-divestiture-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "nyfed-williams-dovish-one-hike-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "us-cpi-sep-oct14-today"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "fx-eurusd-11201-plus036-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "nokia-873-minus311-oct13-verified"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "wrt1v-2979-minus057-oct13-verified"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "nvda-22852-plus097-oct13-verified"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "tsla-37523-minus074-oct13-verified"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "omxh25-640165-minus005-oct13-verified"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "sp500-7787-flat-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "nvda-doctolib-minority-stake-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "agilent-proscia-240m-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "bumble-ithaca-13b-goprivate-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "creditagricole-ikb-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "kenvue-eu-approval-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "champions-atletico-manutd-2-0-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "arsenal-lille-3-0-oct13"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "sentiment-riskon-williams-cpi-oct14"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "france-student-protests-oct14"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "trump-russia-china-iran-oct14"
-        },
-        {
-            "d": "2026-10-14",
-            "s": "bulgaria-russia-ambassador-oct13"
-        },
-        {
             "d": "2026-10-15",
             "s": "us-cpi-sep-3pt7-oct14-actual"
         },
@@ -1219,7 +1123,63 @@
         {
             "d": "2026-10-28",
             "s": "sentiment-mixed-wrt1v-tsla-fed-oct28"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "spain-train-crash-68dead-oct29"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "trump-iran-strikes-hails-oct27"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "ukraine-south-ceasefire-held-day1"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "canada-us-trade-carney-oct29"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "fed-hold-3750-4000-1002-warsh-oct28"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "ecb-oct29-hold-scheduled-13h15"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "eur-usd-17month-low-below-1pt1115"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "nokia-he-821-plus214-oct28-verified"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "wrt1v-he-2664-plus106-oct28-verified"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "nvda-21538-minus117-oct28-verified"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "tsla-40422-minus080-oct28-verified"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "hormuz-tanker-fire-mines-oct28"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "israel-election-results-pending-oct29"
+        },
+        {
+            "d": "2026-10-29",
+            "s": "sentiment-riskoff-fed-hawkish-hormuz-oct29"
         }
     ],
-    "last_updated": "2026-10-28"
+    "last_updated": "2026-10-29"
 }
