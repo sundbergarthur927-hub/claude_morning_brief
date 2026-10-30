@@ -1,46 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-15",
-            "s": "us-cpi-sep-3pt7-oct14-actual"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "nordea-q3-1518mn-miss-oct15"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "nokia-869-minus048-oct14-verified"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "wrt1v-2952-minus091-oct14-verified"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "nvda-22130-minus316-oct14"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "tsla-36716-minus215-oct14"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "omxh25-641156-plus015-oct14-verified"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "sp500-771894-minus108-nasdaq-minus188-oct14"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "fx-eurusd-11123-approx-oct14"
-        },
-        {
-            "d": "2026-10-15",
-            "s": "sentiment-riskoff-cpi-hot-oct15"
-        },
-        {
             "d": "2026-10-16",
             "s": "houthi-aramco-hq-direct-oct16"
         },
@@ -1179,7 +1139,59 @@
         {
             "d": "2026-10-29",
             "s": "sentiment-riskoff-fed-hawkish-hormuz-oct29"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "iran-hormuz-ceasefire-two-week-oct30"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "ecb-hold-lagarde-hawkish-oct29"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "israel-netanyahu-coalition-talks-oct30"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "ukraine-south-ceasefire-day2-oct30"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "nokia-he-836-plus183-oct29-verified"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "wrt1v-he-2654-minus038-oct29-verified"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "nvda-21366-minus080-oct29-approx"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "tsla-price-unverified-oct30"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "omxh25-626925-plus035-oct29-verified"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "ecb-ref-eurusd-11130-oct29"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "f1-mexico-qualifying-oct30"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "gdp-pce-oct30-scheduled"
+        },
+        {
+            "d": "2026-10-30",
+            "s": "sentiment-riskon-iran-ceasefire-oct30"
         }
     ],
-    "last_updated": "2026-10-29"
+    "last_updated": "2026-10-30"
 }
