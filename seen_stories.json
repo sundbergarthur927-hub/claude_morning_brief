@@ -1,82 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-22",
-            "s": "tsla-q3-eps048-margin196-robotaxi-q22027-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "nokia-q3-ep605m-beat-ai-optical-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "france-iran-russia-influence-ops-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "northkorea-loudspeakers-days-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "ukraine-threeway-talks-us-russia-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "putin-li-qiang-apec-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "india-us-trade-tech-defence-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "php-security-flaw-govt-sites-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "nokia-823-plus113-oct21-verified"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "nvda-22197-plus25-oct21"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "tsla-unverified-q3-oct22"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "sp500-775717-plus058-oct21"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "nasdaq-2670286-plus105-oct21"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "asml-q3-orders-nvda-micron-oct21"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "salesforce-braze-4750-oct20"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "tradeweb-trumid-197b-oct20"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "silgan-trivium-34b-oct20"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "cl-matchday3-bayernarsenal-psglbarca-oct21"
-        },
-        {
-            "d": "2026-10-22",
-            "s": "sentiment-mixed-nokia-tsla-oct22"
-        },
-        {
             "d": "2026-10-23",
             "s": "nokia-743-minus972-oct22-verified"
         },
@@ -1135,7 +1059,91 @@
         {
             "d": "2026-11-05",
             "s": "sentiment-riskoff-dem-sweep-nvda-tsla-nov5"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "iran-ceasefire-collapse-nov5-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "ukraine-abudhabi-talks-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "ai-meltdown-nasdaq-minus55-nov5"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "melania-whitehouse-russia-ukraine-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "us-dems-investigate-trump-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "turkey-shooting-8dead-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "paraguay-president-resign-bank-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "france-publicsector-strike-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "nfp-oct-consensus-65k-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "bofa-42-ratehikes-ai-risk-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "fx-ecb-nov4-eurusd-11267-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "nokia-he-740-snippet-nov4-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "wrt1v-he-2538-snippet-nov4-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "nvda-18160-minus926-nov5-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "tsla-34369-minus1077-nov5-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "sp500-7354-nasdaq-24315-minus55-nov5"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "omxh25-unverified-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "ericsson-minus5-tech-selloff-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "stocks-watch-unh-hum-amzn-sbux-nov6"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "cl-md4-como91-fen32liverpool-nov4"
+        },
+        {
+            "d": "2026-11-06",
+            "s": "sentiment-riskoff-ai-meltdown-nov6"
         }
     ],
-    "last_updated": "2026-11-05"
+    "last_updated": "2026-11-06"
 }
