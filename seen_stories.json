@@ -1,98 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-23",
-            "s": "nokia-743-minus972-oct22-verified"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "wrt1v-unverified-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "nvda-21398-intraday-oct22"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "tsla-37458-minus308-oct22"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "omxh25-620085-minus141-oct22-verified"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "sp500-766343-minus120-oct22"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "nasdaq-2600886-minus260-oct22"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "meta-plummet-ai-capex-oct22"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "nokia-fcf-structural-cut-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "hormuz-irgc-7ships-threats-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "france-macron-ban-217-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "ukraine-putin-security-guarantees-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "albania-protests-kushner-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "nordea-1500-jobs-ai-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "eqt-qiagen-108b-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "alcon-neurotech-550m-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "ember-ashtead-505m-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "jio-platforms-ipo-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "gravitics-ipo-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "anthropic-ipo-week-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "fx-eurusd-11215-flat-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "f1-usgp-start-oct23"
-        },
-        {
-            "d": "2026-10-23",
-            "s": "sentiment-riskoff-nasdaq-worst-june-oct23"
-        },
-        {
             "d": "2026-10-24",
             "s": "irgc-hormuz-complete-halt-oct24"
         },
@@ -1143,7 +1051,83 @@
         {
             "d": "2026-11-06",
             "s": "sentiment-riskoff-ai-meltdown-nov6"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "iran-qeshm-trump-confirmed-qatar-bridge-nov7"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "ai-meltdown-nasdaq-rebound-11pct-nov6"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "ukraine-xitrumputin-trilateral-discussed-nov7"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "paraguay-pena-housearrest-banking-nov7"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "trump-miller-wh-chiefstaff-nov7"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "nfp-oct-165k-beat-dec-fed-hike-nov7"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "eurusd-11270-nov5-last-unverified-nov7"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "nokia-he-698-plus199-nov6-verified"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "wrt1v-he-2581-plus349-nov6-verified"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "nvda-18664-plus278-nov6-verified"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "tsla-35822-plus423-cybercab-ramp-nov6-verified"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "ev-rebound-nio-plus6-lucid-plus5-nov6"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "sp500-73768-plus03-nasdaq-24579-plus11-nov6"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "omxs30-32678-minus101-nov6-approx"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "omxh25-unverified-nov7"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "salesforce-cresta-27b-nov6"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "shield-echodyne-53b-nov6"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "jsr-mitsui-82b-nov7"
+        },
+        {
+            "d": "2026-11-07",
+            "s": "sentiment-cautious-riskon-nfp-rebound-nov7"
         }
     ],
-    "last_updated": "2026-11-06"
+    "last_updated": "2026-11-07"
 }
