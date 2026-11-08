@@ -1,118 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-24",
-            "s": "irgc-hormuz-complete-halt-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "trump-iran-fake-attacks-midterms-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "us-unambassador-war-year-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "aramco-dhahran-evacuation-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "brent-117-hormuz-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "tibet-quake-m70-16dead-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "us-intel-iran-target-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "turkey-warn-iran-strikes-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "israel-westbank-closure-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "france-70kpolice-weekend-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "fed-oct28-hold-90pct-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "ecb-oct29-hold-250-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "fx-eurusd-11204-flat-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "nokia-unverified-recovery-43pct-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "wrt1v-unverified-rally-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "nvda-21096-minus059-oct23-verified"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "tsla-37222-minus063-oct23-verified"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "omxh25-down138pct-oct23-unverified"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "sp500-minus14-nasdaq-minus26-oct23"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "lseg-octus-35b-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "visa-fireblocks-25b-talks-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "crh-arcosa-85b-completed-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "openai-orchestra-bio-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "bose-skullcandy-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "f1-usgp-cota-leclerc-fp2-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "lycia-therapeutics-nasdaq-ipo-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "figma-down75pct-ipo-oct24"
-        },
-        {
-            "d": "2026-10-24",
-            "s": "sentiment-riskoff-brent117-nasdaq-oct24"
-        },
-        {
             "d": "2026-10-25",
             "s": "nokia-he-737-minus083-oct23-verified"
         },
@@ -1127,7 +1015,59 @@
         {
             "d": "2026-11-07",
             "s": "sentiment-cautious-riskon-nfp-rebound-nov7"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "iran-qeshm-explosions-nov8"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "ai-nikkei-minus59pct-nov6"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "fx-eurusd-11165-eursek-11026-ecb-nov6"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "omxh25-622179-minus052-nov6-verified"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "nikkei-57450-minus59-nov6"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "dax-25820-ftse-10674-nov6"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "generalmills-haagendazs-sale-nov6"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "extreme-networks-sale-nov6"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "silverblake-pif-unity-25b-nov6"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "vvardis-ipo-week-nov8"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "rezera-ipo-nov12"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "f1-saopaulo-norris-pole-nov8"
+        },
+        {
+            "d": "2026-11-08",
+            "s": "sentiment-cautious-riskon-nikkei-qeshm-nov8"
         }
     ],
-    "last_updated": "2026-11-07"
+    "last_updated": "2026-11-08"
 }
