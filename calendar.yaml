@@ -1,0 +1,34 @@
+# ARTHUR'S CALENDAR: your own events and notes. The brief only reads this file.
+#
+# HOW TO ADD AN EVENT
+# Copy the template at the bottom, remove the # at the start of each line,
+# and fill it in. Rules:
+#   * Every event starts with "- date:" at the very left edge.
+#   * The lines under it are indented by exactly two spaces (never tabs).
+#   * Dates are written year-month-day: 2026-11-19
+#   * Put quotes around time, event and watch text.
+#
+# FIELDS
+#   date      the day it happens
+#   time      Helsinki time (optional, leave "" if unknown)
+#   event     what it is
+#   tags      a few keywords in square brackets, e.g. [NOKIA, earnings]
+#   priority  high or normal (high gets searched first)
+#   watch     what you want the brief to look for, in your own words
+#   followup  [next, week] = day after AND a week after
+#             [next]       = day after only
+#             []           = no follow up
+#
+# TO ANNOTATE A SEEDED EVENT (Fed, ECB, CPI and so on)
+# Copy the entry from calendar_auto.yaml into this file with the same date and
+# event name, then write your note in "watch". Your version wins.
+#
+# TEMPLATE (remove the # signs to use it):
+#
+# - date: 2026-01-01
+#   time: ""
+#   event: ""
+#   tags: []
+#   priority: high
+#   watch: ""
+#   followup: [next, week]
