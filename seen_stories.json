@@ -1,102 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-25",
-            "s": "nokia-he-737-minus083-oct23-verified"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "wrt1v-he-2723-minus011-oct23-verified"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "omxh25-617734-minus038-oct23-verified"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "sp500-762368-minus052-nasdaq-25955-oct23"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "dow-minus123-oct23"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "nokia-upgrades-buy-10eur-handels-opbank-oct23"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "wrt1v-q3-oct27-earnings"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "tsla-spacex-merger-committees-35t"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "iran-us-israel-postmidterm-strikes"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "iran-dammam-airport-1dead"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "israel-election-netanyahu-oct25"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "kim-china-bridge-visit-oct25"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "black-sea-drone-cargo-1dead"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "nigeria-ebola-first-case"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "france-400k-protests-oct25"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "fed-oct28-ecb-oct29-decision-week"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "us-gdp-pce-oct30-scheduled"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "fx-eurusd-11204-usdsek-994-oct23"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "nordnet-q3-21pct-profit"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "cbre-onnec-1b-oct23"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "maximus-agile-660m-oct23"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "mck-els-unusual-options-oct23"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "f1-usgp-qualifying-oct24"
-        },
-        {
-            "d": "2026-10-25",
-            "s": "sentiment-riskoff-brent117-iran-oct25"
-        },
-        {
             "d": "2026-10-26",
             "s": "iran-7tankers-attacked-oct26"
         },
@@ -1067,7 +971,111 @@
         {
             "d": "2026-11-08",
             "s": "sentiment-cautious-riskon-nikkei-qeshm-nov8"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "nvda-jensen-huang-chinese-spy-probe-nov8"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "anthropic-ipo-roadshow-started-valuation-12t-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "iran-qeshm-army-warns-longer-war-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "japan-earthquake-m57-19injured-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "egypt-train-collision-7dead-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "colombia-petro-court-probe-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "pope-leo-milei-argentina-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "ecb-lagarde-inflation-high-dec-hike-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "ecb-bundes-banca-italia-dec25bp-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "eurusd-advancing-ecb-hike-expectations-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "nokia-he-698-nov6-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "wrt1v-he-2581-nov6-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "nvda-18664-overnight-minus450-178-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "tsla-35822-overnight-360-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "sp500-7377-nasdaq-24579-nov6-rebound-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "omxh25-622179-nov6-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "google-13bn-finland-datacentres-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "anthropic-ant-ipo-stocks-watch-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "vvardis-ipo-six-week-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "rezera-ipo-nov12-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "fox-roku-22b-finalized-nov6-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "ani-egetis-sek56b-nordic-ma-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "f1-saopaulo-norris-wins-mercedes-title-nov9"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "pl-forest3-mancity1-leeds1-spurs0-nov7"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "manutd44-astonvilla-unconfirmed-nov8"
+        },
+        {
+            "d": "2026-11-09",
+            "s": "sentiment-riskoff-nvda-ceo-probe-nov9"
         }
     ],
-    "last_updated": "2026-11-08"
+    "last_updated": "2026-11-09"
 }
