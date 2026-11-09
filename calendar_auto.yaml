@@ -1,0 +1,135 @@
+# SEEDED DATES: maintained automatically by the Sunday seeding routine.
+# Do not write notes here; the routine may overwrite this file.
+# To add your own note to one of these events, copy the whole entry into
+# calendar.yaml, keep the same date and event name, and fill in "watch".
+# Your copy then replaces this one in the brief.
+#
+# Times are Helsinki time.
+
+- date: 2026-11-10
+  time: "15:30"
+  event: "US CPI (October)"
+  tags: [macro, inflation, USD]
+  priority: high
+  watch: ""
+  followup: [next]
+
+- date: 2026-12-01
+  time: "12:00"
+  event: "Euro area flash inflation (November)"
+  tags: [macro, inflation, EUR]
+  priority: high
+  watch: ""
+  followup: [next]
+
+- date: 2026-12-04
+  time: "15:30"
+  event: "US jobs report (November)"
+  tags: [macro, labour, USD]
+  priority: high
+  watch: ""
+  followup: [next]
+
+- date: 2026-12-09
+  time: "21:00"
+  event: "Fed decision (with projections and dot plot)"
+  tags: [central-bank, rates, USD]
+  priority: high
+  watch: ""
+  followup: [next, week]
+
+- date: 2026-12-10
+  time: "15:30"
+  event: "US CPI (November)"
+  tags: [macro, inflation, USD]
+  priority: high
+  watch: ""
+  followup: [next]
+
+- date: 2026-12-16
+  time: "10:30"
+  event: "Riksbank decision (with Monetary Policy Report)"
+  tags: [central-bank, rates, SEK]
+  priority: normal
+  watch: ""
+  followup: [next, week]
+
+- date: 2026-12-17
+  time: "14:00"
+  event: "Bank of England decision"
+  tags: [central-bank, rates, GBP]
+  priority: normal
+  watch: ""
+  followup: [next, week]
+
+- date: 2026-12-17
+  time: "15:15"
+  event: "ECB decision (with staff projections)"
+  tags: [central-bank, rates, EUR]
+  priority: high
+  watch: ""
+  followup: [next, week]
+
+- date: 2027-01-06
+  time: "12:00"
+  event: "Euro area flash inflation (December)"
+  tags: [macro, inflation, EUR]
+  priority: high
+  watch: ""
+  followup: [next]
+
+- date: 2027-01-08
+  time: "15:30"
+  event: "US jobs report (December)"
+  tags: [macro, labour, USD]
+  priority: high
+  watch: ""
+  followup: [next]
+
+- date: 2027-01-13
+  time: "15:30"
+  event: "US CPI (December)"
+  tags: [macro, inflation, USD]
+  priority: high
+  watch: ""
+  followup: [next]
+
+- date: 2027-01-27
+  time: "21:00"
+  event: "Fed decision"
+  tags: [central-bank, rates, USD]
+  priority: high
+  watch: ""
+  followup: [next, week]
+
+- date: 2027-02-03
+  time: "10:30"
+  event: "Riksbank decision"
+  tags: [central-bank, rates, SEK]
+  priority: normal
+  watch: ""
+  followup: [next, week]
+
+- date: 2027-02-04
+  time: "14:00"
+  event: "Bank of England decision (with Monetary Policy Report)"
+  tags: [central-bank, rates, GBP]
+  priority: normal
+  watch: ""
+  followup: [next, week]
+
+- date: 2027-02-04
+  time: "15:15"
+  event: "ECB decision (Lagarde's last before stepping down 7 Feb)"
+  tags: [central-bank, rates, EUR]
+  priority: high
+  watch: ""
+  followup: [next, week]
+
+- date: 2027-02-05
+  time: "15:30"
+  event: "US jobs report (January)"
+  tags: [macro, labour, USD]
+  priority: high
+  watch: ""
+  followup: [next]
