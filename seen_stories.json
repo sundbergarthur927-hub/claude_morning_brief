@@ -1,82 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-26",
-            "s": "iran-7tankers-attacked-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "trump-no-strike-iran-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "france-protests-1000arrested-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "ukraine-starlink-restored-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "israel-wb-lockdown-hebron-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "jordan-funeral-shooting-7dead-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "kenya-bus-crash-22dead-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "pope-leo-no-cancer-treatment-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "fed-oct28-decision-hold-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "ecb-oct29-decision-hold-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "nokia-he-737-oct23-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "wrt1v-he-2723-oct23-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "nvda-21096-oct23-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "tsla-37222-oct23-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "nokia-iceye-ukraine-starlink-oct23"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "omxh25-617734-oct23-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "eurusd-11222-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "wrt1v-q3-oct27-brief-oct26"
-        },
-        {
-            "d": "2026-10-26",
-            "s": "sentiment-riskoff-hormuz-7tankers-oct26"
-        },
-        {
             "d": "2026-10-27",
             "s": "iran-hormuz-insurance-refusal-oct26"
         },
@@ -1103,7 +1027,55 @@
         {
             "d": "2026-11-09",
             "s": "omxc25-202597-plus085-mon9nov"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "us-cpi-oct-radar-nov10"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "iran-us-mou-developing-nov10"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "russia-ukraine-ceasefire-3day-nov10"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "nvda-probe-premarket178-nov9-nov10"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "israel-lebanon-ceasefire-45day-nov10"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "lithuania-emergency-belarus-nov10"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "us10y-487-minus2bp-nov9"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "bund-327-plus1bp-nov9"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "eurusd-11193-plus025-nov9"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "omxh25-627895-plus092-nov9"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "omxc25-202597-plus085-nov9"
+        },
+        {
+            "d": "2026-11-10",
+            "s": "obx-199197-plus123-nov9"
         }
     ],
-    "last_updated": "2026-11-09"
+    "last_updated": "2026-11-10"
 }
