@@ -1,94 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-27",
-            "s": "iran-hormuz-insurance-refusal-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "anthropic-s1-filed-ai-trade-rekindle-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "serbia-vucic-concedes-oct27"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "israel-election-day-oct27"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "jordan-suspects-arrested-oct27"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "pope-leo-latinamerica-trip-oct27"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "fed-oct28-hold-expected-oct27"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "ecb-oct29-hold-expected-oct27"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "boj-decision-week-oct27"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "eurusd-below-112-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "eurnok-minus057-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "usdjpy-plus044-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "nokia-he-777-plus586-oct26-verified"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "wrt1v-price-unverified-q3-oct27"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "nvda-21600-plus239-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "tsla-est-plus6pct-oct26-barclays-450"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "sp500-767677-plus070-nasdaq-26169-plus082-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "omxh25-629025-plus183-oct26-verified"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "eqt-range-resources-13b-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "ovintiv-logan-energy-890m-oct26"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "f1-usgp-antonelli-wins-oct25"
-        },
-        {
-            "d": "2026-10-27",
-            "s": "sentiment-riskon-anthropic-s1-oct26"
-        },
-        {
             "d": "2026-10-28",
             "s": "wrt1v-q3-results-recordbook-9pt9b-minus834-oct27"
         },
@@ -1075,7 +987,67 @@
         {
             "d": "2026-11-10",
             "s": "obx-199197-plus123-nov9"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "us-cpi-oct-hot-04pct-core-03-dec-hike-90pct-nov10"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "iran-us-rubio-no-breakthrough-nov11"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "ukraine-russia-abudhabi-little-headway-nov11"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "eurozone-sentix-minus74-nov11"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "india-sensex-1300pts-nov11"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "us10y-499-plus10bp-nov10"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "bund-331-plus4bp-nov10"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "eurusd-11214-plus019-nov10-ecb"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "nvda-16889-minus55-nov10-cpi-selloff"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "omxh25-628248-plus006-nov10-verified"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "omxs30-332775-plus054-nov10"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "omxc25-200055-minus088-nov10-verified"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "obx-208141-plus009-nov10-aggregator"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "se-movers-skanska24-saab19-volvo16-nov10"
+        },
+        {
+            "d": "2026-11-11",
+            "s": "strathcona-greenfire-29b-nov9"
         }
     ],
-    "last_updated": "2026-11-10"
+    "last_updated": "2026-11-11"
 }
