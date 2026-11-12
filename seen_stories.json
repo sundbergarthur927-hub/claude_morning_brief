@@ -1,46 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-28",
-            "s": "wrt1v-q3-results-recordbook-9pt9b-minus834-oct27"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "nokia-he-804-plus347-oct27-verified"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "wrt1v-he-2636-minus834-oct27-verified"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "nvda-21794-plus090-oct27-verified"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "tsla-40746-plus404-oct27-verified"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "omxh25-628158-minus014-oct27-verified"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "israel-election-results-pending-oct28"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "france-10th-strike-charlesvisit-oct28"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "hormuz-day14-no-new-attacks-brent117-oct28"
-        },
-        {
-            "d": "2026-10-28",
-            "s": "sentiment-mixed-wrt1v-tsla-fed-oct28"
-        },
-        {
             "d": "2026-10-29",
             "s": "spain-train-crash-68dead-oct29"
         },
@@ -1047,7 +1007,67 @@
         {
             "d": "2026-11-11",
             "s": "strathcona-greenfire-29b-nov9"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "iran-ceasefire-enriched-uranium-red-line-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "ukraine-abudhabi-round2-prisoner-exchange-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "hormuz-tanker-attack-oil-rises-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "coreweave-q3-beat-raise-plus25-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "trump-nsc-iran-strikes-review-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "anthropic-ipo-marketing-opens-nov12"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "us10y-499-flat-nov12"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "bund-332-plus2bp-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "eurusd-11127-minus078-ecb-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "omxh25-632798-plus072-nov11-nasdaq"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "omxs30-athhigh-plus097-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "sandisk-plus158-nov11-sp500"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "charter-chtr-plus106-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "moderna-mrna-minus68-nov11"
+        },
+        {
+            "d": "2026-11-12",
+            "s": "scandic-q3-record-profit-dalata-nov10"
         }
     ],
-    "last_updated": "2026-11-11"
+    "last_updated": "2026-11-12"
 }
