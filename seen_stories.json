@@ -1,62 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-10-29",
-            "s": "spain-train-crash-68dead-oct29"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "trump-iran-strikes-hails-oct27"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "ukraine-south-ceasefire-held-day1"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "canada-us-trade-carney-oct29"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "fed-hold-3750-4000-1002-warsh-oct28"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "ecb-oct29-hold-scheduled-13h15"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "eur-usd-17month-low-below-1pt1115"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "nokia-he-821-plus214-oct28-verified"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "wrt1v-he-2664-plus106-oct28-verified"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "nvda-21538-minus117-oct28-verified"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "tsla-40422-minus080-oct28-verified"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "hormuz-tanker-fire-mines-oct28"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "israel-election-results-pending-oct29"
-        },
-        {
-            "d": "2026-10-29",
-            "s": "sentiment-riskoff-fed-hawkish-hormuz-oct29"
-        },
-        {
             "d": "2026-10-30",
             "s": "iran-hormuz-ceasefire-two-week-oct30"
         },
@@ -1067,7 +1011,31 @@
         {
             "d": "2026-11-12",
             "s": "scandic-q3-record-profit-dalata-nov10"
+        },
+        {
+            "d": "2026-11-13",
+            "s": "nvda-ceo-probe-hearing-nov18-fbi-nov12"
+        },
+        {
+            "d": "2026-11-13",
+            "s": "us10y-513-approx-nov12-asian-session"
+        },
+        {
+            "d": "2026-11-13",
+            "s": "eurusd-11055-minus032-nov12"
+        },
+        {
+            "d": "2026-11-13",
+            "s": "omxs30-335937-flat-nov12"
+        },
+        {
+            "d": "2026-11-13",
+            "s": "nordic-movers-saab-boliden-trump-remarks-nov12"
+        },
+        {
+            "d": "2026-11-13",
+            "s": "irlab-collapsed-stockholm-nov12"
         }
     ],
-    "last_updated": "2026-11-12"
+    "last_updated": "2026-11-13"
 }
