@@ -1,90 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-11-02",
-            "s": "ukraine-kherson-truce-expired-power-strikes-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "russia-ukraine-deal-close-g20-doral-trump-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "black-sea-ceasefire-us-canada-abudhabi-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "g20-photo-cancelled-russia-dispute-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "iran-ghost-fleet-lpg-us-blockade-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "anthropic-ipo-roadshow-nov9-ant-75b-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "macro-upcoming-rba-boe-nfp-nov6-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "fx-ecb-oct30-eurusd-11172-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "nokia-he-775-oct30-verified-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "wrt1v-he-2564-oct30-verified-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "nvda-20464-oct30-premarket-20760-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "tsla-39981-oct30-premarket-40046-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "sp500-7580-nasdaq-25437-oct30-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "global-q3-beat-80pct-cape41-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "omxh25-6191-oct30-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "sampo-q3-tue-nov4-today-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "nordea-q3-profit-minus4-buyback-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "opay-ipo-withdrawn-regulatory-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "lycia-lyca-plus47-above-ipo-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "f1-mexico-norris-wins-retakes-lead-nov2"
-        },
-        {
-            "d": "2026-11-02",
-            "s": "sentiment-riskoff-kherson-power-nov2"
-        },
-        {
             "d": "2026-11-03",
             "s": "ukraine-russia-strike-26dead-aidcenter-nov3"
         },
@@ -887,7 +803,43 @@
         {
             "d": "2026-11-16",
             "s": "england-32-spain-nations-league-nov14"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "nvda-huang-resigned-kress-interim-nov15"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "anthropic-ant-ipo-6x-oversubscribed-pricing-nov18"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "us10y-513-minus1bp-nov17"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "bund10y-338-plus1bp-nov16"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "eurusd-11006-plus008pct-nov17"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "omxh25-628967-minus068-nov17"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "obx-minus038pct-mon-nov16"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "equinor-no-minus294-nov16"
+        },
+        {
+            "d": "2026-11-17",
+            "s": "novo-nordisk-dk-plus244-nov16"
         }
     ],
-    "last_updated": "2026-11-16"
+    "last_updated": "2026-11-17"
 }
