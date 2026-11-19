@@ -1,82 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-11-04",
-            "s": "us-midterms-dems-senate-confirmed-house-projected-nov4"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "ukraine-energy-infra-dnipro14dead-samara-refinery-nov4"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "boe-decision-nov5-hike-94pct-flag-nov4"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "nokia-he-765-minus044-nov3-verified"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "wrt1v-he-2574-minus138-nov3-verified"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "nvda-20669-plus23-nov3"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "tsla-39850-minus132-nov3"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "omxh25-618962-minus039-nov3-verified"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "omxs30-328444-indicative-nov3"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "sampo-q3-released-118m-impairment-nov4"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "marvell-lumentum-115b-allstock-nov2"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "cvr-marathon-refineries-42b-nov3"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "onsemi-ferric-775m-nov2"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "xrg-shell-nws-145b-nov4"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "pdd-unusual-options-9to1-nov3"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "sp500-756892-plus036-nasdaq-2537201-plus083-dow-minus038-nov3"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "macro-fed-388-dec73pct-ecb-250-dec85pct-boe-375-nov4"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "fx-eurusd-11196-eursek-1095-usdsek-979-nov3"
-        },
-        {
-            "d": "2026-11-04",
-            "s": "sentiment-riskoff-midterms-dems-sweep-nasdaq-minus2-nov4"
-        },
-        {
             "d": "2026-11-05",
             "s": "iran-postmidterms-russia-warns-strikes-nov5"
         },
@@ -807,7 +731,26 @@
         {
             "d": "2026-11-18",
             "s": "omxs30-328748-minus163-nov17-verified"
-        }
+        },
+        {"d":"2026-11-19","s":"ukraine-shenzhen-uschinarussia-summit-nov19"},
+        {"d":"2026-11-19","s":"bank-indonesia-25bp-hike-6pct-nov19"},
+        {"d":"2026-11-19","s":"canada-sanctions-israeli-settlers-nov19"},
+        {"d":"2026-11-19","s":"us-conviction-haiti-assassination-pastor-nov19"},
+        {"d":"2026-11-19","s":"germany-coalition-willing-ukraine-nov19"},
+        {"d":"2026-11-19","s":"us10y-507-minus3bp-nov18-treasury"},
+        {"d":"2026-11-19","s":"bund10y-unverified-nov19"},
+        {"d":"2026-11-19","s":"eurusd-unverified-nov19"},
+        {"d":"2026-11-19","s":"omxh25-610859-minus106-nov18"},
+        {"d":"2026-11-19","s":"omxs30-325621-minus095-nov18"},
+        {"d":"2026-11-19","s":"omxc25-unverified-nov19"},
+        {"d":"2026-11-19","s":"obx-unverified-nov19"},
+        {"d":"2026-11-19","s":"boliden-se-minus37-nov18"},
+        {"d":"2026-11-19","s":"sandvik-se-minus26-nov18"},
+        {"d":"2026-11-19","s":"salmar-no-plus222-598-nov18"},
+        {"d":"2026-11-19","s":"nkt-dk-plus036-837-nov18"},
+        {"d":"2026-11-19","s":"aes-ferc-334bn-approved-nov17"},
+        {"d":"2026-11-19","s":"paloalto-applied-compute-45bn-nov18"},
+        {"d":"2026-11-19","s":"nordic-capital-carygroup-3bn-nov17"}
     ],
-    "last_updated": "2026-11-18"
+    "last_updated": "2026-11-19"
 }
