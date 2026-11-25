@@ -1,54 +1,6 @@
 {
     "stories": [
         {
-            "d": "2026-11-10",
-            "s": "us-cpi-oct-radar-nov10"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "iran-us-mou-developing-nov10"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "russia-ukraine-ceasefire-3day-nov10"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "nvda-probe-premarket178-nov9-nov10"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "israel-lebanon-ceasefire-45day-nov10"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "lithuania-emergency-belarus-nov10"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "us10y-487-minus2bp-nov9"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "bund-327-plus1bp-nov9"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "eurusd-11193-plus025-nov9"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "omxh25-627895-plus092-nov9"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "omxc25-202597-plus085-nov9"
-        },
-        {
-            "d": "2026-11-10",
-            "s": "obx-199197-plus123-nov9"
-        },
-        {
             "d": "2026-11-11",
             "s": "us-cpi-oct-hot-04pct-core-03-dec-hike-90pct-nov10"
         },
@@ -540,7 +492,15 @@
         {"d":"2026-11-24","s":"elisa-he-5yrlows-minus266-nov23"},
         {"d":"2026-11-24","s":"omxs30-semiannual-changes-dec1-nov23"},
         {"d":"2026-11-24","s":"crowdstrike-zscaler-439bn-nov23"},
-        {"d":"2026-11-24","s":"var-energi-conocophillips-norway-44bn-nov23"}
+        {"d":"2026-11-24","s":"var-energi-conocophillips-norway-44bn-nov23"},
+        {"d":"2026-11-25","s":"nvda-155-minus586-reinstatement-rebound-nov24"},
+        {"d":"2026-11-25","s":"hormuz-3tankers-irgc-mines-nov24"},
+        {"d":"2026-11-25","s":"russia-ukraine-naval-drones-consequences-nov24"},
+        {"d":"2026-11-25","s":"russia-estonia-open-war-warning-nov24"},
+        {"d":"2026-11-25","s":"israel-kills-hamas-security-abu-nahel-nov24"},
+        {"d":"2026-11-25","s":"china-shenzhou24-pakistan-astronaut-nov24"},
+        {"d":"2026-11-25","s":"indonesia-factory-fire-24killed-nov24"},
+        {"d":"2026-11-25","s":"rates-fx-nordic-unverified-nov24"}
     ],
-    "last_updated": "2026-11-24"
+    "last_updated": "2026-11-25"
 }
