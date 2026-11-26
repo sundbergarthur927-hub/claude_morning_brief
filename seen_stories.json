@@ -1,473 +1,107 @@
 {
     "stories": [
-        {
-            "d": "2026-11-11",
-            "s": "us-cpi-oct-hot-04pct-core-03-dec-hike-90pct-nov10"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "iran-us-rubio-no-breakthrough-nov11"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "ukraine-russia-abudhabi-little-headway-nov11"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "eurozone-sentix-minus74-nov11"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "india-sensex-1300pts-nov11"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "us10y-499-plus10bp-nov10"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "bund-331-plus4bp-nov10"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "eurusd-11214-plus019-nov10-ecb"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "nvda-16889-minus55-nov10-cpi-selloff"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "omxh25-628248-plus006-nov10-verified"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "omxs30-332775-plus054-nov10"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "omxc25-200055-minus088-nov10-verified"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "obx-208141-plus009-nov10-aggregator"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "se-movers-skanska24-saab19-volvo16-nov10"
-        },
-        {
-            "d": "2026-11-11",
-            "s": "strathcona-greenfire-29b-nov9"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "iran-ceasefire-enriched-uranium-red-line-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "ukraine-abudhabi-round2-prisoner-exchange-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "hormuz-tanker-attack-oil-rises-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "coreweave-q3-beat-raise-plus25-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "trump-nsc-iran-strikes-review-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "anthropic-ipo-marketing-opens-nov12"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "us10y-499-flat-nov12"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "bund-332-plus2bp-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "eurusd-11127-minus078-ecb-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "omxh25-632798-plus072-nov11-nasdaq"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "omxs30-athhigh-plus097-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "sandisk-plus158-nov11-sp500"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "charter-chtr-plus106-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "moderna-mrna-minus68-nov11"
-        },
-        {
-            "d": "2026-11-12",
-            "s": "scandic-q3-record-profit-dalata-nov10"
-        },
-        {
-            "d": "2026-11-13",
-            "s": "nvda-ceo-probe-hearing-nov18-fbi-nov12"
-        },
-        {
-            "d": "2026-11-13",
-            "s": "us10y-513-approx-nov12-asian-session"
-        },
-        {
-            "d": "2026-11-13",
-            "s": "eurusd-11055-minus032-nov12"
-        },
-        {
-            "d": "2026-11-13",
-            "s": "omxs30-335937-flat-nov12"
-        },
-        {
-            "d": "2026-11-13",
-            "s": "nordic-movers-saab-boliden-trump-remarks-nov12"
-        },
-        {
-            "d": "2026-11-13",
-            "s": "irlab-collapsed-stockholm-nov12"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "hormuz-tanker-mining-sank-nov15-developing"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "iran-trump-no-deal-needed-nov13"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "ukraine-witkoff-kushner-putin-moscow-nov12"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "saudi-houthi-drones-intercepted-nov15"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "canary-islands-1500-migrants-daily-nov15"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "asean-summit-modi-philippines-nov16"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "pope-leo-andes-amazon-nov16"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "us10y-515-approx-fri13nov"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "bund-10y-unverified-nov13"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "eurusd-11023-fri13nov"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "omxh25-633269-minus014-fri13nov"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "omxs30-335687-minus007-fri13nov"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "omxc25-unverified-nov13"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "obx-unverified-nov13"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "equinor-obx-top-performer-nov13"
-        },
-        {
-            "d": "2026-11-16",
-            "s": "england-32-spain-nations-league-nov14"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "nvda-huang-resigned-kress-interim-nov15"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "anthropic-ant-ipo-6x-oversubscribed-pricing-nov18"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "us10y-513-minus1bp-nov17"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "bund10y-338-plus1bp-nov16"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "eurusd-11006-plus008pct-nov17"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "omxh25-628967-minus068-nov17"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "obx-minus038pct-mon-nov16"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "equinor-no-minus294-nov16"
-        },
-        {
-            "d": "2026-11-17",
-            "s": "novo-nordisk-dk-plus244-nov16"
-        },
-        {
-            "d": "2026-11-18",
-            "s": "nvda-ceo-probe-congressional-hearing-today-nov18"
-        },
-        {
-            "d": "2026-11-18",
-            "s": "anthropic-ipo-pricing-70-78-ant-nasdaq-nov18"
-        },
-        {
-            "d": "2026-11-18",
-            "s": "us10y-510-approx-minus3bp-nov17"
-        },
-        {
-            "d": "2026-11-18",
-            "s": "bund10y-338-flat-nov17"
-        },
-        {
-            "d": "2026-11-18",
-            "s": "omxh25-617405-minus184-nov17-verified"
-        },
-        {
-            "d": "2026-11-18",
-            "s": "omxs30-328748-minus163-nov17-verified"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "ukraine-shenzhen-uschinarussia-summit-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "bank-indonesia-25bp-hike-6pct-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "canada-sanctions-israeli-settlers-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "us-conviction-haiti-assassination-pastor-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "germany-coalition-willing-ukraine-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "us10y-507-minus3bp-nov18-treasury"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "bund10y-unverified-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "eurusd-unverified-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "omxh25-610859-minus106-nov18"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "omxs30-325621-minus095-nov18"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "omxc25-unverified-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "obx-unverified-nov19"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "boliden-se-minus37-nov18"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "sandvik-se-minus26-nov18"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "salmar-no-plus222-598-nov18"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "nkt-dk-plus036-837-nov18"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "aes-ferc-334bn-approved-nov17"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "paloalto-applied-compute-45bn-nov18"
-        },
-        {
-            "d": "2026-11-19",
-            "s": "nordic-capital-carygroup-3bn-nov17"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "trump-xi-putin-summit-concluded-nov20"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "anthropic-ant-nasdaq-trading-nov20"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "trump-iran-no-deal-postsummit-nov20"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "ukraine-abudhabi-prisonerswap-nov20"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "ukraine-russia-refinery-strikes-nov20"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "sp500-6thloss-dow1100-nov19"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "managed-care-hum-unh-elv-selloff-nov19"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "pdd-plus11-q3-nov19"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "amd-minus77-china-blacklist-nov19"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "us10y-502-minus3bp-nov20"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "bund-unverified-nov20"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "eurusd-10992-ecb-nov19"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "omxh25-609006-minus030-nov19"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "omxs30-325672-plus002-nov19"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "omxc25-unverified-nov20"
-        },
-        {
-            "d": "2026-11-20",
-            "s": "obx-unverified-nov20"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "nvda-sec-accounting-probe-minus14-fri20nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "iran-trump-dirtybomb-military-threat-sat21nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "ai-selloff-sp500-correction-nasdaq-erases2026gains"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "denmark-expels-russia-defence-attache-sat21nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "germany-merz-qatar-defence-energy-pact-sat21nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "iea-oil-market-surplus-firstsince-iran-war"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "china-iraqi-crude-us-blockade-iran-oil"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "lufthansa-1000-jobs-cut-ninemonth-loss"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "us10y-4912-minus14bp-fri20nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "eurusd-10982-unverified-mon23nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "amd-nasdaq-minus133-fri20nov-nvda-probe"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "omxh25-590512-minus304-fri20nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "omxs30-317506-minus251-fri20nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "bundesliga-dortmund-top-leipzig51-sat21nov"
-        },
-        {
-            "d": "2026-11-23",
-            "s": "bundesliga-sun22nov-augsburg-bremen"
-        },
+        {"d":"2026-11-12","s":"iran-ceasefire-enriched-uranium-red-line-nov11"},
+        {"d":"2026-11-12","s":"ukraine-abudhabi-round2-prisoner-exchange-nov11"},
+        {"d":"2026-11-12","s":"hormuz-tanker-attack-oil-rises-nov11"},
+        {"d":"2026-11-12","s":"coreweave-q3-beat-raise-plus25-nov11"},
+        {"d":"2026-11-12","s":"trump-nsc-iran-strikes-review-nov11"},
+        {"d":"2026-11-12","s":"anthropic-ipo-marketing-opens-nov12"},
+        {"d":"2026-11-12","s":"us10y-499-flat-nov12"},
+        {"d":"2026-11-12","s":"bund-332-plus2bp-nov11"},
+        {"d":"2026-11-12","s":"eurusd-11127-minus078-ecb-nov11"},
+        {"d":"2026-11-12","s":"omxh25-632798-plus072-nov11-nasdaq"},
+        {"d":"2026-11-12","s":"omxs30-athhigh-plus097-nov11"},
+        {"d":"2026-11-12","s":"sandisk-plus158-nov11-sp500"},
+        {"d":"2026-11-12","s":"charter-chtr-plus106-nov11"},
+        {"d":"2026-11-12","s":"moderna-mrna-minus68-nov11"},
+        {"d":"2026-11-12","s":"scandic-q3-record-profit-dalata-nov10"},
+        {"d":"2026-11-13","s":"nvda-ceo-probe-hearing-nov18-fbi-nov12"},
+        {"d":"2026-11-13","s":"us10y-513-approx-nov12-asian-session"},
+        {"d":"2026-11-13","s":"eurusd-11055-minus032-nov12"},
+        {"d":"2026-11-13","s":"omxs30-335937-flat-nov12"},
+        {"d":"2026-11-13","s":"nordic-movers-saab-boliden-trump-remarks-nov12"},
+        {"d":"2026-11-13","s":"irlab-collapsed-stockholm-nov12"},
+        {"d":"2026-11-16","s":"hormuz-tanker-mining-sank-nov15-developing"},
+        {"d":"2026-11-16","s":"iran-trump-no-deal-needed-nov13"},
+        {"d":"2026-11-16","s":"ukraine-witkoff-kushner-putin-moscow-nov12"},
+        {"d":"2026-11-16","s":"saudi-houthi-drones-intercepted-nov15"},
+        {"d":"2026-11-16","s":"canary-islands-1500-migrants-daily-nov15"},
+        {"d":"2026-11-16","s":"asean-summit-modi-philippines-nov16"},
+        {"d":"2026-11-16","s":"pope-leo-andes-amazon-nov16"},
+        {"d":"2026-11-16","s":"us10y-515-approx-fri13nov"},
+        {"d":"2026-11-16","s":"bund-10y-unverified-nov13"},
+        {"d":"2026-11-16","s":"eurusd-11023-fri13nov"},
+        {"d":"2026-11-16","s":"omxh25-633269-minus014-fri13nov"},
+        {"d":"2026-11-16","s":"omxs30-335687-minus007-fri13nov"},
+        {"d":"2026-11-16","s":"omxc25-unverified-nov13"},
+        {"d":"2026-11-16","s":"obx-unverified-nov13"},
+        {"d":"2026-11-16","s":"equinor-obx-top-performer-nov13"},
+        {"d":"2026-11-16","s":"england-32-spain-nations-league-nov14"},
+        {"d":"2026-11-17","s":"nvda-huang-resigned-kress-interim-nov15"},
+        {"d":"2026-11-17","s":"anthropic-ant-ipo-6x-oversubscribed-pricing-nov18"},
+        {"d":"2026-11-17","s":"us10y-513-minus1bp-nov17"},
+        {"d":"2026-11-17","s":"bund10y-338-plus1bp-nov16"},
+        {"d":"2026-11-17","s":"eurusd-11006-plus008pct-nov17"},
+        {"d":"2026-11-17","s":"omxh25-628967-minus068-nov17"},
+        {"d":"2026-11-17","s":"obx-minus038pct-mon-nov16"},
+        {"d":"2026-11-17","s":"equinor-no-minus294-nov16"},
+        {"d":"2026-11-17","s":"novo-nordisk-dk-plus244-nov16"},
+        {"d":"2026-11-18","s":"nvda-ceo-probe-congressional-hearing-today-nov18"},
+        {"d":"2026-11-18","s":"anthropic-ipo-pricing-70-78-ant-nasdaq-nov18"},
+        {"d":"2026-11-18","s":"us10y-510-approx-minus3bp-nov17"},
+        {"d":"2026-11-18","s":"bund10y-338-flat-nov17"},
+        {"d":"2026-11-18","s":"omxh25-617405-minus184-nov17-verified"},
+        {"d":"2026-11-18","s":"omxs30-328748-minus163-nov17-verified"},
+        {"d":"2026-11-19","s":"ukraine-shenzhen-uschinarussia-summit-nov19"},
+        {"d":"2026-11-19","s":"bank-indonesia-25bp-hike-6pct-nov19"},
+        {"d":"2026-11-19","s":"canada-sanctions-israeli-settlers-nov19"},
+        {"d":"2026-11-19","s":"us-conviction-haiti-assassination-pastor-nov19"},
+        {"d":"2026-11-19","s":"germany-coalition-willing-ukraine-nov19"},
+        {"d":"2026-11-19","s":"us10y-507-minus3bp-nov18-treasury"},
+        {"d":"2026-11-19","s":"bund10y-unverified-nov19"},
+        {"d":"2026-11-19","s":"eurusd-unverified-nov19"},
+        {"d":"2026-11-19","s":"omxh25-610859-minus106-nov18"},
+        {"d":"2026-11-19","s":"omxs30-325621-minus095-nov18"},
+        {"d":"2026-11-19","s":"omxc25-unverified-nov19"},
+        {"d":"2026-11-19","s":"obx-unverified-nov19"},
+        {"d":"2026-11-19","s":"boliden-se-minus37-nov18"},
+        {"d":"2026-11-19","s":"sandvik-se-minus26-nov18"},
+        {"d":"2026-11-19","s":"salmar-no-plus222-598-nov18"},
+        {"d":"2026-11-19","s":"nkt-dk-plus036-837-nov18"},
+        {"d":"2026-11-19","s":"aes-ferc-334bn-approved-nov17"},
+        {"d":"2026-11-19","s":"paloalto-applied-compute-45bn-nov18"},
+        {"d":"2026-11-19","s":"nordic-capital-carygroup-3bn-nov17"},
+        {"d":"2026-11-20","s":"trump-xi-putin-summit-concluded-nov20"},
+        {"d":"2026-11-20","s":"anthropic-ant-nasdaq-trading-nov20"},
+        {"d":"2026-11-20","s":"trump-iran-no-deal-postsummit-nov20"},
+        {"d":"2026-11-20","s":"ukraine-abudhabi-prisonerswap-nov20"},
+        {"d":"2026-11-20","s":"ukraine-russia-refinery-strikes-nov20"},
+        {"d":"2026-11-20","s":"sp500-6thloss-dow1100-nov19"},
+        {"d":"2026-11-20","s":"managed-care-hum-unh-elv-selloff-nov19"},
+        {"d":"2026-11-20","s":"pdd-plus11-q3-nov19"},
+        {"d":"2026-11-20","s":"amd-minus77-china-blacklist-nov19"},
+        {"d":"2026-11-20","s":"us10y-502-minus3bp-nov20"},
+        {"d":"2026-11-20","s":"bund-unverified-nov20"},
+        {"d":"2026-11-20","s":"eurusd-10992-ecb-nov19"},
+        {"d":"2026-11-20","s":"omxh25-609006-minus030-nov19"},
+        {"d":"2026-11-20","s":"omxs30-325672-plus002-nov19"},
+        {"d":"2026-11-20","s":"omxc25-unverified-nov20"},
+        {"d":"2026-11-20","s":"obx-unverified-nov20"},
+        {"d":"2026-11-23","s":"nvda-sec-accounting-probe-minus14-fri20nov"},
+        {"d":"2026-11-23","s":"iran-trump-dirtybomb-military-threat-sat21nov"},
+        {"d":"2026-11-23","s":"ai-selloff-sp500-correction-nasdaq-erases2026gains"},
+        {"d":"2026-11-23","s":"denmark-expels-russia-defence-attache-sat21nov"},
+        {"d":"2026-11-23","s":"germany-merz-qatar-defence-energy-pact-sat21nov"},
+        {"d":"2026-11-23","s":"iea-oil-market-surplus-firstsince-iran-war"},
+        {"d":"2026-11-23","s":"china-iraqi-crude-us-blockade-iran-oil"},
+        {"d":"2026-11-23","s":"lufthansa-1000-jobs-cut-ninemonth-loss"},
+        {"d":"2026-11-23","s":"us10y-4912-minus14bp-fri20nov"},
+        {"d":"2026-11-23","s":"eurusd-10982-unverified-mon23nov"},
+        {"d":"2026-11-23","s":"amd-nasdaq-minus133-fri20nov-nvda-probe"},
+        {"d":"2026-11-23","s":"omxh25-590512-minus304-fri20nov"},
+        {"d":"2026-11-23","s":"omxs30-317506-minus251-fri20nov"},
+        {"d":"2026-11-23","s":"bundesliga-dortmund-top-leipzig51-sat21nov"},
+        {"d":"2026-11-23","s":"bundesliga-sun22nov-augsburg-bremen"},
         {"d":"2026-11-24","s":"nvda-huang-reinstated-ceo-nov23-plus31"},
         {"d":"2026-11-24","s":"iran-hormuz-allmeansthreaten-nov23-trump"},
         {"d":"2026-11-24","s":"iran-judiciary-290bn-damages-claim-nov23"},
@@ -500,7 +134,14 @@
         {"d":"2026-11-25","s":"israel-kills-hamas-security-abu-nahel-nov24"},
         {"d":"2026-11-25","s":"china-shenzhou24-pakistan-astronaut-nov24"},
         {"d":"2026-11-25","s":"indonesia-factory-fire-24killed-nov24"},
-        {"d":"2026-11-25","s":"rates-fx-nordic-unverified-nov24"}
+        {"d":"2026-11-25","s":"rates-fx-nordic-unverified-nov24"},
+        {"d":"2026-11-26","s":"hormuz-virtually-paralyzed-5tankers-nov25"},
+        {"d":"2026-11-26","s":"russia-strikes-ukraine-energy-nov25"},
+        {"d":"2026-11-26","s":"sanofi-insmed-41bn-nov24"},
+        {"d":"2026-11-26","s":"us10y-4848-minus56bp-nov25"},
+        {"d":"2026-11-26","s":"bund10y-322-minus4bp-nov25-search"},
+        {"d":"2026-11-26","s":"eurusd-10935-ecb-ref-nov25"},
+        {"d":"2026-11-26","s":"nordic-indices-unverified-nov25"}
     ],
-    "last_updated": "2026-11-25"
+    "last_updated": "2026-11-26"
 }
