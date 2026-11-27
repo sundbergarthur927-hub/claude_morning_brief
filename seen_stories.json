@@ -1,20 +1,5 @@
 {
     "stories": [
-        {"d":"2026-11-12","s":"iran-ceasefire-enriched-uranium-red-line-nov11"},
-        {"d":"2026-11-12","s":"ukraine-abudhabi-round2-prisoner-exchange-nov11"},
-        {"d":"2026-11-12","s":"hormuz-tanker-attack-oil-rises-nov11"},
-        {"d":"2026-11-12","s":"coreweave-q3-beat-raise-plus25-nov11"},
-        {"d":"2026-11-12","s":"trump-nsc-iran-strikes-review-nov11"},
-        {"d":"2026-11-12","s":"anthropic-ipo-marketing-opens-nov12"},
-        {"d":"2026-11-12","s":"us10y-499-flat-nov12"},
-        {"d":"2026-11-12","s":"bund-332-plus2bp-nov11"},
-        {"d":"2026-11-12","s":"eurusd-11127-minus078-ecb-nov11"},
-        {"d":"2026-11-12","s":"omxh25-632798-plus072-nov11-nasdaq"},
-        {"d":"2026-11-12","s":"omxs30-athhigh-plus097-nov11"},
-        {"d":"2026-11-12","s":"sandisk-plus158-nov11-sp500"},
-        {"d":"2026-11-12","s":"charter-chtr-plus106-nov11"},
-        {"d":"2026-11-12","s":"moderna-mrna-minus68-nov11"},
-        {"d":"2026-11-12","s":"scandic-q3-record-profit-dalata-nov10"},
         {"d":"2026-11-13","s":"nvda-ceo-probe-hearing-nov18-fbi-nov12"},
         {"d":"2026-11-13","s":"us10y-513-approx-nov12-asian-session"},
         {"d":"2026-11-13","s":"eurusd-11055-minus032-nov12"},
@@ -141,7 +126,22 @@
         {"d":"2026-11-26","s":"us10y-4848-minus56bp-nov25"},
         {"d":"2026-11-26","s":"bund10y-322-minus4bp-nov25-search"},
         {"d":"2026-11-26","s":"eurusd-10935-ecb-ref-nov25"},
-        {"d":"2026-11-26","s":"nordic-indices-unverified-nov25"}
+        {"d":"2026-11-26","s":"nordic-indices-unverified-nov25"},
+        {"d":"2026-11-27","s":"hormuz-vessel-coordination-mandate-kuwait-drones-nov26"},
+        {"d":"2026-11-27","s":"russia-113drone-missile-attack-ukraine-nov26"},
+        {"d":"2026-11-27","s":"us-621m-f16-sustainment-ukraine-nov26"},
+        {"d":"2026-11-27","s":"saudi-intercepts-houthi-ballistic-riyadh-nov26"},
+        {"d":"2026-11-27","s":"trump-rutte-mar-a-lago-iran-ukraine-nov26"},
+        {"d":"2026-11-27","s":"iran-7conditions-qatar-pakistan-mediators-nov26"},
+        {"d":"2026-11-27","s":"eu-leaders-putin-summit-engagement-nov26"},
+        {"d":"2026-11-27","s":"us10y-492-plus4bp-nov27"},
+        {"d":"2026-11-27","s":"bund10y-326-plus4bp-nov26-close"},
+        {"d":"2026-11-27","s":"eurusd-10975-plus005pct-nov27"},
+        {"d":"2026-11-27","s":"omxh25-599473-plus218-nov26"},
+        {"d":"2026-11-27","s":"omxs30-325138-plus198-nov26"},
+        {"d":"2026-11-27","s":"obx-plus150-nov26"},
+        {"d":"2026-11-27","s":"nordic-semiconductor-no-plus62-nov26"},
+        {"d":"2026-11-27","s":"nkt-dk-plus49-74550-nov26"}
     ],
-    "last_updated": "2026-11-26"
+    "last_updated": "2026-11-27"
 }
